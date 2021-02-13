@@ -91,5 +91,8 @@ le dicen "La 15")
 39- Plaza Abaroa
 40- Plaza 15
 
-
+- Mar,
+- Playa,
+- Puerto,
+- Lago
 
