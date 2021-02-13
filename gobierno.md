@@ -2,8 +2,35 @@
 layout: default
 ---
 
-<h2>Gobierno</h2>
+<h2>Gobierno de Blair Sander</h2>
 
+<h3>AUTORIDADES: CONSEJO DE ESTADO</h3>
+
+- PRESIDENTE
+  - Reif
+- VICEPRESIDENTES
+  - Awen
+  - Maite
+- SECRETARIA GENERAL 
+  - Nisha
+- TESORERA
+  - Riva
+- MINISTROS
+  - Ministro de Seguridad y Defensa: Fausto
+  - Ministro de Educación: 
+  - Ministro de Ciencia y Tecnología
+  - Ministro de Asuntos Civiles
+  - Ministro de Justicia
+  - Ministro de Protección Medioambiental
+  - Ministro de Construcción y Desarrollo Urbano - Rural	
+  - Ministro de Transportes	
+  - Ministro de Industria y Tecnología Informática	
+  - Ministro de Agricultura	
+  - Ministro de Obras Hidráulicas	
+  - Ministro de Comercio	
+  - Ministro de Cultura
+  - Ministro de Salud
+  
 <h3>SECTORES</h3>
 Los entes de gobernanza metropolitana son organismos
 institucionalizados que cumplen funciones para más de un sector, es decir, son multisectoriales.
@@ -65,17 +92,4 @@ se identificaron cinco posibles fuentes:
 - Préstamos o concesiones
 
 
-<h3>PRESIDENTE</h3>
-- Presidente del Consejo de Administración.
-  - El Presidente es elegido a título personal por el mismo Consejo
-  - El Presidente es reelegible.
-  - El Presidente representa a la Asociación en todos los actos de la vida civil. 
 
-<h3>VICEPRESIDENTE</h3>
-
-<h3>SECRETARIO GENERAL</h3>
-La Secretaría General desarrolla y coordina las relaciones entre los miembros y aplica las decisiones de las Asambleas Generales
-
-<h3>TESORERO</h3>
-
-<h3>COMITÉ EJECUTIVO</h3>
