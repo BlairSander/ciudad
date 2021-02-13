@@ -21,7 +21,7 @@ https://azgaar.github.io/Fantasy-Map-Generator/
 1. Puerto Citrino
 1. Gialo
 1. Aster
-1. .....
+1. Reverie
 1. Midsommar
 1. Alen
 1. Kepler
