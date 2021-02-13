@@ -16,6 +16,7 @@ layout: default
 - TESORERA
   - Riva
 - MINISTROS
+
 | Nombre | Cargo |
 |:-------------|:------------------|
 | Fausto | Ministro de Seguridad y Defensa|  
