@@ -21,7 +21,7 @@ https://azgaar.github.io/Fantasy-Map-Generator/
 1. Puerto Citrino
 1. Amarillo
 1. Acer
-1. C-5
+1. Dienor
 1. Midsommar
 1. Alen
 1. C-8
