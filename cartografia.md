@@ -15,7 +15,9 @@ Temperaturas
 File. 
 https://azgaar.github.io/Fantasy-Map-Generator/
 
-<h3>CIUDADES</h3>
+<h3>PLANOS</h3>
+
+Ciudades
 
 1. Blair Sander
 1. Puerto Citrino
@@ -33,8 +35,6 @@ https://azgaar.github.io/Fantasy-Map-Generator/
 1. Delta
 1. Strega (Es una villa miseria,
 le dicen "La 15")
-
-<h3>ZONA VERDE</h3>
 
 Bosques
 
