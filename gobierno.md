@@ -16,20 +16,22 @@ layout: default
 - TESORERA
   - Riva
 - MINISTROS
-  - Ministro de Seguridad y Defensa: Fausto
-  - Ministro de Educación: Coral
-  - Ministro de Ciencia y Tecnología: Bianca
-  - Ministro de Asuntos Civiles
-  - Ministro de Justicia: Euler
-  - Ministro de Protección Medioambiental: Ray
-  - Ministro de Construcción y Desarrollo Urbano - Rural	
-  - Ministro de Transportes: Tanis	
-  - Ministro de Industria y Tecnología Informática: Dark
-  - Ministro de Agricultura	
-  - Ministro de Obras Hidráulicas	
-  - Ministro de Comercio	
-  - Ministro de Cultura: Roberto Arlt (Natacha)
-  - Ministro de Salud: Renan
+| Nombre | Cargo |
+|:-------------|:------------------|
+| Fausto | Ministro de Seguridad y Defensa|  
+| Coral | Ministro de Educación|
+| Bianca| Ministro de Ciencia y Tecnología| 
+| Euler | Ministro de Asuntos Civiles|
+| | Ministro de Justicia|
+| Ray | Ministro de Protección Medioambiental|
+| | Ministro de Construcción y Desarrollo Urbano - Rural	|
+| Tanis| Ministro de Transportes|
+| Kratzer | Ministro de Industria y Tecnología Informática|
+| | Ministro de Agricultura	|
+| | Ministro de Obras Hidráulicas	|
+| | Ministro de Comercio	|
+| Roberto Arlt (Natacha)| Ministro de Cultura|
+| Renan| Ministro de Salud|
   
 <h3>SECTORES</h3>
 Los entes de gobernanza metropolitana son organismos
