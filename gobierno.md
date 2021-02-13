@@ -17,8 +17,8 @@ layout: default
   - Riva
 - MINISTROS
   - Ministro de Seguridad y Defensa: Fausto
-  - Ministro de Educación: 
-  - Ministro de Ciencia y Tecnología
+  - Ministro de Educación: Coral
+  - Ministro de Ciencia y Tecnología: Tanis
   - Ministro de Asuntos Civiles
   - Ministro de Justicia
   - Ministro de Protección Medioambiental
