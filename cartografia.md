@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<h2>Cartografía</h2>
-
-<h2>PLANISFERIO</h2>
+<h2>Planisferio</h2>
 
 <h4>Países: Blair - Invernalia</h4>
 ![Paises](http://drive.google.com/uc?export=view&id=1vvbqAFYS2Zv5n7AS51cOy8DQoMIPNhcu)
@@ -17,7 +15,7 @@ layout: default
 
 [File.map](https://drive.google.com/uc?export=download&id=18P372jpeVxu3HGBLmYWYoF0Kdl3C7ZTw) site: https://azgaar.github.io/Fantasy-Map-Generator/
 
-<h2>PLANOS</h2>
+<h2>Planos</h2>
 
 <h4>Ciudades</h4>
 
