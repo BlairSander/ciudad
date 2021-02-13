@@ -24,7 +24,7 @@ layout: default
   - Ministro de Protección Medioambiental: Ray
   - Ministro de Construcción y Desarrollo Urbano - Rural	
   - Ministro de Transportes: Tanis	
-  - Ministro de Industria y Tecnología Informática: Agnes
+  - Ministro de Industria y Tecnología Informática: Dark
   - Ministro de Agricultura	
   - Ministro de Obras Hidráulicas	
   - Ministro de Comercio	
