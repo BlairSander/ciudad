@@ -19,16 +19,16 @@ https://azgaar.github.io/Fantasy-Map-Generator/
 
 1. Blair Sander
 1. Puerto Citrino
-1. Amarillo
-1. Acer
-1. Dienor
+1. Gialo
+1. Aster
+1. -----
 1. Midsommar
 1. Alen
 1. Kepler
 1. Turen
 1. Zona Roja
 1. Kavensport
-1. C-12
+1. Deacon
 1. Tadmor	
 1. Delta
 1. C-15 (Es una villa miseria,
