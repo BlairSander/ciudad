@@ -17,9 +17,9 @@ layout: default
 
 <h2>Planos</h2>
 
-<h4>Ciudades</h4>
+<h4>Municipios</h4>
 
-1. Blair Sander
+1. Blair Sander ciudad
 1. Puerto Citrino
 1. Gialo
 1. Aster
