@@ -4,7 +4,7 @@ layout: default
 
 <h2>Organismos</h2>
 
-ORGANISMO ► CATEGORÍA CPV/CPB ► URL IDEAS ► PERSONAJES
+ORGANISMO ► PERSONAJES ► URL IDEAS
 
 CPB: Empresa
 - Banco ► 
@@ -134,4 +134,6 @@ CPB: Municipalidad
 
 
 
-<small>CPV:ConsumoPrivado CPB:ConsumoPúblico</small>
+<small>CATEGORÍA CPV/CPB 
+CPV:ConsumoPrivado 
+CPB:ConsumoPúblico</small>
