@@ -18,18 +18,18 @@ layout: default
 - MINISTROS
   - Ministro de Seguridad y Defensa: Fausto
   - Ministro de Educación: Coral
-  - Ministro de Ciencia y Tecnología: Tanis
+  - Ministro de Ciencia y Tecnología: Bianca
   - Ministro de Asuntos Civiles
   - Ministro de Justicia
   - Ministro de Protección Medioambiental
   - Ministro de Construcción y Desarrollo Urbano - Rural	
-  - Ministro de Transportes	
-  - Ministro de Industria y Tecnología Informática	
+  - Ministro de Transportes: Tanis	
+  - Ministro de Industria y Tecnología Informática: Agnes
   - Ministro de Agricultura	
   - Ministro de Obras Hidráulicas	
   - Ministro de Comercio	
   - Ministro de Cultura
-  - Ministro de Salud
+  - Ministro de Salud: Renan
   
 <h3>SECTORES</h3>
 Los entes de gobernanza metropolitana son organismos
