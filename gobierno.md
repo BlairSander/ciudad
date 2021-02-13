@@ -22,8 +22,8 @@ layout: default
 | Fausto | Ministro de Seguridad y Defensa|  
 | Coral | Ministro de Educación|
 | Bianca| Ministro de Ciencia y Tecnología| 
-| Euler | Ministro de Asuntos Civiles|
-| | Ministro de Justicia|
+|  | Ministro de Asuntos Civiles|
+| Euler | Ministro de Justicia|
 | Ray | Ministro de Protección Medioambiental|
 | | Ministro de Construcción y Desarrollo Urbano - Rural	|
 | Tanis| Ministro de Transportes|
