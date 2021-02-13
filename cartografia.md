@@ -4,22 +4,22 @@ layout: default
 
 <h2>Cartografía</h2>
 
-<h3>PLANISFERIO</h3>
+<h2>PLANISFERIO</h2>
 
-Países
+<h4>Países: Blair - Invernalia</h4>
 ![Paises](http://drive.google.com/uc?export=view&id=1vvbqAFYS2Zv5n7AS51cOy8DQoMIPNhcu)
 
-Biomas
+<h4>Biomas</h4>
 ![Biomas](http://drive.google.com/uc?export=view&id=1KEiCFGPA36qdY2vU8q5kCWFhnqWyKTk-)
 
-Temperaturas
+<h4>Temperaturas</h4>
 ![Temperatura](http://drive.google.com/uc?export=view&id=19AnQfB9sv1iajcfPsh16XNgnuTEv9xQW)
 
 [File.map](https://drive.google.com/uc?export=download&id=18P372jpeVxu3HGBLmYWYoF0Kdl3C7ZTw) site: https://azgaar.github.io/Fantasy-Map-Generator/
 
-<h3>PLANOS</h3>
+<h2>PLANOS</h2>
 
-Ciudades
+<h4>Ciudades</h4>
 
 1. Blair Sander
 1. Puerto Citrino
@@ -38,7 +38,7 @@ Ciudades
 1. Strega (Es una villa miseria,
 le dicen "La 15")
 
-Bosques
+<h4>Bosques</h4>
 
 1 Bosque Deacon
 2 Bosque Citrino
@@ -48,9 +48,9 @@ Bosques
 6 Bosque Midsommar
 7 Bosque Staedtler
 
-Parques
+<h4>Parques</h4>
 
-Plazas
+<h4>Plazas</h4>
 
 1- Plaza D
 2- Plaza C
