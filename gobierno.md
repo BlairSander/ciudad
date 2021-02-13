@@ -28,7 +28,7 @@ layout: default
   - Ministro de Agricultura	
   - Ministro de Obras Hidráulicas	
   - Ministro de Comercio	
-  - Ministro de Cultura
+  - Ministro de Cultura: Roberto Arlt (Natacha)
   - Ministro de Salud: Renan
   
 <h3>SECTORES</h3>
