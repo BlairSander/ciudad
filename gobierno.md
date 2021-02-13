@@ -20,7 +20,7 @@ layout: default
   - Ministro de Educación: Coral
   - Ministro de Ciencia y Tecnología: Bianca
   - Ministro de Asuntos Civiles
-  - Ministro de Justicia
+  - Ministro de Justicia: Euler
   - Ministro de Protección Medioambiental: Ray
   - Ministro de Construcción y Desarrollo Urbano - Rural	
   - Ministro de Transportes: Tanis	
