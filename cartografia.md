@@ -21,7 +21,7 @@ https://azgaar.github.io/Fantasy-Map-Generator/
 1. Puerto Citrino
 1. Gialo
 1. Aster
-1. -----
+1. .....
 1. Midsommar
 1. Alen
 1. Kepler
@@ -31,5 +31,5 @@ https://azgaar.github.io/Fantasy-Map-Generator/
 1. Deacon
 1. Tadmor	
 1. Delta
-1. C-15 (Es una villa miseria,
+1. Strega (Es una villa miseria,
 le dicen "La 15")
