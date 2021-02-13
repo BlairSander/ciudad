@@ -24,12 +24,12 @@ https://azgaar.github.io/Fantasy-Map-Generator/
 1. Dienor
 1. Midsommar
 1. Alen
-1. C-8
+1. Kepler
 1. Turen
 1. Zona Roja
-1. ENSASA
+1. Kavensport
 1. C-12
-1. C-13
+1. Tadmor	
 1. Delta
 1. C-15 (Es una villa miseria,
 le dicen "La 15")
