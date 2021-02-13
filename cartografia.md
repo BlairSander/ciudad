@@ -21,15 +21,15 @@ https://azgaar.github.io/Fantasy-Map-Generator/
 1. Puerto Citrino
 1. Amarillo
 1. Acer
-1. Ciudad5
-1. Ciudad6
-1. Roca
-1. Ciudad8
-1. Ciudad9
+1. C-5
+1. Midsommar
+1. C-7
+1. C-8
+1. Turen
 1. Zona Roja
 1. ENSASA
-1. Dique 1
-1. Ciudad13
+1. C-12
+1. C-13
 1. Alen
-1. Ciudad15 (Es una villa miseria,
+1. C-15 (Es una villa miseria,
 le dicen "La 15")
