@@ -21,7 +21,7 @@ layout: default
   - Ministro de Ciencia y Tecnología: Bianca
   - Ministro de Asuntos Civiles
   - Ministro de Justicia
-  - Ministro de Protección Medioambiental
+  - Ministro de Protección Medioambiental: Ray
   - Ministro de Construcción y Desarrollo Urbano - Rural	
   - Ministro de Transportes: Tanis	
   - Ministro de Industria y Tecnología Informática: Agnes
