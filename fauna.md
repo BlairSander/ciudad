@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2>Fauna</h2>
+<h2>Fauna Blair Sander</h2>
 
 **Ciudad de Turen**
 En la ciudad de Turen se encuentran Murciélagos, Ratas gigantes, Jaurías de perros salvajes. 
@@ -16,3 +16,7 @@ Por otro lado, en las costas de la península se halla el oso pardo y otras espe
 
 **Áreas Montañosas**
 En las áreas montañosas se encuentran cabras montesas, marmotas, zorros, comadrejas y liebres alpinas. Asimismo, también conviven águilas ratoneras, buitres, halcones y reptiles (Podarcis siculus coeruleus, serpientes y tres especies de víboras venenosas). También son abundantes los escorpiones.
+
+<h2>Fauna Invernalia</h2>
+
+En sus aguas habitan ballenas, focas, morsas y nutrias marinas. Se pueden encontrar también al oso polar, oso pardo y oso negro. Existen grandes rebaños de Renos y manadas de lobos. Otros mamíferos que se pueden encontrar son el alce, el castor, el glotón, el visón, la nutria, la liebre de las nieves.
