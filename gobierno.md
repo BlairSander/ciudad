@@ -4,6 +4,7 @@ layout: default
 
 <h2>Gobierno</h2>
 
+<h3>SECTORES</h3>
 Los entes de gobernanza metropolitana son organismos
 institucionalizados que cumplen funciones para más de un sector, es decir, son multisectoriales.
 Estos sectores fueron clasificados y ordenados alfabéticamente de la siguiente manera:
@@ -24,9 +25,7 @@ entes y que no estén contempladas entre los sectores elegidos, tales como turis
 esparcimiento, entre otros. 
 
 <h3>FUNCIONES DEL GOBIERNO METROPOLITANO</h3>
-En cuanto a las funciones se elaboró una categorización que va de mayor a menor según el
-grado de autoridad o poder de la institución metropolitana. La escala de funciones queda
-conformada de la siguiente manera:
+Categorización ordenada de mayor a menor según el grado de autoridad o poder de la institución metropolitana:
 - Control: “poder de policía”. Implica la capacidad de poner multas a actores públicos y
 privados ante situaciones de incumplimiento con ordenanzas, normativas y planes, el
 poder de clausurar actividades consideradas negativas para el área metropolitana, y la
@@ -54,6 +53,16 @@ A partir de estas categorías de funciones de los entes y de los sectores coordi
 configuró una grilla que nos permitió sistematizar la información y visualizarla de forma clara y
 sencilla. Este trabajo se realizó con cada uno de los entes de gobernanza metropolitana estudiados
 para entender qué hace y sobre qué sectores opera. 
+
+<h3>FINANCIAMIENTO</h3>
+¿Cómo se financia?
+Es interesante entender de dónde proviene el dinero que financia el organismo. Para esto,
+se identificaron cinco posibles fuentes:
+- Transferencias desde Municipios
+- Transferencias de Nación
+- Transferencias de Provincia
+- Tasas o cobro de servicios
+- Préstamos o concesiones
 
 
 <h3>PRESIDENTE</h3>
