@@ -83,8 +83,7 @@ para entender qué hace y sobre qué sectores opera.
 
 <h3>FINANCIAMIENTO</h3>
 ¿Cómo se financia?
-Es interesante entender de dónde proviene el dinero que financia el organismo. Para esto,
-se identificaron cinco posibles fuentes:
+El dinero que financia el organismo puede provenir de cinco posibles fuentes:
 - Transferencias desde Municipios
 - Transferencias de Nación
 - Transferencias de Provincia
