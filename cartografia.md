@@ -98,12 +98,5 @@ le dicen "La 15")
 - Lago
 
 <h4>Info</h4>
-tif 
-
-![callestif](http://drive.google.com/uc?export=view&id=1txRdPE3CuZVva9wosFXOgmTUVA5v60Tm)
-
-
-![callesgif](http://drive.google.com/uc?export=view&id=1MA1YA6kISyxroxUHOrd30VjdEDWHaw3K)
-
 
 ![callespng](http://drive.google.com/uc?export=view&id=1mSd36QUwBhSlXb-JCqnH0TalrIyME0Nj)
