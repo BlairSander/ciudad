@@ -4,4 +4,8 @@ layout: default
 
 <h2>Viviendas OCS</h2>
 
-fsdfsdf
+
+<h4>Plano</h4>
+![planoocs](http://drive.google.com/uc?export=view&id=1M0Og6TFNzZG4si31fPmWkbnzWbJglekd)
+
+[File.map](https://drive.google.com/uc?export=download&id=18qELow9rEQamiWaok7Tc9ZS3VpUqg6zp) 
