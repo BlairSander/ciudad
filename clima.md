@@ -2,42 +2,9 @@
 layout: default
 ---
 
-<head>
-  <!-- reference your copy Font Awesome here (from our CDN or by hosting yourself) -->
-  <link href="/your-path-to-fontawesome/css/fontawesome.css" rel="stylesheet">
-  <link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet">
-  <link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet">
-  <style type="text/css">
-    <!-- custom styling for all icons -->
-    i.fas,
-    i.fab {
-      border: 1px solid red;
-    }
-
-    <!-- custom styling for specific icons -->
-    .fa-fish {
-      color: salmon;
-    }
-
-    .fa-frog {
-      color: green;
-    }
-
-    .fa-user-ninja.vanished {
-      opacity: 0.0;
-    }
-
-    .fa-facebook {
-      color: rgb(59, 91, 152);
-    }
-  </style>
-</head>
-<body>
-  <i class="fas fa-fish"></i>
-  <i class="fas fa-frog"></i>
-  <i class="fas fa-user-ninja vanished"></i>
-  <i class="fab fa-facebook"></i>
-</body>
+<i class="fas fa-camera"></i> <!-- this icon's 1) style prefix == fas and 2) icon name == camera -->
+<i class="fas fa-camera"></i> <!-- using an <i> element to reference the icon -->
+<span class="fas fa-camera"></span> <!-- using a <span> element to reference the icon -->
 
 
 <h2>Clima Blair Sander</h2>
