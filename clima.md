@@ -11,4 +11,9 @@ En meses como Enero, durante el día, podemos llegar a los 20/28ºC y, ocasional
 Lugar frío / siempre nieva. Tiene un clima subpolar extremo con invierno seco (clasificación climática de Koppen: Dwd), por lo cual hay demasiada diferencia entre el verano y el invierno. El invierno suele ser terriblemente frío con temperaturas de -56,9 y el verano puede ser de templado a muy frío. Los meses de primavera y otoño son bastante fríos, pero más templados. Además, la ciudad yace entre dos pequeñas cadenas montañosas, que atrapan el aire frío entre ellas todo el año. La temperatura medida en lo alto de dichos cerros resultan ser menos fría (observando este fenómeno cuando el aire estaba quieto), lo que se explica porque el aire frío es más pesado y cae al valle por gravedad (fenómeno denominado inversión térmica), aunque lo normal es que a mayor altura el aire sea más frío.
 
 
-<i class="fas fa-anchor"></i>
+<i class="fas fa-anchor">f13d</i>
+f13d
+
+
+
+<i class="fas fa-anchor"></i>
