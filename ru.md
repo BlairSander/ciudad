@@ -8,8 +8,8 @@
   <meta name="description" content="The HTML5 Herald">
   <meta name="author" content="SitePoint">
 
-    <script src="https://github.com/BlairSander/ciudad/blob/city/playlist/playlist.js" type="text/javascript"></script>
-       <link type="text/css" rel="stylesheet" href="https://github.com/BlairSander/ciudad/blob/city/_sass/playlist.css" />
+    <script src="https://github.com/BlairSander/ciudad/blob/city/assets/js/playlist.js" type="text/javascript"></script>
+       <link type="text/css" rel="stylesheet" href="https://github.com/BlairSander/ciudad/blob/city/assets/css/playlist.css" />
 </head>
 
 <body>
