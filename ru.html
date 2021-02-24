@@ -1,18 +1,4 @@
-<!DOCTYPE HTML>
-<html>
-  <head>
-    <meta charset="utf-8">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>JSFiddle</title>
-
-      <meta name="robots" content="index, follow">
-      <meta name="googlebot" content="index, follow">
-  </head>
-
-    
-    
-    
-    <script>
+<script>
 function cambiarTrack(track) {
    var path =  track.getAttribute("path")
    viejo_audio = document.getElementById("reproductor")
@@ -24,7 +10,7 @@ function cambiarTrack(track) {
   // nuevo_audio.setAttribute("autoplay", "autoplay")
    source = document.createElement("source")
    source.setAttribute("src", path)
-   source.setAttribute("type", "audio/mpeg")
+   source.setAttribute("type", "audio/aac")
    source.setAttribute("id", "reproductorSource")
    nuevo_audio.appendChild(source)
    audio_padre.appendChild(nuevo_audio)}
@@ -36,7 +22,7 @@ function cargarReproductor() {
    nuevo_audio.setAttribute("controls", "controls")       
    source = document.createElement("source")
    source.setAttribute("src", path)
-   source.setAttribute("type", "audio/mpeg")
+   source.setAttribute("type", "audio/aac")
    source.setAttribute("id", "reproductorSource")
    nuevo_audio.appendChild(source)
    padre = document.getElementById("reproductorBox")
@@ -44,24 +30,11 @@ function cargarReproductor() {
 }
 </script>
 <div id="reproductorBox"></div>
-<select id = "selectTrack" multiple onchange="cambiarTrack(this.options[this.selectedIndex]);">
-<option path="../music/take-on-me.mp3">Ah Ah - Take on me</option>
-<option path="../music/dust-in-the-wind.mp3">Kansas - Dust in the wind</option>
-<option path="../music/how-deep-is-your-love.mp3">Bee Geees - How deep is your love</option>
-</select>
+<select class="listar" id = "selectTrack" multiple onchange="cambiarTrack(this.options[this.selectedIndex]);">
+<option path="https://d1qg6pckcqcdk0.cloudfront.net/adultcontemporary/lennonjohn_chrgold31_woman.m4a">John Lennon - Woman</option>
+<option path="https://d1qg6pckcqcdk0.cloudfront.net/adultcontemporary/starship_chrgold26_nothingsgonnastop.m4a">Starship - Nothing's Gonna Stop Us Now</option>
+<option path="https://d1qg6pckcqcdk0.cloudfront.net/adultcontemporary/beegees_chrgold02_howdeepisyourlove.m4a">Bee Gees - How Deep Is Your Love</option>
+<option path="https://d1qg6pckcqcdk0.cloudfront.net/adultcontemporary/fleetwoodmac_chrgold09_dontstop.m4a">Fleetwood Mac - Don't Stop</option>
+</select><br>
 <script>cargarReproductor();</script>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 
-   </html>
