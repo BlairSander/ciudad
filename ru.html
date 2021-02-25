@@ -15,8 +15,8 @@ lup
    nuevo_audio = document.createElement("audio")
    nuevo_audio.setAttribute("id","reproductor")
    nuevo_audio.setAttribute("controls", "controls")
-   nuevo_audio.setAttribute("autoplay", "autoplay")
-        nuevo_audio.setAttribute("loop", "loop")
+   nuevo_audio.setAttribute("autoplay", "autoplay") // se reproduce solo cuando le das un clic sobre el texto de la song
+        nuevo_audio.setAttribute("loop", "loop") // se reproduce de nuevo la misma song, efecto bucle. Si quiero desactivar esta funcion solo le pongo dos barras antes 
    source = document.createElement("source")
    source.setAttribute("src", path)
    source.setAttribute("type", "audio/aac")
@@ -29,8 +29,8 @@ function cargarReproductor() {
    nuevo_audio = document.createElement("audio")
    nuevo_audio.setAttribute("id","reproductor")
    nuevo_audio.setAttribute("controls", "controls")   
-     nuevo_audio.setAttribute("autoplay", "autoplay")
-        nuevo_audio.setAttribute("loop", "loop")
+     nuevo_audio.setAttribute("autoplay", "autoplay") // aca se repite la función de autoplay 
+        nuevo_audio.setAttribute("loop", "loop") // aca se repite la función de bucle 
    source = document.createElement("source")
    source.setAttribute("src", path)
    source.setAttribute("type", "audio/aac")
