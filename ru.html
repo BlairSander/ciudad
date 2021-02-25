@@ -7,6 +7,14 @@ lup
 
 <script>
   
+  changeSrc: function (newSrc) {
+            let self = this;
+            self.unload();
+            self._src = newSrc;
+            self.load();
+        }
+  
+  
    function cambiarTrack(track) {
    var path =  track.getAttribute("path")
    viejo_audio = document.getElementById("reproductor")
