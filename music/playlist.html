@@ -14,7 +14,8 @@ function cambiarTrack(track) {
    nuevo_audio = document.createElement("audio")
    nuevo_audio.setAttribute("id","reproductor")
    nuevo_audio.setAttribute("controls", "controls")
-nuevo_audio.setAttribute("autoplay", "autoplay")
+nuevo_audio.setAttribute("autoplay", "autoplay") // linea de comando para que se reproduzca la song por sí solo. Para desactivarlo ponemos dos barras antes del comando
+          nuevo_audio.setAttribute("loop", "loop") // linea de comando para que se cree un bucle con la misma canción
    source = document.createElement("source")
    source.setAttribute("src", path)
    source.setAttribute("type", "audio/aac")
@@ -26,7 +27,9 @@ function cargarReproductor() {
          var path = select.options[0].getAttribute("path")
    nuevo_audio = document.createElement("audio")
    nuevo_audio.setAttribute("id","reproductor")
-   nuevo_audio.setAttribute("controls", "controls")       
+   nuevo_audio.setAttribute("controls", "controls")  
+   nuevo_audio.setAttribute("autoplay", "autoplay") //para que funcione el autoplay hay que repetir el comando acá abajo
+          nuevo_audio.setAttribute("loop", "loop") //para que funcione el bucle hay que repetir el comando acá abajo
    source = document.createElement("source")
    source.setAttribute("src", path)
    source.setAttribute("type", "audio/aac")
