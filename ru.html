@@ -8,47 +8,67 @@ fgh
 <script>
   
   
-  
-   function cambiarTrack(track) {
-   var path =  track.getAttribute("path")
-   viejo_audio = document.getElementById("reproductor")
-   audio_padre = viejo_audio.parentNode
-   audio_padre.removeChild(viejo_audio)
-   nuevo_audio = document.createElement("audio")
-   nuevo_audio.setAttribute("id","reproductor")
-   nuevo_audio.setAttribute("controls", "controls")
-   nuevo_audio.setAttribute("autoplay", "autoplay") // se reproduce solo cuando le das un clic sobre el texto de la song
-
-     // se reproduce de nuevo la misma song, efecto bucle. Si quiero desactivar esta funcion solo le pongo dos barras antes 
-   source = document.createElement("source")
-   source.setAttribute("src", path)
-   source.setAttribute("type", "audio/aac")
-   source.setAttribute("id", "reproductorSource")
-   nuevo_audio.appendChild(source)
-   audio_padre.appendChild(nuevo_audio)}
-function cargarReproductor() {
-         var select = document.getElementById("selectTrack")
-         var path = select.options[0].getAttribute("path")
-   nuevo_audio = document.createElement("audio")
-   nuevo_audio.setAttribute("id","reproductor")
-   nuevo_audio.setAttribute("controls", "controls")   
-     nuevo_audio.setAttribute("autoplay", "autoplay") // aca se repite la función de autoplay 
- // aca se repite la función de bucle 
-   source = document.createElement("source")
-   source.setAttribute("src", path)
-   source.setAttribute("type", "audio/aac")
-   source.setAttribute("id", "reproductorSource")
-   nuevo_audio.appendChild(source)
-   padre = document.getElementById("reproductorBox")
-   padre.appendChild(nuevo_audio)
-}
+  function audioPlayer(){
+            var currentSong = 0;
+            $("#audioPlayer")[0].src = $("#playlist li a")[0];
+            $("#audioPlayer")[0].play();
+            $("#playlist li a").click(function(e){
+               e.preventDefault(); 
+               $("#audioPlayer")[0].src = this;
+               $("#audioPlayer")[0].play();
+               $("#playlist li").removeClass("current-song");
+                currentSong = $(this).parent().index();
+                $(this).parent().addClass("current-song");
+            });
+            
+            $("#audioPlayer")[0].addEventListener("ended", function(){
+               currentSong++;
+                if(currentSong == $("#playlist li a").length)
+                    currentSong = 0;
+                $("#playlist li").removeClass("current-song");
+                $("#playlist li:eq("+currentSong+")").addClass("current-song");
+                $("#audioPlayer")[0].src = $("#playlist li a")[currentSong].href;
+                $("#audioPlayer")[0].play();
+            });
+        }
 </script>
-<div id="reproductorBox" loop="loop"></div>
-<select class="listar" id = "selectTrack" multiple onchange="cambiarTrack(this.options[this.selectedIndex]);">
-<option path="https://d1qg6pckcqcdk0.cloudfront.net/adultcontemporary/starship_chrgold26_nothingsgonnastop.m4a">Starship - Nothing's Gonna Stop Us Now</option>
-<option path="https://d1qg6pckcqcdk0.cloudfront.net/adultcontemporary/beegees_chrgold02_howdeepisyourlove.m4a">Bee Gees - How Deep Is Your Love</option>
-   <option path="https://dl.dropbox.com/s/z6hrwp55i2dqtmd/Gravestoned.mp3">Cancion con mp3 - equisde </option>
-<option path="https://d1qg6pckcqcdk0.cloudfront.net/adultcontemporary/fleetwoodmac_chrgold09_dontstop.m4a">Fleetwood Mac - Don't Stop</option>
-</select><br>
-<script>cargarReproductor();</script>
 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML5 Audio Player</title>
+    <style>
+        #playlist{
+            list-style: none;
+        }
+        #playlist li a{
+            color:black;
+            text-decoration: none;
+        }
+        #playlist .current-song a{
+            color:blue;
+        }
+    </style>
+    <!-- Source Code From YouTube.com/MicroTechTutorials  you may remove this message on your webpage but please do not redistribtue -->
+</head>
+<body>
+    <p>Demo Music From <a href="http://incompetech.com">incompetech.com</a></p>
+    <audio src="" controls id="audioPlayer">
+        Sorry, your browser doesn't support html5!
+    </audio>
+    <ul id="playlist">
+        <li class="current-song"><a href="Exit%20the%20Premises.mp3">Exit the Premises</a></li>
+        <li><a href="Severe%20Tire%20Damage.mp3">Severe Tire Damage</a></li>
+        <li><a href="Broken%20Reality.mp3">Broken Reality</a></li>
+    </ul>
+    <script src="https://code.jquery.com/jquery-2.2.0.js"></script>
+    <script src="audioPlayer.js"></script>
+    <script>
+        // loads the audio player
+        audioPlayer();
+    </script>
+</body>
+</html>
