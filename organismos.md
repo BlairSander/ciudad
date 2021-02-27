@@ -123,7 +123,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Casa de modas -Sede (Nisha)
 
 
-<h4>DC: ORDEN</h4>
+<h4>ORDEN</h4>
 * Comisaría (Policía) ►  
 * Prisión Lannister ► 
 * Psiquiátrico ►
@@ -131,47 +131,24 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Cementerio ► 
 
 
-<h4>DC: COMUNICACIONES</h4>
+<h4>COMUNICACIONES</h4>
 * Telefonía ►  
 * Correo ► 
 
 
-<h4>DC: TRANSPORTE</h4>
+<h4>TRANSPORTE</h4>
 * Taxi ► 
 * Subte  ► 
 * Tren ► 
 * Líneas de micro ► 
 
-
-<h4>DC: CONTRA INCENDIO Y SALVAMENTO</h4>
+<h4>CONTRA INCENDIO Y SALVAMENTO</h4>
 * Bomberos Voluntarios de BS ► 
 * Policía BS ► 
 * Policía Forense ►
 * Prefectura Naval BS. ► 
 
-
-<h4>DC: ASISTENCIA SANITARIA</h4>
-* Organismo Regulador de Aguas BS (agua potable y desagües cloacales) ► 
-* Vertedero ► 
-
-
-<h4>DC: ASISTENCIA SOCIAL</h4> 
-* Subsecretaría de Desarrollo Humano y Social Municipalidad de BS ► 
-* Obras sociales ►
-    
-
-<h4>DC: INGENIERÍA Y REHABILITACIÓN DE SERVICIOS</h4> 
-* Secretaría de Servicios Públicos ►    
-    
-
-<h4>DC: CONTROL ENERGÉTICO</h4> 
-* ENSASA (Energía Sander Sociedad Anónima) ► 
-    
-
-<h4>DC: CONTROL DEL GAS</h4> 
-* BEGAS (Blair Sander Gas) ►  
-
-<h4>DC: SERVICIO DE SALUD</h4> 
+<h4>DC: SERVICIOS DE SALUD</h4> 
 * Hospital ►  
 * Veterinaria ►  
 * Odontología ►
@@ -179,8 +156,17 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Geriátrico ► 
 * Clínica ► 
 
-<h4>MUNICIPALIDAD</h4> 
-* Áreas municipales ► 
+<h4>SEDES MUNICIPALES</h4> 
+* Municipalidad central
+* Subsecretaría de Desarrollo Humano y Social ► 
+
+<h4>OTROS</h4>
+* Organismo Regulador de Aguas BS (agua potable y desagües cloacales) ► 
+* Vertedero ► 
+* Obras sociales ►
+* Ingeniería y rehabilitación de servicios. Secretaría de Servicios Públicos ►    
+* Control energético ENSASA (Energía Sander Sociedad Anónima) ► 
+* Control de gas BEGAS (Blair Sander Gas) ►  
 
 
 
