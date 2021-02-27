@@ -8,36 +8,36 @@ ORGANISMO ► PERSONAJES ► URL IDEAS
 
 <h4>CONSUMO PRIVADO</h4>
 
-**Zona Roja**
-- Sex Shop ►  
-- Motel ►
-- Hotel ► 
-- Lencería ► 
-- Burdel ► 
-- Prostíbulo Barato ► 
-- Centro Audivisual ► 
-- Cine ►
-- Cyber ► 
-- Línea Erótica (callcenter) ► 
-- Venta drog ►
-- Restaurantes ►
-- Cafés ► 
-- Locales de exibhición ► 
+- **Zona Roja**
+  - Sex Shop ►  
+  - Motel ►
+  - Hotel ► 
+  - Lencería ► 
+  - Burdel ► 
+  - Prostíbulo Barato ► 
+  - Centro Audivisual ► 
+  - Cine ►
+  - Cyber ► 
+  - Línea Erótica (callcenter) ► 
+  - Venta drog ►
+  - Restaurantes ►
+  - Cafés ► 
+  - Locales de exibhición ► 
 
-CPV: Urbanismo: Gastronomía 
-- Comida Rápida ► 
-- Hipermercado ► 
-- Supermercados ►
-- Minimercados ► 
-- Verdulería ► 
-- Carnicería ► 
-- Cafetería ► 
-- Golosinas ► 
-- Heladería ► 
-- Panaderías ► 
-- Restaurantes ► 
-- Bares ► 
-- Kioscos ► 
+- **Urbanismo: Gastronomía** 
+  - Comida Rápida ► 
+  - Hipermercado ► 
+  - Supermercados ►
+  - Minimercados ► 
+  - Verdulería ► 
+  - Carnicería ► 
+  - Cafetería ► 
+  - Golosinas ► 
+  - Heladería ► 
+  - Panaderías ► 
+  - Restaurantes ► 
+  - Bares ► 
+  - Kioscos ► 
 
 CPV: Urbanismo
 - Oficinas 
