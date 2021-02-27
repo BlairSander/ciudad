@@ -169,5 +169,5 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Control de gas BEGAS (Blair Sander Gas) ►  
 
 
-
+<br>
 <small>CATEGORÍA: CPV: ConsumoPrivado / CPB:ConsumoPúblico / DC: Defensa Civil</small>
