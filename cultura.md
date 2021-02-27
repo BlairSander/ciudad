@@ -4,8 +4,7 @@ layout: default
 
 <h2>Cultura</h2>
 
-<h3>Gastronomía:</h3>
-<br>
+<h3>Gastronomía:</h3><br>
 -Restaurante Remi (Dueño-Chef) - Centro Blair
 <br>
 -Confiteria-Cafe Steipast (Dueño: Herz Administrador: Eliot) Puerto Citrino
