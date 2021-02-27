@@ -25,24 +25,24 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Locales de exibhición ► 
 
 <h4>GASTRONOMÍA</h4>
-* Comida Rápida ►
-* Hipermercado ► 
-* Supermercados ►
-* Minimercados ► 
-* Verdulería ► 
-* Carnicería ► 
-* Cafetería ► 
-* [Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html) ► Puerto Citrino
-    * Dueño: Herz 
-    * Administrador: Eliot
-* Golosinas ► 
-* Heladería ► 
-* Panaderías ► 
-* Restaurante ► Centro Blair
-   * Dueño: Remi 
-   * Ayudante: Purín 
-* Bares ► 
-* Kioscos ► 
+- Comida Rápida ►
+- Hipermercado ► 
+- Supermercados ►
+- Minimercados ► 
+- Verdulería ► 
+- Carnicería ► 
+- Cafetería ► 
+- [Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html) ► Puerto Citrino
+    - Dueño: Herz 
+    - Administrador: Eliot
+- Golosinas ► 
+- Heladería ► 
+- Panaderías ► 
+- Restaurante ► Centro Blair
+   - Dueño: Remi 
+   - Ayudante: Purín 
+- Bares ► 
+- Kioscos ► 
 
 <h4>URBANISMO</h4>
 * Oficinas 
