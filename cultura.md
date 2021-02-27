@@ -4,65 +4,35 @@ layout: default
 
 <h2>Cultura</h2>
 
-<h3>Gastronomía:</h3>
-- Restaurante Remi (Dueño-Chef) - Centro Blair
-<br>
-- Confiteria-Cafe Steipast (Dueño: Herz Administrador: Eliot) Puerto Citrino
-<br>
-- Restaurant mariscos/mediterraneo Puerto Citrino (Empleada:Lezne)
-<h3>Museos:</h3>
+<h3> EVENTOS RECREATIVOS</h3>
 
-- Museo de Ciencias Naturales
-<br>
-<h3>Complejo teatral:</h3>
-
--  Teatro 1 : Danzas clásicas
--  Teatro 2 : Obras escénicas, cinematográficas, exposiciones
--  Teatro 3 : Teatro Opera, Talleres 
-
-<h3> Agencias- Estudio de baile - Coreografia</h3>
-- Estudio SM (jefe: Partuza)
-<br>
-<h3>Bares Notables</h3>
-
--  Club nocturno Izan
--  Club nocturno homo 
--  Club nocturno Devi
--  Club nocturno barrio alto
-
-<h3> Deportes: </h3>
-
--  Estadio Unico
--  Estadio de Hielo
--  Clubes-Complejos deportivos: Citrino, Strega, Blair y Tadmor
-
-<h3>Bioparque</h3>
-<h3>Acuario </h3>
-<h3>Centro de escalada deportiva Kavensport </h3>
-<h3>Campo de Paintball</h3>
-<h3>Parque de Diversiones</h3>
-
-
-<h3> Bibliotecas:</h3>
-- Biblioteca Municipal 
-
-<h3> Festivales y ferias</h3>
 - Aniversario de Blair
-<br>
-- Fiesta de la cerveza
-<br>
+- Conciertos
+- Actos culturales
+- Conmemoraciones
+- Inauguraciones en Centros Culturales
+- Presentación de un libro
+- Presentación de una obra
+- Ferias
+- Festival
 - Festival musical
+- Fiesta de la cerveza
+- Carnaval
+- Exposición artística (pinturas, esculturas, etc)
+- Espectáculos callejeros
+- Concursos
 
-<h3>Moda</h3>
-- Casa de modas -Sede (Nisha)
+<h3> EVENTOS DE CAPACITACION</h3>
+- Talleres
+- Seminarios
+- Congresos
+- Ponencias
 
-
-<h3>Centro Audiovisual</h3>
-
-- Cine 1
-- Cine 2
-- Cine 3 
-
-<h3>Iglesia</h3>
-
-<h3>Catedral</h3>
+<h3> EVENTOS DEPORTIVOS</h3>
+- Gran Prix de Hockey sobre hielo
+- Campeonato nacional de natación
+- Campeonato de un club
+- Juegos Deportivos de Invierno
+- Juegos nacionales
+- Carrera atlética en el municipio
+- Torneo de fútbol
