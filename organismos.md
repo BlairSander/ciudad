@@ -148,7 +148,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Policía Forense ►
 * Prefectura Naval BS. ► 
 
-<h4>DC: SERVICIOS DE SALUD</h4> 
+<h4>SERVICIOS DE SALUD</h4> 
 * Hospital ►  
 * Veterinaria ►  
 * Odontología ►
