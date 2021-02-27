@@ -5,13 +5,18 @@ layout: default
 <h2>Cultura</h2>
 
 <h3>Gastronomía:</h3>
+<br>
 -Restaurante Remi (Dueño-Chef) - Centro Blair
+<br>
 -Confiteria-Cafe Steipast (Dueño: Herz Administrador: Eliot) Puerto Citrino
+<br>
 -Restaurant mariscos/mediterraneo Puerto Citrino (Empleada:Lezne)
 
+<br>
 <h3>Museos:</h3>
+<br>
 -Museo de Ciencias Naturales
-
+<br>
 <h3>Complejo teatral:</h3>
 -Teatro 1 : Danzas clásicas
 -Teatro 2 : Obras escénicas, cinematográficas, exposiciones
