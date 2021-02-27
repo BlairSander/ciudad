@@ -160,8 +160,9 @@ layout: default
    - Dueña: Istar
    - Directora: Nerea  
    - Empleada: Enzel
+   - Voluntario Enfermeria: Renan
    - Voluntario: Bernard
    - Voluntaria: Emi
    - Voluntario: Dean
-   - Voluntario: Purin
+   - Voluntario Cocina: Purin
 
