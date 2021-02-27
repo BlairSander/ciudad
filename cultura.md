@@ -30,11 +30,11 @@ layout: default
 -Estadio de Hielo
 -Clubes-Complejos deportivos: Citrino, Strega, Blair y Tadmor
 
-<h3>-Bioparque
--Acuario (1-2)
--Centro de escalada deportiva Kavensport (1)
--Campo de Paintball
--Parque de Diversiones</h3>
+<h3>Bioparque</h3>
+<h3>Acuario </h3>
+<h3>Centro de escalada deportiva Kavensport (1)</h3>
+<h3>Campo de Paintball</h3>
+<h3>Parque de Diversiones</h3>
 
 
 <h3> Bibliotecas:</h3>
