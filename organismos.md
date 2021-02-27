@@ -79,7 +79,12 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Diario ► 
 * Editorial ► 
 * Revista ► 
-* Tv ► 
+* Cine ► 
+* TV Sede canal Música-Telerrealidad-Series ► 
+* TV Sede canal Noticiero-Informativo ► 
+* TV Sede canal Deportes ► 
+* TV Sede canal Cine, Series para adultos ► 
+* TV Sede canal Infantil-Animación-Series ► 
 * Radio ► 
 * YPS (Yacimientos Petrolíferos Sanderianos) ► 
 * Frigoríficos Alen (Matadero y Frigorífico) ► 
@@ -87,12 +92,35 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 
 <h4>CULTURA</h4>
 * Museo de Ciencias Naturales ► 
-* Biblioteca ► 
+* Teatro 1: Danzas clásicas
+* Teatro 2 : Obras escénicas, cinematográficas, exposiciones
+* Teatro 3 : Teatro Opera, Talleres
+* Agencias - Estudio de baile y Coreografia SM  ► 
+    * Jefe: Partuza
+* Biblioteca Municipal ► 
 * Feria ► 
 * Moda ► 
 * Iglesia ► 
 * Catedral ► 
 * Deportes ► 
+* Estadio Unico ► 
+* Estadio de Hielo ► 
+* Clubes-Complejos deportivos ►  Citrino
+* Clubes-Complejos deportivos ►  Strega
+* Clubes-Complejos deportivos ►  Blair
+* Clubes-Complejos deportivos ►  Tadmor
+* Club nocturno ► Centro Blair 
+    * Dueño: Izan
+* Club nocturno homo ► Zona Roja
+* Club nocturno  ► Zona Roja
+    * Jefe: Devi
+* Club nocturno  ► Puerto Citrino
+* Bioparque
+* Acuario
+* Centro de escalada deportiva Kavensport
+* Campo de Paintball
+* Parque de Diversiones
+* Casa de modas -Sede (Nisha)
 
 
 <h4>DC: ORDEN</h4>
