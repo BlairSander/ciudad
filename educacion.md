@@ -156,11 +156,11 @@ layout: default
 - Jardín de Infantes
 - Jardín maternal
 -[Orfanato Magnolia](https://blairsander.github.io/ciudad/orfanato.html) ►  Alen
-- Dueña: Istar
-- Directora: Nerea
-- Empleada: Enzel
-- Voluntario: Bernard
-- Voluntaria: Emi
-- Voluntario: Dean
-- Voluntario: Purin
+ - Dueña: Istar
+ - Directora: Nerea
+ - Empleada: Enzel
+ - Voluntario: Bernard
+ - Voluntaria: Emi
+ - Voluntario: Dean
+ - Voluntario: Purin
 
