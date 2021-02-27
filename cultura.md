@@ -18,6 +18,7 @@ layout: default
 -Teatro 3 : Teatro Opera, Talleres 
 
 <h3> Agencias- Estudio de baile - Coreografia</h3>
+-Estudio SM (jefe: Partuza)
 
 <h3>Bares Notables</h3>
 -Club nocturno Izan
