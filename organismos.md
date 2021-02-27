@@ -24,7 +24,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Cafés ► 
 * Locales de exibhición ► 
 
-<br>
+
 <h4>GASTRONOMÍA</h4>
 - Comida Rápida ►
 - Hipermercado ► 
@@ -47,7 +47,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 - Bares ► 
 - Kioscos ► 
 
-<br>
+
 <h4>URBANISMO</h4>
 * Oficinas 
 * Teatros ► 
@@ -73,7 +73,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Funeraria ► 
 * Grúas ► 
 
-<br>
+
 <h4>EMPRESAS</h4>
 * Banco ► 
 * Diario ► 
@@ -84,7 +84,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * YPS (Yacimientos Petrolíferos Sanderianos) ► 
 * Frigoríficos Alen (Matadero y Frigorífico) ► 
 
-<br>
+
 <h4>CULTURA</h4>
 * Museo de Ciencias Naturales ► 
 * Biblioteca ► 
@@ -94,7 +94,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Catedral ► 
 * Deportes ► 
 
-<br>
+
 <h4>DC: ORDEN</h4>
 * Comisaría (Policía) ►  
 * Prisión Lannister ► 
@@ -102,48 +102,47 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Gendarmería Nacional ► 
 * Cementerio ► 
 
-<br>
+
 <h4>DC: COMUNICACIONES</h4>
 * Telefonía ►  
 * Correo ► 
 
-<br>
+
 <h4>DC: TRANSPORTE</h4>
 * Taxi ► 
 * Subte  ► 
 * Tren ► 
 * Líneas de micro ► 
 
-<br>
+
 <h4>DC: CONTRA INCENDIO Y SALVAMENTO</h4>
 * Bomberos Voluntarios de BS ► 
 * Policía BS ► 
 * Policía Forense ►
 * Prefectura Naval BS. ► 
 
-<br>
+
 <h4>DC: ASISTENCIA SANITARIA</h4>
 * Organismo Regulador de Aguas BS (agua potable y desagües cloacales) ► 
 * Vertedero ► 
 
-<br>
+
 <h4>DC: ASISTENCIA SOCIAL</h4> 
 * Subsecretaría de Desarrollo Humano y Social Municipalidad de BS ► 
 * Obras sociales ►
     
-<br>
+
 <h4>DC: INGENIERÍA Y REHABILITACIÓN DE SERVICIOS</h4> 
 * Secretaría de Servicios Públicos ►    
     
-<br>
+
 <h4>DC: CONTROL ENERGÉTICO</h4> 
 * ENSASA (Energía Sander Sociedad Anónima) ► 
     
-<br>
+
 <h4>DC: CONTROL DEL GAS</h4> 
 * BEGAS (Blair Sander Gas) ►  
-  
-<br>
+
 <h4>DC: SERVICIO DE SALUD</h4> 
 * Hospital ►  
 * Veterinaria ►  
@@ -152,7 +151,6 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Geriátrico ► 
 * Clínica ► 
 
-<br>
 <h4>MUNICIPALIDAD</h4> 
 * Áreas municipales ► 
 
