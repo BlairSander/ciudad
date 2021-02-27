@@ -32,7 +32,9 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Verdulería ► 
 * Carnicería ► 
 * Cafetería ► 
-* [Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html) ► Dueño: Herz / Administrador: Eliot ► Puerto Citrino
+* [Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html) ► Puerto Citrino
+    * Dueño: Herz 
+    * Administrador: Eliot
 * Golosinas ► 
 * Heladería ► 
 * Panaderías ► 
