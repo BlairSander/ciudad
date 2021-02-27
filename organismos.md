@@ -134,6 +134,4 @@ CPB: Municipalidad
 
 
 
-<small>CATEGORÍA CPV/CPB 
-CPV:ConsumoPrivado 
-CPB:ConsumoPúblico</small>
+<small>CATEGORÍA: CPV: ConsumoPrivado / CPB:ConsumoPúblico</small>
