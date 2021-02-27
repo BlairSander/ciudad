@@ -6,17 +6,9 @@ layout: default
 
 ORGANISMO ► PERSONAJES ► URL IDEAS
 
-CPB: Empresa
-- Banco ► 
-- Diario ► 
-- Editorial ► 
-- Revista ► 
-- Tv ► 
-- Radio ► 
-- YPS (Yacimientos Petrolíferos Sanderianos) ► 
-- Frigoríficos Alen (Matadero y Frigorífico) ► 
+<h4>CONSUMO PRIVADO</h4>
 
-CPV: Zona Roja
+**Zona Roja**
 - Sex Shop ►  
 - Motel ►
 - Hotel ► 
@@ -71,6 +63,18 @@ CPV: Urbanismo
 - Gimnasio ► 
 - Funeraria ► 
 - Grúas ► 
+
+<h4>CONSUMO PÚBLICO</h4>
+
+CPB: Empresa
+- Banco ► 
+- Diario ► 
+- Editorial ► 
+- Revista ► 
+- Tv ► 
+- Radio ► 
+- YPS (Yacimientos Petrolíferos Sanderianos) ► 
+- Frigoríficos Alen (Matadero y Frigorífico) ► 
 
 CPB: Cultura 
 - Museo ► 
