@@ -38,7 +38,9 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Golosinas ► 
 * Heladería ► 
 * Panaderías ► 
-* Restaurante ► Dueño: Remi / Ayudante: Purín ► Centro Blair
+* Restaurante ► Centro Blair
+   * Dueño: Remi 
+   * Ayudante: Purín 
 * Bares ► 
 * Kioscos ► 
 
