@@ -4,18 +4,18 @@ layout: default
 
 <h2>Cultura</h2>
 
-<h3>Gastronomía:</h3><br>
+<h3>Gastronomía:</h3>
 -Restaurante Remi (Dueño-Chef) - Centro Blair
 <br>
 -Confiteria-Cafe Steipast (Dueño: Herz Administrador: Eliot) Puerto Citrino
 <br>
 -Restaurant mariscos/mediterraneo Puerto Citrino (Empleada:Lezne)
 <h3>Museos:</h3>
-<br>
+
 -Museo de Ciencias Naturales
 <br>
 <h3>Complejo teatral:</h3>
-<br>
+
 -Teatro 1 : Danzas clásicas
 <br>
 -Teatro 2 : Obras escénicas, cinematográficas, exposiciones
@@ -23,11 +23,10 @@ layout: default
 -Teatro 3 : Teatro Opera, Talleres 
 
 <h3> Agencias- Estudio de baile - Coreografia</h3>
-<br>
 -Estudio SM (jefe: Partuza)
 <br>
 <h3>Bares Notables</h3>
-<br>
+
 -Club nocturno Izan
 <br>
 -Club nocturno homo 
@@ -38,7 +37,7 @@ layout: default
 <br>
 
 <h3> Deportes: </h3>
-<br>
+
 -Estadio Unico
 <br>
 -Estadio de Hielo
@@ -58,7 +57,9 @@ layout: default
 
 <h3> Festivales y ferias</h3>
 -Aniversario de Blair
+<br>
 -Fiesta de la cerveza
+<br>
 -Festival musical
 
 <h3>Moda</h3>
@@ -79,7 +80,7 @@ Canales-Sedes:
 <br>
 
  <h3>Medios Gráficos: Sedes empresariales</h3>
- <br>
+
 -Periódicos
 <br>
 -Revistas
@@ -88,7 +89,7 @@ Canales-Sedes:
 <br>
 
 <h3>Centro Audiovisual</h3>
-<br>
+
 Cine 1
 <br>
 Cine 2
