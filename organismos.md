@@ -38,6 +38,8 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 - Golosinas ► 
 - Heladería ► 
 - Panaderías ► 
+- Restaurant mariscos/mediterraneo ► Puerto Citrino
+    - Empleada: Lezne 
 - Restaurante ► Centro Blair
    - Dueño: Remi 
    - Ayudante: Purín 
