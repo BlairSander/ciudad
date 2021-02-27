@@ -23,12 +23,14 @@ layout: default
 - Concursos
 
 <h3> EVENTOS DE CAPACITACION</h3>
+
 - Talleres
 - Seminarios
 - Congresos
 - Ponencias
 
 <h3> EVENTOS DEPORTIVOS</h3>
+
 - Gran Prix de Hockey sobre hielo
 - Campeonato nacional de natación
 - Campeonato de un club
