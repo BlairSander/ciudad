@@ -4,7 +4,7 @@ layout: default
 
 <h2>Organismos</h2>
 
-ORGANISMO ► PERSONAJES ► URL IDEAS
+ORGANISMO ► PERSONAJES ► MUNICPIO
 
 <h4>ZONA ROJA</h4>
 * Sex Shop ►  
@@ -32,11 +32,11 @@ ORGANISMO ► PERSONAJES ► URL IDEAS
 * Verdulería ► 
 * Carnicería ► 
 * Cafetería ► 
-* [Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html) ► Herz
+* [Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html) ► Dueño: Herz / Administrador: Eliot ► Puerto Citrino
 * Golosinas ► 
 * Heladería ► 
 * Panaderías ► 
-* Restaurantes ► 
+* Restaurante ► Dueño: Remi / Ayudante: Purín ► Centro Blair
 * Bares ► 
 * Kioscos ► 
 
