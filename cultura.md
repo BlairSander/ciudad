@@ -12,7 +12,7 @@ layout: default
 - Restaurant mariscos/mediterraneo Puerto Citrino (Empleada:Lezne)
 <h3>Museos:</h3>
 
--Museo de Ciencias Naturales
+- Museo de Ciencias Naturales
 <br>
 <h3>Complejo teatral:</h3>
 
@@ -51,7 +51,7 @@ layout: default
 <br>
 - Fiesta de la cerveza
 <br>
--Festival musical
+- Festival musical
 
 <h3>Moda</h3>
 - Casa de modas -Sede (Nisha)
