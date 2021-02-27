@@ -25,17 +25,26 @@ layout: default
 <h3> Agencias- Estudio de baile - Coreografia</h3>
 <br>
 -Estudio SM (jefe: Partuza)
-
+<br>
 <h3>Bares Notables</h3>
+<br>
 -Club nocturno Izan
+<br>
 -Club nocturno homo 
+<br>
 -Club nocturno Devi
+<br>
 -Club nocturno barrio alto
+<br>
 
 <h3> Deportes: </h3>
+<br>
 -Estadio Unico
+<br>
 -Estadio de Hielo
+<br>
 -Clubes-Complejos deportivos: Citrino, Strega, Blair y Tadmor
+<br>
 
 <h3>Bioparque</h3>
 <h3>Acuario </h3>
@@ -57,22 +66,35 @@ layout: default
 
 <h3>Medios de comunicación: </h3>
 Canales-Sedes:
+<br>
 -Música-Telerrealidad-Series
+<br>
 -Noticiero-Informativo
+<br>
 -Deportes
+<br>
 -Cine, Series para adultos
+<br>
 -Infantil-Animación-Series
+<br>
 
  <h3>Medios Gráficos: Sedes empresariales</h3>
+ <br>
 -Periódicos
+<br>
 -Revistas
+<br>
 -Industria editorial.
+<br>
 
 <h3>Centro Audiovisual</h3>
-Cine 1 
+<br>
+Cine 1
+<br>
 Cine 2
+<br>
 Cine 3 
-
+<br>
 <h3>Iglesia</h3>
 
 <h3>Catedral</h3>
