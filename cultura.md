@@ -20,21 +20,23 @@ layout: default
 - Carnaval
 - Exposición artística (pinturas, esculturas, etc)
 - Espectáculos callejeros
-- Concursos
-
-<h3> EVENTOS DE CAPACITACION</h3>
-
-- Talleres
-- Seminarios
-- Congresos
-- Ponencias
-
+- Torneo de Paintball
+- Parque de diversiones
+<br>
 <h3> EVENTOS DEPORTIVOS</h3>
 
 - Gran Prix de Hockey sobre hielo
+- Escalada Kavensport
 - Campeonato nacional de natación
 - Campeonato de un club
 - Juegos Deportivos de Invierno
 - Juegos nacionales
 - Carrera atlética en el municipio
 - Torneo de fútbol
+<br>
+<h3> EVENTOS DE CAPACITACION</h3>
+
+- Talleres
+- Seminarios
+- Congresos
+- Ponencias
