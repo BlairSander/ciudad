@@ -44,7 +44,9 @@ layout: default
 * * *
 
 <h3> EVENTOS DE CAPACITACION</h3>
+
 (en centros de educación o bibliotecas)
+
 - Talleres 
 - Seminarios
 - Congresos
