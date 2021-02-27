@@ -5,36 +5,36 @@ layout: default
 <h2>Cultura</h2>
 
 <h3>Gastronomía:</h3>
-* Restaurante Remi (Dueño-Chef) - Centro Blair
+- Restaurante Remi (Dueño-Chef) - Centro Blair
 <br>
-* Confiteria-Cafe Steipast (Dueño: Herz Administrador: Eliot) Puerto Citrino
+- Confiteria-Cafe Steipast (Dueño: Herz Administrador: Eliot) Puerto Citrino
 <br>
-* Restaurant mariscos/mediterraneo Puerto Citrino (Empleada:Lezne)
+- Restaurant mariscos/mediterraneo Puerto Citrino (Empleada:Lezne)
 <h3>Museos:</h3>
 
 -Museo de Ciencias Naturales
 <br>
 <h3>Complejo teatral:</h3>
 
-*  Teatro 1 : Danzas clásicas
-*  Teatro 2 : Obras escénicas, cinematográficas, exposiciones
-*  Teatro 3 : Teatro Opera, Talleres 
+-  Teatro 1 : Danzas clásicas
+-  Teatro 2 : Obras escénicas, cinematográficas, exposiciones
+-  Teatro 3 : Teatro Opera, Talleres 
 
 <h3> Agencias- Estudio de baile - Coreografia</h3>
--Estudio SM (jefe: Partuza)
+- Estudio SM (jefe: Partuza)
 <br>
 <h3>Bares Notables</h3>
 
-*  Club nocturno Izan
-*  Club nocturno homo 
-*  Club nocturno Devi
-*  Club nocturno barrio alto
+-  Club nocturno Izan
+-  Club nocturno homo 
+-  Club nocturno Devi
+-  Club nocturno barrio alto
 
 <h3> Deportes: </h3>
 
-*  Estadio Unico
-*  Estadio de Hielo
-*  Clubes-Complejos deportivos: Citrino, Strega, Blair y Tadmor
+-  Estadio Unico
+-  Estadio de Hielo
+-  Clubes-Complejos deportivos: Citrino, Strega, Blair y Tadmor
 
 <h3>Bioparque</h3>
 <h3>Acuario </h3>
@@ -47,9 +47,9 @@ layout: default
 - Biblioteca Municipal 
 
 <h3> Festivales y ferias</h3>
--Aniversario de Blair
+- Aniversario de Blair
 <br>
--Fiesta de la cerveza
+- Fiesta de la cerveza
 <br>
 -Festival musical
 
@@ -58,30 +58,28 @@ layout: default
 
 <h3>Medios de comunicación: </h3>
 Canales-Sedes:
-* Música-Telerrealidad-Series
-* Noticiero-Informativo
-* Deportes
-* Cine, Series para adultos
-* Infantil-Animación-Series
+- Música-Telerrealidad-Series
+- Noticiero-Informativo
+- Deportes
+- Cine, Series para adultos
+- Infantil-Animación-Series
 
 
  <h3>Medios Gráficos: Sedes empresariales</h3>
 
--Periódicos
+- Periódicos
 <br>
--Revistas
+- Revistas
 <br>
--Industria editorial.
+- Industria editorial.
 <br>
 
 <h3>Centro Audiovisual</h3>
 
-Cine 1
-<br>
-Cine 2
-<br>
-Cine 3 
-<br>
+- Cine 1
+- Cine 2
+- Cine 3 
+
 <h3>Iglesia</h3>
 
 <h3>Catedral</h3>
