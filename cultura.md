@@ -11,18 +11,21 @@ layout: default
 -Confiteria-Cafe Steipast (Dueño: Herz Administrador: Eliot) Puerto Citrino
 <br>
 -Restaurant mariscos/mediterraneo Puerto Citrino (Empleada:Lezne)
-
 <br>
 <h3>Museos:</h3>
 <br>
 -Museo de Ciencias Naturales
 <br>
 <h3>Complejo teatral:</h3>
+<br>
 -Teatro 1 : Danzas clásicas
+<br>
 -Teatro 2 : Obras escénicas, cinematográficas, exposiciones
+<br>
 -Teatro 3 : Teatro Opera, Talleres 
 
 <h3> Agencias- Estudio de baile - Coreografia</h3>
+<br>
 -Estudio SM (jefe: Partuza)
 
 <h3>Bares Notables</h3>
