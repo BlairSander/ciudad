@@ -6,24 +6,38 @@ layout: default
 
 ORGANISMO ► PERSONAJES ► MUNICPIO
 
-<h4>ZONA ROJA</h4>
-* Sex Shop ►  
-* Motel ►
-* Hotel ►
-* Lencería ► 
-* Burdel ► 
-* Prostíbulo Barato ► 
-* Prostíbulo VIP ► 
-* Club ► 
-* Centro Audivisual ► 
-* Autocine ►
-* Cyber ► 
-* Línea Erótica (callcenter) ► 
-* Venta drog ►
-* Restaurantes ►
-* Cafés ► 
-* Locales de exibhición ► 
-
+<h4>EDUCACIÓN</h4>
+- [Orfanato Magnolia](https://blairsander.github.io/ciudad/orfanato.html) ►  Alen
+   - Dueña: Istar
+   - Directora: Nerea  
+   - Empleada: Enzel
+   - Voluntario: Bernard
+   - Voluntaria: Emi
+   - Voluntario: Dean
+   - Voluntario: Purin
+- Jardín maternal
+- Jardín de Infantes
+- Escuela
+- Colegio
+- Facultad de Arquitectura y Urbanismo
+- Facultad de Bellas Artes SEDE 1
+- Facultad de Bellas Artes SEDE 2
+- Facultad de Bellas Artes SEDE 3
+- Facultad de Cs. Agrarias y Forestales
+- Facultad de Cs. Astronómicas y Geofísicas
+- Facultad de Cs. Económicas
+- Facultad de Cs. Exactas
+- Facultad de Cs. Jurídicas y Sociales
+- Facultad de Cs. Médicas
+- Facultad de Cs. Naturales y Museo
+- Facultad de Cs. Veterinarias
+- Facultad de Humanidades y Cs. de la Educación
+- Facultad de Informática
+- Facultad de Ingeniería
+- Facultad de Odontología
+- Facultad de Periodismo y Com. Social
+- Facultad de Psicología
+- Facultad de Trabajo Social
 
 <h4>GASTRONOMÍA</h4>
 - Comida Rápida ►
@@ -46,7 +60,6 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
    - Ayudante: Purín 
 - Bares ► 
 - Kioscos ► 
-
 
 <h4>URBANISMO</h4>
 * Oficinas 
@@ -73,6 +86,23 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Funeraria ► 
 * Grúas ► 
 
+<h4>ZONA ROJA</h4>
+* Sex Shop ►  
+* Motel ►
+* Hotel ►
+* Lencería ► 
+* Burdel ► 
+* Prostíbulo Barato ► 
+* Prostíbulo VIP ► 
+* Club ► 
+* Centro Audivisual ► 
+* Autocine ►
+* Cyber ► 
+* Línea Erótica (callcenter) ► 
+* Venta drog ►
+* Restaurantes ►
+* Cafés ► 
+* Locales de exibhición ► 
 
 <h4>EMPRESAS</h4>
 * Banco ► 
