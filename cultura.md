@@ -5,11 +5,11 @@ layout: default
 <h2>Cultura</h2>
 
 <h3>Gastronomía:</h3>
--Restaurante Remi (Dueño-Chef) - Centro Blair
+* Restaurante Remi (Dueño-Chef) - Centro Blair
 <br>
--Confiteria-Cafe Steipast (Dueño: Herz Administrador: Eliot) Puerto Citrino
+* Confiteria-Cafe Steipast (Dueño: Herz Administrador: Eliot) Puerto Citrino
 <br>
--Restaurant mariscos/mediterraneo Puerto Citrino (Empleada:Lezne)
+* Restaurant mariscos/mediterraneo Puerto Citrino (Empleada:Lezne)
 <h3>Museos:</h3>
 
 -Museo de Ciencias Naturales
@@ -58,17 +58,12 @@ layout: default
 
 <h3>Medios de comunicación: </h3>
 Canales-Sedes:
-<br>
--Música-Telerrealidad-Series
-<br>
--Noticiero-Informativo
-<br>
--Deportes
-<br>
--Cine, Series para adultos
-<br>
--Infantil-Animación-Series
-<br>
+* Música-Telerrealidad-Series
+* Noticiero-Informativo
+* Deportes
+* Cine, Series para adultos
+* Infantil-Animación-Series
+
 
  <h3>Medios Gráficos: Sedes empresariales</h3>
 
