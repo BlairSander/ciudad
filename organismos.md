@@ -110,25 +110,29 @@ ORGANISMO ► PERSONAJES ► URL IDEAS
 * Organismo Regulador de Aguas BS (agua potable y desagües cloacales) ► 
 * Vertedero ► 
 
-  - **Asistencia Social**
-    - Subsecretaría de Desarrollo Humano y Social Municipalidad de BS ► 
-    - Obras sociales ►
-  - **Ingeniería y Rehabilitación de Servicios**
-    - Secretaría de Servicios Públicos ►    
-  - **Control Energético**
-    - ENSASA (Energía Sander Sociedad Anónima) ► 
-  - **Control del Gas**
-    - BEGAS (Blair Sander Gas) ►  
-  - **Servicio de Salud**
-  - Hospital ►  
-  - Veterinaria ►  
-  - Odontología ►
-  - Farmacias ► 
-  - Geriátrico ► 
-  - Clínica ► 
+<h4>DC: ASISTENCIA SOCIAL</h4> 
+* Subsecretaría de Desarrollo Humano y Social Municipalidad de BS ► 
+* Obras sociales ►
+    
+<h4>DC: INGENIERÍA Y REHABILITACIÓN DE SERVICIOS</h4> 
+* Secretaría de Servicios Públicos ►    
+    
+<h4>DC: CONTROL ENERGÉTICO</h4> 
+* ENSASA (Energía Sander Sociedad Anónima) ► 
+    
+<h4>DC: CONTROL DEL GAS</h4> 
+* BEGAS (Blair Sander Gas) ►  
+  
+<h4>DC: SERVICIO DE SALUD</h4> 
+* Hospital ►  
+* Veterinaria ►  
+* Odontología ►
+* Farmacias ► 
+* Geriátrico ► 
+* Clínica ► 
 
-- Municipalidad 
-    - Áreas municipales ► 
+<h4>MUNICIPALIDAD</h4> 
+* Áreas municipales ► 
 
 
 
