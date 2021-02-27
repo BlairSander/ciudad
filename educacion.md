@@ -155,6 +155,7 @@ layout: default
 - Escuela
 - Jardín de Infantes
 - Jardín maternal
+<br>
 -[Orfanato Magnolia](https://blairsander.github.io/ciudad/orfanato.html) ►  Alen
  - Dueña: Istar
  - Directora: Nerea
