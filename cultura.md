@@ -33,7 +33,7 @@ layout: default
 
 <h3>Bioparque</h3>
 <h3>Acuario </h3>
-<h3>Centro de escalada deportiva Kavensport (1)</h3>
+<h3>Centro de escalada deportiva Kavensport </h3>
 <h3>Campo de Paintball</h3>
 <h3>Parque de Diversiones</h3>
 
