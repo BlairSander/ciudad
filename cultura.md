@@ -16,34 +16,25 @@ layout: default
 <br>
 <h3>Complejo teatral:</h3>
 
--Teatro 1 : Danzas clásicas
-<br>
--Teatro 2 : Obras escénicas, cinematográficas, exposiciones
-<br>
--Teatro 3 : Teatro Opera, Talleres 
+* Teatro 1 : Danzas clásicas
+* Teatro 2 : Obras escénicas, cinematográficas, exposiciones
+* Teatro 3 : Teatro Opera, Talleres 
 
 <h3> Agencias- Estudio de baile - Coreografia</h3>
 -Estudio SM (jefe: Partuza)
 <br>
 <h3>Bares Notables</h3>
 
--Club nocturno Izan
-<br>
--Club nocturno homo 
-<br>
--Club nocturno Devi
-<br>
--Club nocturno barrio alto
-<br>
+* Club nocturno Izan
+* Club nocturno homo 
+* Club nocturno Devi
+* Club nocturno barrio alto
 
 <h3> Deportes: </h3>
 
--Estadio Unico
-<br>
--Estadio de Hielo
-<br>
--Clubes-Complejos deportivos: Citrino, Strega, Blair y Tadmor
-<br>
+* Estadio Unico
+* Estadio de Hielo
+* Clubes-Complejos deportivos: Citrino, Strega, Blair y Tadmor
 
 <h3>Bioparque</h3>
 <h3>Acuario </h3>
