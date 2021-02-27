@@ -56,23 +56,6 @@ layout: default
 <h3>Moda</h3>
 - Casa de modas -Sede (Nisha)
 
-<h3>Medios de comunicación: </h3>
-Canales-Sedes:
-- Música-Telerrealidad-Series
-- Noticiero-Informativo
-- Deportes
-- Cine, Series para adultos
-- Infantil-Animación-Series
-
-
- <h3>Medios Gráficos: Sedes empresariales</h3>
-
-- Periódicos
-<br>
-- Revistas
-<br>
-- Industria editorial.
-<br>
 
 <h3>Centro Audiovisual</h3>
 
