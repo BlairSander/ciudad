@@ -32,6 +32,7 @@ ORGANISMO ► PERSONAJES ► URL IDEAS
 * Verdulería ► 
 * Carnicería ► 
 * Cafetería ► 
+* [Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html) ► Herz
 * Golosinas ► 
 * Heladería ► 
 * Panaderías ► 
@@ -51,18 +52,18 @@ ORGANISMO ► PERSONAJES ► URL IDEAS
 * Tienda de Electrodomésticos ► 
 * Tienda de Accesorios ► 
 * Tienda de Electrodomésticos ► 
-  - Bicicletería ► 
-  - Taller Gráfico ► 
-  - Mueblería   ► 
-  - Juguetería ► 
-  - Óptica ► 
-  - Peluquerías ► 
-  - Automotores ► 
-  - Talleres (autos / motos) ► 
-  - Lavadero ► 
-  - Gimnasio ► 
-  - Funeraria ► 
-  - Grúas ► 
+* Bicicletería ► 
+* Taller Gráfico ► 
+* Mueblería   ► 
+* Juguetería ► 
+* Óptica ► 
+* Peluquerías ► 
+* Automotores ► 
+* Talleres (autos / motos) ► 
+* Lavadero ► 
+* Gimnasio ► 
+* Funeraria ► 
+* Grúas ► 
 
 <h4>EMPRESAS</h4>
 * Banco ► 
