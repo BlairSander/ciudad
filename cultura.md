@@ -11,7 +11,6 @@ layout: default
 -Confiteria-Cafe Steipast (Dueño: Herz Administrador: Eliot) Puerto Citrino
 <br>
 -Restaurant mariscos/mediterraneo Puerto Citrino (Empleada:Lezne)
-<br>
 <h3>Museos:</h3>
 <br>
 -Museo de Ciencias Naturales
