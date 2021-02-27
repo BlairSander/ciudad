@@ -17,8 +17,11 @@ layout: default
 - Festival
 - Festival musical
 - Fiesta de la cerveza
+- Funciones (en teatros)
+- Excursión en bioparque
+- Excursión Museo
 - Carnaval
-- Exposición artística (pinturas, esculturas, etc)
+- Exposición artística (pinturas, esculturas, etc. En museos y salones)
 - Espectáculos callejeros
 - Torneo de Paintball
 - Parque de diversiones
@@ -35,8 +38,8 @@ layout: default
 - Torneo de fútbol
 <br>
 <h3> EVENTOS DE CAPACITACION</h3>
-
-- Talleres
+(en centros de educación o bibliotecas)
+- Talleres 
 - Seminarios
 - Congresos
 - Ponencias
