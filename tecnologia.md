@@ -4,7 +4,9 @@ layout: default
 
 <h2>Tecnología</h2>
 
-**Transporte**
+* * * 
+
+**TRANSPORTE**
 
 <h4>⏩ Transportación</h4>
 
@@ -38,9 +40,15 @@ layout: default
 - Crucero 
 - Lancha
 
-**Biotecnología**
+* * * 
 
-**Nanotecnología**
+**BIOTECNOLOGÍA**
 
-**Inteligencia Artificial**
+* * * 
+
+**NANOTECNOLOGÍA**
+
+* * * 
+
+**INTELIGENCIA ARTIFICIAL**
 
