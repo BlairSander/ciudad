@@ -30,7 +30,7 @@ Segundo Ciclo
 * Quinto Grado: 10-11 años
 * Sexto Grado: 11-12 años
 * Séptimo Grado: 12-13 años
-
+<br>&nbsp;
 <h4>Educación secundaria</h4>
 
 Ciclo básico
@@ -44,7 +44,7 @@ Ciclo orientado (distintas tenencias orientativas afines a las carreras universi
 * Cuarto año: 15-16 años
 * Quinto año: 16-17 años
 * Sexto año: 17-18 años
-
+<br>&nbsp;
 <h4>Educación superior </h4>
 
 Se logra mediante institutos de educación superior o universidades.  Con la finalidad de cumplir con las exigencias legales, técnicas y pedagógicas de los diferentes niveles educativos.
@@ -58,7 +58,7 @@ Educación técnico profesional, Ciclos formativos de grado superior.  Los ciclo
 * Educación permanente de adultos, Para adultos que no terminaron los estudios básicos y obligatorios. 
 * Educación domiciliaria y hospitalaria, Para personas que no pueden asistir a la escuela por condiciones médicas o incapacidad de asistir con regularidad.
 * Educación en contextos de privación de libertad. Para los presos y los que están en manicomios. 
-
+<br>&nbsp;
 <h4>Educación especial (Serkeis)</h4>
 Tienen un sistema educativo diferente al de los humanos. 
 
