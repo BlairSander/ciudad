@@ -17,7 +17,7 @@ En la educación inicial: sólo las salas de 3, 4 y 5 años son obligatorias.
 * Sala de 3 años (primera sala del "jardín de infantes")
 * Sala de 4 años (obligatoria)
 * Sala de 5 años (obligatoria)
-&nbsp;
+<br>&nbsp;
 <h4>Educación primaria</h4>
 
 Primer Ciclo
@@ -48,7 +48,7 @@ Ciclo orientado (distintas tenencias orientativas afines a las carreras universi
 <h4>Educación superior </h4>
 
 Se logra mediante institutos de educación superior o universidades.  Con la finalidad de cumplir con las exigencias legales, técnicas y pedagógicas de los diferentes niveles educativos.
-<br><br>
+<br>
 
 Modalidades de educación superior: 
 Educación técnico profesional, Ciclos formativos de grado superior.  Los ciclos formativos de grado superior están dirigidos a los alumnos que con el título secundario y como alternativa a la universidad, buscan unos estudios superiores prácticos que los cualifiquen para incorporarse al mundo laboral. La titulación obtenida es de Técnico/a superior.   
