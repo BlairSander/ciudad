@@ -4,14 +4,14 @@ layout: default
 
 <h2>Tecnología</h2>
 
-<h4>Transporte</h4>
+**Transporte**
 
-**Transportación**
+<h4>Transportación</h4>
 
 - DTC (dispositivo de transportación por cámaras). Dispositivo de teletransporte usando dos cabinas o cámaras (telépodos) donde el objeto (inerte o vivo) se desintegra y reintegra completando el proceso de teletransporte. Este proceso es asistido por una potente computadora. Este dispositivo puede transportar multitudes de 100 personas. 
 - DTP (dispositivo de transporte por pulsera). Este dispositivo sólo logra transportar hasta dos personas por vez. 
 
-**Terrestre:**
+<h4>Terrestre</h4>
 
 - Tren bala
 - Subte 
@@ -22,7 +22,7 @@ layout: default
 - Bicicleta
 - Combi 
 
-**Aéreo** 
+<h4>Aéreo</h4> 
 
 - Jet 
 - Helicóptero 
@@ -31,16 +31,16 @@ layout: default
 - helicóptero Airbus 
 - Tabla voladora 
 
-**Marítimo**
+<h4>Marítimo</h4>
 
 - Barco 
 - Bote 
 - Crucero 
 - Lancha
 
-<h4>Biotecnología</h4>
+**Biotecnología**
 
-<h4>Nanotecnología</h4>
+**Nanotecnología**
 
-<h4>Inteligencia Artificial</h4>
+**Inteligencia Artificial**
 
