@@ -32,7 +32,9 @@ Segundo Ciclo
 * Séptimo Grado: 12-13 años
 
 <h4>Educación secundaria</h4>
+
 Ciclo básico
+
 * Primer año: 12-13 años
 * Segundo año:	13-14 años
 * Tercer año: 14-15 años
