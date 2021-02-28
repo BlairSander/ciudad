@@ -4,165 +4,59 @@ layout: default
 
 <h2>Educación</h2>
 
-- Facultad de Arquitectura y Urbanismo
-  - Arquitectura
+**Ministra de Educación:** Coral.
 
-- Facultad de Bellas Artes
-  - Comunicación Audiovisual
-  - Diseño en Comunicación Visual
-  - Lic. y/o Prof. en Diseño Multimedial (orientación: Audiovisual, Sonora, Visual)
-  - Diseño Industrial
-  - Lic. y/o Prof. en Música orientación Educación Musical
-  - Lic. y/o Prof. en Música orientación Piano
-  - Lic. y/o Prof. en Música orientación Guitarra
-  - Lic. y/o Prof. en Música orientación Dirección Coral
-  - Lic. y/o Prof. en Música orientación Dirección Orquestal
-  - Lic. y/o Prof. en Música orientación Composición
-  - Lic. y/o Prof. en Música orientación Música Popular
-  - Lic. y/o Prof. en Historia del Arte orientación Artes Visuales
-  - Lic. y/o Prof. en Artes Plásticas (orientación Pintur, Dibujo, Cerámica, Escenografía, Escultura, Grabado y Arte Impreso, Muralismo y Arte Público Monumental)
-  - Lic. y/o Prof. en Artes Audiovisuales orientación Realización
-  - Lic. y/o Prof. en Artes Audiovisuales orientación Realización Dirección de Fotografía
-  - Lic. y/o Prof. en Artes Audiovisuales orientación en Guión
-  - Lic. y/o Prof. en Artes Audiovisuales orientación en Teoría y Crítica
-  - Prof. en Artes Audiovisuales 
-  - Profesorado en Diseño en Comunicación Visual
-  - Lic. y/o Prof. en Producción Multimedial (orientación: Audiovisual, Sonora, Visual)
+El sistema educativo de Blair Sander se compone de cuatro niveles para los humanos: inicial, primaria, secundaria y superior. Es universal para las instituciones de enseñanza pública o privada:
 
-- Facultad de Cs. Agrarias y Forestales
-  - Ingeniería Agronómica 
-  - Ingeniería Forestal
+<h4>Educación inicial</h4>
+En la educación inicial: sólo las salas de 3, 4 y 5 años son obligatorias.
 
-- Facultad de Cs. Astronómicas y Geofísicas
-  - Geofísica
-  - Lic. en Astronomía
-  - Licenciatura en Meteorología y Ciencias de la Atmósfera
+* Lactantes (45 días-1 año)
+* Deambuladores (1 año-2 años)
+* Sala de 2 años
+* Sala de 3 años (primera sala del "jardín de infantes")
+* Sala de 4 años (obligatoria)
+* Sala de 5 años (obligatoria)
 
-- Facultad de Cs. Económicas
-  - Contador Público
-  - Lic. en Administración
-  - Lic. en Economía
-  - Lic. en Turismo
-  - Tec. en Cooperativismo
+<h4>Educación primaria</h4>
 
-- Facultad de Cs. Exactas
-  - Lic. en Bioquímica
-  - Farmacia
-  - Lic. en Biotecnología y Biología Molecular
-  - Lic. en Ciencia y Tecnología de los Alimentos
-  - Lic. en Física
-  - Lic. en Física Médica
-  - Lic. en Matemáticas
-  - Lic. en Óptica Ocular y Optometría
-  - Lic. en Química
-  - Lic. en Química y Tecnología Ambiental
+Primer Ciclo
+* Primer Grado: 6-7 años
+* Segundo Grado: 7-8 años
+* Tercer Grado: 8-9 años
 
-- Facultad de Cs. Jurídicas y Sociales
-  - Abogacía
-  - Escribanía
-  - Procurador
-  - Tecnicatura Superior Universitaria de Martillero Público y Corredor
-  - Técnico en Gestión de Recursos para Instituciones Universitarias  (sólo para trabajadores no docentes)
+Segundo Ciclo
+* Cuarto Grado: 9-10 años
+* Quinto Grado: 10-11 años
+* Sexto Grado: 11-12 años
+* Séptimo Grado: 12-13 años
 
-- Facultad de Cs. Médicas
-  - Lic. en Fonoaudiología
-  - Lic. en Obstetricia
-  - Medicina
-  - Lic. en Enfermería
-  - Enfermería
-  - Lic. en Nutrición 
-  - Tecnicatura en Prácticas Cardiológicas
+<h4>Educación secundaria</h4>
+Ciclo básico
+* Primer año: 12-13 años
+* Segundo año:	13-14 años
+* Tercer año: 14-15 años
 
-- Facultad de Cs. Naturales y Museo
-  - Lic. en Antropología
-  - Lic. en Biología Or. Botánica
-  - Lic. en Biología Or. Ecología
-  - Lic. en Biología Or. Paleontología
-  - Lic. en Biología Or. Zoología
-  - Lic. en Geología
-  - Lic. en Geoquímica
+Ciclo orientado (distintas tenencias orientativas afines a las carreras universitarias por las que los alumnos pueden optar) 
 
-- Facultad de Cs. Veterinarias
-  - Cs. Veterinarias
-  - Microbiología Clínica e Industrial
+* Cuarto año: 15-16 años
+* Quinto año: 16-17 años
+* Sexto año: 17-18 años
 
-- Facultad de Humanidades y Cs. de la Educación
-  - Lic. en Bibliotecología y Cs. de la Información
-  - Lic. en Cs. de la Educación
-  - Lic. en Educación Física
-  - Lic. en Filosofía
-  - Lic. en Francés Or.Lingüística
-  - Lic. en Francés Or.Literaria
-  - Lic. en Geografía
-  - Lic. en Historia
-  - Lic. en Inglés Or.Lingüística
-  - Lic. en Inglés Or.Literaria
-  - Lic. en Letras
-  - Lic. en Sociología
-  - Prof. en Francés
-  - Prof. en Bibliotecología y Cs. de la Información
-  - Prof. en Cs. Biológicas
-  - Prof. en Cs. de la Educación 
-  - Prof. en Educación Física
-  - Prof. en Filosofía
-  - Prof. en Física
-  - Prof. en Geografía
-  - Prof. en Historia
-  - Prof. en Inglés
-  - Prof. en Letras
-  - Prof. en Matemática
-  - Prof. en Química
-  - Prof. en Sociología
-  - Traductorado Público Nacional en Lengua Francesa
-  - Traductorado Público Nacional en Lengua Inglesa
+<h4>Educación superior </h4>
+Se logra mediante institutos de educación superior o universidades.  Con la finalidad de cumplir con las exigencias legales, técnicas y pedagógicas de los diferentes niveles educativos.
+<br><br>
+Modalidades de educación superior: 
+Educación técnico profesional, Ciclos formativos de grado superior.  Los ciclos formativos de grado superior están dirigidos a los alumnos que con el título secundario y como alternativa a la universidad, buscan unos estudios superiores prácticos que los cualifiquen para incorporarse al mundo laboral. La titulación obtenida es de Técnico/a superior.   
+* Carreras de grado. Carreras de grado. Todas las universidades públicas y privadas aprobadas por la Comisión Nacional de Evaluación y Acreditación Universitaria ofrecen programas de grado y posgrado que otorgan títulos académicos y profesionales. Al finalizar una licenciatura, el «licenciado» pasa a ser considerado experto en un campo determinado.  Las carreras de grado pueden dividirse básicamente en dos tipos: Licenciaturas y profesorados. Las licenciaturas son aquellas que acreditan experticia en investigación en un área del conocimiento determinado. Consisten en carreras de 4 a 6 años donde se requiere una cuota de investigación, en términos de años son equivalentes a una maestría. El graduado puede ostentar el prefijo Lic. al rubricar su nombre. Los profesorados por otro lado son aquellas carreras acreditadas que habilitan a la enseñanza universitaria. El graduado puede ostentar el prefijo Prof. al rubricar su nombre.
+* Carreras de posgrado. Carreras de posgrado. Cursos de posgrado divididos en especializaciones, maestrías y doctorados los cuales pueden ser presenciales, semipresenciales o carreras a distancia.
+* Educación artística,  Enseñanzas artísticas superiores. Las enseñanzas elementales de Música y de Danza. Las enseñanzas artísticas profesionales. Tienen esta condición las enseñanzas profesionales de Música y Danza, así como los grados medio y superior de Artes Plásticas y Diseño. Las enseñanzas artísticas superiores. Tienen esta condición los estudios superiores de Música y de Danza, las enseñanzas de Arte Dramático, las enseñanzas de Conservación y Restauración de Bienes Culturales, los estudios superiores de Diseño y los estudios superiores de Artes Plásticas, entre los que se incluyen los estudios superiores de Cerámica y los estudios superiores del Vidrio.
+* Educación permanente de adultos, Para adultos que no terminaron los estudios básicos y obligatorios. 
+* Educación domiciliaria y hospitalaria, Para personas que no pueden asistir a la escuela por condiciones médicas o incapacidad de asistir con regularidad.
+* Educación en contextos de privación de libertad. Para los presos y los que están en manicomios. 
 
-- Facultad de Informática
-  - Lic. en Informática
-  - Lic. en Sistemas
-  - Ingeniería en Computación (en conjunto con la Fac. de Ingeniería)
-  - Analista Programador Universitario
+<h4>Educación especial (Serkeis)</h4>
+Tienen un sistema educativo diferente al de los humanos. 
 
-- Facultad de Ingeniería
-  - Ingeniería Aeronáutica
-  - Ingeniería Civil
-  - Ingeniería Electricista
-  - Ingeniería Electromecánica
-  - Ingeniería Electrónica
-  - Ingeniería en Materiales
-  - Ingeniería Hidráulica
-  - Ingeniería Industrial
-  - Ingeniería Mecánica
-  - Ingeniería Química
-  - Ingeniero Agrimensor
-  - Ingeniería en Computación (en conjunto con la Fac. de Informática)
 
-- Facultad de Odontología
-  - Odontología
-
-- Facultad de Periodismo y Com. Social
-  - Lic. en Comunicación Social (Orientación Periodismo y Planificación)
-  - Prof. en Comunicación Social
-  - Tecnicatura Superior Universitaria en Periodismo Deportivo
-
-- Facultad de Psicología
-  - Lic. en Psicologìa  
-  - Prof. en Psicología
-
-- Facultad de Trabajo Social
-  - Lic. en Trabajo Social
-
-- Colegio
-- Escuela
-- Jardín de Infantes
-- Jardín maternal
-<br>
-- [Orfanato Magnolia](https://blairsander.github.io/ciudad/orfanato.html) ►  Alen
-   - Dueña: Istar
-   - Directora: Nerea  
-   - Empleada: Enzel
-   - Voluntario Enfermeria: Renan
-   - Voluntario: Bernard
-   - Voluntaria: Emi
-   - Voluntario: Dean
-   - Voluntario Cocina: Purin
 
