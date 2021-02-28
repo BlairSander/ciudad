@@ -17,7 +17,7 @@ En la educación inicial: sólo las salas de 3, 4 y 5 años son obligatorias.
 * Sala de 3 años (primera sala del "jardín de infantes")
 * Sala de 4 años (obligatoria)
 * Sala de 5 años (obligatoria)
-
+&nbsp;
 <h4>Educación primaria</h4>
 
 Primer Ciclo
