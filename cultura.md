@@ -3,9 +3,7 @@ layout: default
 ---
 
 <h2>Cultura</h2>
-
 <br>&nbsp;
-
 <h3> EVENTOS RECREATIVOS</h3>
 
 - Aniversario de Blair
@@ -27,9 +25,7 @@ layout: default
 - Espectáculos callejeros
 - Torneo de Paintball
 - Parque de diversiones
-
 <br>&nbsp;
-
 <h3> EVENTOS DEPORTIVOS</h3>
 
 - Gran Prix de Hockey sobre hielo
@@ -40,9 +36,7 @@ layout: default
 - Juegos nacionales
 - Carrera atlética en el municipio
 - Torneo de fútbol
-
 <br>&nbsp;
-
 <h3> EVENTOS DE CAPACITACION</h3>
 
 (en centros de educación o bibliotecas)
