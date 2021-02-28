@@ -17,6 +17,7 @@ layout: default
   - Riva
 - MINISTROS
 <br>&nbsp;
+
 | Nombre | Cargo |
 |:-------------|:------------------|
 | Fausto | Ministro de Seguridad y Defensa|  
