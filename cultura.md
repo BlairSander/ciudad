@@ -4,7 +4,7 @@ layout: default
 
 <h2>Cultura</h2>
 
-* * *
+<br>&nbsp;
 
 <h3> EVENTOS RECREATIVOS</h3>
 
@@ -28,7 +28,7 @@ layout: default
 - Torneo de Paintball
 - Parque de diversiones
 
-* * *
+<br>&nbsp;
 
 <h3> EVENTOS DEPORTIVOS</h3>
 
@@ -41,7 +41,7 @@ layout: default
 - Carrera atlética en el municipio
 - Torneo de fútbol
 
-* * *
+<br>&nbsp;
 
 <h3> EVENTOS DE CAPACITACION</h3>
 
