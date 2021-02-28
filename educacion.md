@@ -46,8 +46,10 @@ Ciclo orientado (distintas tenencias orientativas afines a las carreras universi
 * Sexto año: 17-18 años
 
 <h4>Educación superior </h4>
+
 Se logra mediante institutos de educación superior o universidades.  Con la finalidad de cumplir con las exigencias legales, técnicas y pedagógicas de los diferentes niveles educativos.
 <br><br>
+
 Modalidades de educación superior: 
 Educación técnico profesional, Ciclos formativos de grado superior.  Los ciclos formativos de grado superior están dirigidos a los alumnos que con el título secundario y como alternativa a la universidad, buscan unos estudios superiores prácticos que los cualifiquen para incorporarse al mundo laboral. La titulación obtenida es de Técnico/a superior.   
 * Carreras de grado. Carreras de grado. Todas las universidades públicas y privadas aprobadas por la Comisión Nacional de Evaluación y Acreditación Universitaria ofrecen programas de grado y posgrado que otorgan títulos académicos y profesionales. Al finalizar una licenciatura, el «licenciado» pasa a ser considerado experto en un campo determinado.  Las carreras de grado pueden dividirse básicamente en dos tipos: Licenciaturas y profesorados. Las licenciaturas son aquellas que acreditan experticia en investigación en un área del conocimiento determinado. Consisten en carreras de 4 a 6 años donde se requiere una cuota de investigación, en términos de años son equivalentes a una maestría. El graduado puede ostentar el prefijo Lic. al rubricar su nombre. Los profesorados por otro lado son aquellas carreras acreditadas que habilitan a la enseñanza universitaria. El graduado puede ostentar el prefijo Prof. al rubricar su nombre.
