@@ -3,7 +3,6 @@ layout: default
 ---
 
 <h2>Cultura</h2>
-<br>&nbsp;
 <h3> EVENTOS RECREATIVOS</h3>
 
 - Aniversario de Blair
