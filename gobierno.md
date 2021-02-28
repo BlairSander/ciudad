@@ -34,6 +34,7 @@ layout: default
 | | Ministro de Comercio	|
 | Roberto Arlt (Natacha)| Ministro de Cultura|
 | Renan| Ministro de Salud|
+
 <br>&nbsp;
 <h3>SECTORES</h3>
 Los entes de gobernanza metropolitana son organismos
