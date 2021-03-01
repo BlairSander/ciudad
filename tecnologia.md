@@ -4,9 +4,12 @@ layout: default
 
 <h2>Tecnología</h2>
 
+- [Transporte](#TRANSPORTE)
+- [Nanotecnología](#NANOTECNOLOGÍA)
+
 * * * 
 
-**TRANSPORTE**
+<h4>TRANSPORTE</h4>
 
 **Ministra de transporte:** Tanis
 
@@ -44,7 +47,7 @@ layout: default
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
-**NANOTECNOLOGÍA**
+<h4>NANOTECNOLOGÍA</h4>
 
 Se implementa tanto para la biotecnología, como la Inteligencia artificial. 
 
