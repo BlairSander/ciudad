@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-efe
+
 <h2>Tecnología</h2>
 
 - [Transporte](#TRANSPORTE)
