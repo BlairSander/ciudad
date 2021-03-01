@@ -16,9 +16,9 @@ layout: default
 | nadie| ☗ Garret <br>☗ Set Ava | ☗ Ume Durian|
 
 
-| **Alen**| **Turen**| **Zona roja Carmesí** |
+| **Alen**| **Turen**| **Kepler** |
 |:-------------|:------------------|:------|
-| ☗ Izan <br>☗ Franci <br>☗ Riva | ☗ Liv Eruo Costella <br>☗ Haunter | ☗ Smurf <br>☗ Devi Lezne  <br>☗ Latifa <br>☗ Velafi |
+| ☗ Izan <br>☗ Franci <br>☗ Riva | ☗ Liv Eruo Costella <br>☗ Haunter | nadie |
 
 
 | **Kavensport**| **Deacon**| **Tadmor** |
@@ -26,7 +26,7 @@ layout: default
 | ☗ Emi Noir <br>☗ Bernard| ☗ Katty <br>☗ Relojitos <br>☗ Coral Maite | ☗ Herz|
 
 
-| **Delta**| **Villa Strega**| 
-|:-------------|:------------------|
-| ☗ Nerea Enzel <br> ☗ Tanis Siena Kyaru Shaunte| ☗ Euler <br>☗ Exit | 
+| **Zona roja Carmesí**| **Delta**| **Villa Strega**| 
+|:-------------|:------------------|:------------------|
+| ☗ Smurf <br>☗ Devi Lezne  <br>☗ Latifa <br>☗ Velafi| ☗ Nerea Enzel <br> ☗ Tanis Siena Kyaru Shaunte| ☗ Euler <br>☗ Exit | 
 
