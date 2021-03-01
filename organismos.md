@@ -129,7 +129,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
    - Cofundador: Lester
 * I.A. Doxes ► 
    - Dueño: Fritz
-* Sector de seguridad y desarrollo tecnológico, en el Centro Rehab ► Turen
+* Sector de seguridad y desarrollo tecnológico ► Turen
    - Fundadora: Awen
    - Ingeniera: Franci
    - Ingeniero: Izan
