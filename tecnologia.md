@@ -55,8 +55,8 @@ layout: default
 La metrópolis cuenta con diferentes tipos de inteligencia artificial que forman parte de la viuda cotidina, los sistemas de Inteligencia Artificial utilizados en distintos dispositivos inteligentes y los androides (que pueden ser antropomórficos o zoomórficos). Éstos fueron diseñados y creados por unos pocos ingenieros y empresarios. Los androides que son mucho más complejos que los sistemas de dispositivos, están regidos bajo leyes y normativas por lo que se requiere un registro nacional obligatorio, de caso contrario se estaría ejerciendo contra la ley. Por lo tanto los diferentes modelos de androides se clasifican en Modelos registrados y modelos sin registrar.
 
 <h4>⏩ Modelos registrados</h4>
-
-*Modelos SCA (Sistema Cibernético Antropomórfico)*
+<br>&nbsp;
+***Modelos SCA (Sistema Cibernético Antropomórfico)***
 
 _SCA-200_
 * Ingeniero y diseñador: Lester 
@@ -78,30 +78,31 @@ _SCA-300_
 * Ingeniero y diseñador: Awen
 * Construcción: En el sector de seguridad y desarrollo tecnológico, en el Centro Rehab.
 * Características: Máquina diseñada con las especificaciones de un esqueleto humano, subsecuentemente envuelta en piel viva cultivada y tejido. No sólo parece humano, sino que también suda, huele, sangra, y puede imitar voces humanas. Sin embargo, ciertos animales y serkeis pueden advertir la presencia de la máquina. Los perros son empleados a menudo en los puestos de custodia para detectarlos. Su endoesqueleto fue construido en hiperaleación, y por lo tanto esto lo hace esencialmente inmune a armas de fuego de medio y bajo calibre. Aunque es posible destruirlo sin recurrir a armas de fuego, atravesando su cuello con una barra metálica y girar esta con las manos, ejerciendo presión sobre las piezas del mismo que mantienen en su lugar la cabeza hasta conseguir zafarlas y decapitarlo.
-
-*Modelos MCZ (Mascota Cibernética Zoomorfa)*
+<br>&nbsp;
+***Modelos MCZ (Mascota Cibernética Zoomorfa)***
 
 _manapon_
 * Ingeniero y diseñador: Costella
 * Construcción: En la empresa pixipon
 * Ejemplos: Perritos elementales
 * Características: Los manapon, en plural manapons, son androides que tienen un grado de parentesco animal. Siempre con apariencias adorables. Tienen un circuito ánima, el cual es un implante que genera sentimientos en el androide. El circuito puede madurar con el androide. Su uso principal es el de compañía y entretenimiento, sustituyendo en algunos casos a las mascotas reales.
+<br>&nbsp;
 
 <h4>⏩ Modelos Sin Registro</h4>
 
-*Modelos EGAL (Exterminador Galáctico)*
+***Modelos EGAL (Exterminador Galáctico)***
 
 _EGALx_
 * Ingeniero y diseñador: Logan
 * Características: Con la apariencia de mujer, es un prototipo altamente avanzado creado para el combate y destrucción. Cuenta con un endoesqueleto con una aleación muy dura, con la propiedad de formar armas blancas y objetos cortantes de metal con sus brazos. Su endoesqueleto está cubierto por tecnología nanométrica en metal líquido, con capacidad de tomar la apariencia y voz de personas con las que ha tenido algún contacto físico. Tiene la facilidad para colarse por espacios reducidos, rápido restablecimiento al impacto físico de golpes y ataques con objetos sólidos y armas, facilidad para formar armas con las que matar. El único modo de destruirlo definitivamente es fundirlo o bañarlo con ácido.
 
-*Modelos Doppel (significa «doble»)*
+***Modelos Doppel (significa «doble»)***
 
 _DOPPEL-10 	TOP SECRET xd_
 * Ingeniero y diseñador: Awen
 * Características: Version mejorada en cuanto a la simulacion de humanidad, pero con resistencia baja, igual a la resistencia del cuerpo de Awen. No puede ser identificado por serkeis ni animales, solo si es destruida, desarmada e inspeccionada a fondo. Pensamiento y razonamiento, su funcion es asistir a los demas como lo haria la verdadera Awen. Capaz de sentir emociones y actuar acorde a las mismas. Autonomia. Personalidad marcada y basada en la de Awen. Memoria con informacion sobre la personalidad de Awen para actuar en base a lo que ella haria. Esta capacitada para tomar decisiones en situaciones dificiles.  
 
-*Modelos RHI (Robot Humanoide de Investigación)*
+***Modelos RHI (Robot Humanoide de Investigación)***
 
 _RHI-500_
 * Ingeniero y diseñador: Franci
@@ -112,22 +113,22 @@ Los robots poseen softwares de última generación capaces de captar, almacenar 
 
 Son un conjunto de normas que se aplican a todas las Inteligencias Artificiales Registradas. Están diseñados para cumplir órdenes y establecen lo siguiente:
 
-* Ley Cero: Un robot no puede dañar a la humanidad o, por inacción, permitir que la humanidad sufra daños.
-* Primera Ley: Un robot no hará daño a un ser humano ni, por inacción, permitirá que un ser humano sufra daño.
-* Segunda Ley: Un robot debe cumplir las órdenes dadas por los seres humanos, a excepción de aquellas que entren en conflicto con la primera ley.
-* Tercera Ley: Un robot debe proteger su propia existencia en la medida en que esta protección no entre en conflicto con la primera o con la segunda ley.
+* **_Ley Cero:_** Un robot no puede dañar a la humanidad o, por inacción, permitir que la humanidad sufra daños.
+* **_Primera Ley:_** Un robot no hará daño a un ser humano ni, por inacción, permitirá que un ser humano sufra daño.
+* **_Segunda Ley:_** Un robot debe cumplir las órdenes dadas por los seres humanos, a excepción de aquellas que entren en conflicto con la primera ley.
+* **_Tercera Ley:_** Un robot debe proteger su propia existencia en la medida en que esta protección no entre en conflicto con la primera o con la segunda ley.
 
 Estas leyes surgen únicamente como medida de protección para los seres humanos, y representan el código moral del robot. Un robot va a actuar siempre bajo los imperativos de sus tres leyes. Para todos los efectos, un robot se comportará como un ser moralmente correcto.
 
 <h4>⏩ Organismos que desarrollan Inteligenia Artificial</h4>
 
-* _I.A. Nébula._ Compañía dedicada al diseño,construcción y venta de robots. Fundador de la compañía: Fritz. Ingeniero y diseñador de robots y cofundador de la compañía: Lester.
-* _I.A. Doxes_ Dueño: Fritz. Slogan: Doxes, toda la tecnología de robótica inteligente. Crean Real Sim.
+* **_I.A. Nébula._** Compañía dedicada al diseño,construcción y venta de robots. Fundador de la compañía: Fritz. Ingeniero y diseñador de robots y cofundador de la compañía: Lester.
+* **_I.A. Doxes._** Dueño: Fritz. Slogan: Doxes, toda la tecnología de robótica inteligente. Crean Real Sim.
 * _Sector de seguridad y desarrollo tecnológico, en el Centro Rehab_ Centro de reclusión y rehabilitación integral. Prisión fundada por Awen. Ingenieros esepcializados en IA: Izan, Fanci, Lester, Dark, Awen.
-* _Pixipon._ Fundadora y empresaria: Costella. Slogan “más que mascota es un amigo”.
-* _Pulsar_ Empresa privada, perteneciente a Tanis. Desarrollo de vehículos motorizados autónomos. Son sistemas de inteligencia artificial capaces de circular en el tráfico real recurriendo tan sólo a cámaras y sensores, IA y un navegador GPS. Emplea el deep learning para aprender a conducir por experiencia. Pueden reconocer el entorno, identificar situaciones de riesgo y detectar, por ejemplo, marcas viales, señales, peatones o ciclistas. También emplean inteligencia artificial para el procesamiento natural del lenguaje, de modo que se puede comunicar con el vehículo usando la forma de hablar natural. De esta forma, se le puede dar órdenes, como “sube la temperatura del climatizador a 24 grados”. Además, estos sistemas reconocen rutinas (rutas habituales, música preferida, temperatura favorita…) para automatizarlas.
-* _Muro Génesis._ Organismo perteneciente a la nación, dirigido por Dark. Desarrollo web, defensa y ciberseguridad. Fabrica drones que crean mapas para la seguridad nacional. Encuentra vulnerabilidades en la ciberseguridad. Fabrica sistemas de vigilancia con fines de seguridad nacional.
-* _ONG IADA._ Fundada por Ray. ONG IADA. Ingeniería ambiental y defensa animal. Fabrica robots que identifican y clasifican materiales reciclables.
+* **_Pixipon._** Fundadora y empresaria: Costella. Slogan “más que mascota es un amigo”.
+* **_Pulsar._** Empresa privada, perteneciente a Tanis. Desarrollo de vehículos motorizados autónomos. Son sistemas de inteligencia artificial capaces de circular en el tráfico real recurriendo tan sólo a cámaras y sensores, IA y un navegador GPS. Emplea el deep learning para aprender a conducir por experiencia. Pueden reconocer el entorno, identificar situaciones de riesgo y detectar, por ejemplo, marcas viales, señales, peatones o ciclistas. También emplean inteligencia artificial para el procesamiento natural del lenguaje, de modo que se puede comunicar con el vehículo usando la forma de hablar natural. De esta forma, se le puede dar órdenes, como “sube la temperatura del climatizador a 24 grados”. Además, estos sistemas reconocen rutinas (rutas habituales, música preferida, temperatura favorita…) para automatizarlas.
+* **_Muro Génesis._** Organismo perteneciente a la nación, dirigido por Dark. Desarrollo web, defensa y ciberseguridad. Fabrica drones que crean mapas para la seguridad nacional. Encuentra vulnerabilidades en la ciberseguridad. Fabrica sistemas de vigilancia con fines de seguridad nacional.
+* **_ONG IADA._** Fundada por Ray. ONG IADA. Ingeniería ambiental y defensa animal. Fabrica robots que identifican y clasifican materiales reciclables.
 
 
 
