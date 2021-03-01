@@ -6,8 +6,10 @@ layout: default
 
 - [Transporte](#TRANSPORTE)
 - [Nanotecnología](#NANOTECNOLOGÍA)
+- [Biotecnología](#BIOTECNOLOGÍA)
+- [Inteligencia Artificial](#INTELIGENCIA ARTIFICIAL)
 
-* * * 
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 <h4>TRANSPORTE</h4>
 
@@ -53,7 +55,7 @@ Se implementa tanto para la biotecnología, como la Inteligencia artificial.
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
-**BIOTECNOLOGÍA**
+<h4>BIOTECNOLOGÍA</h4>
 
 **Ministra de ciencia y Tecnología:** Bianca
 
@@ -70,7 +72,7 @@ Aplicaciones de la biotecnología:
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
-**INTELIGENCIA ARTIFICIAL**
+<h4>INTELIGENCIA ARTIFICIAL</h4>
 
 **Ministro de Industria y Tecnología Informática:** Kratzer
 
