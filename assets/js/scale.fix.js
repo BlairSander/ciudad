@@ -19,13 +19,6 @@
 
     
     
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-    
-    
-    
-    
     
     
 
