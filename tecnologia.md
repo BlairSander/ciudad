@@ -90,19 +90,19 @@ _manapon_
 <br>&nbsp;
 
 <h4>⏩ Modelos Sin Registro</h4>
-
+<br>&nbsp;
 ***Modelos EGAL (Exterminador Galáctico)***
 
 _EGALx_
 * Ingeniero y diseñador: Logan
 * Características: Con la apariencia de mujer, es un prototipo altamente avanzado creado para el combate y destrucción. Cuenta con un endoesqueleto con una aleación muy dura, con la propiedad de formar armas blancas y objetos cortantes de metal con sus brazos. Su endoesqueleto está cubierto por tecnología nanométrica en metal líquido, con capacidad de tomar la apariencia y voz de personas con las que ha tenido algún contacto físico. Tiene la facilidad para colarse por espacios reducidos, rápido restablecimiento al impacto físico de golpes y ataques con objetos sólidos y armas, facilidad para formar armas con las que matar. El único modo de destruirlo definitivamente es fundirlo o bañarlo con ácido.
-
+<br>&nbsp;
 ***Modelos Doppel (significa «doble»)***
 
 _DOPPEL-10 	TOP SECRET xd_
 * Ingeniero y diseñador: Awen
 * Características: Version mejorada en cuanto a la simulacion de humanidad, pero con resistencia baja, igual a la resistencia del cuerpo de Awen. No puede ser identificado por serkeis ni animales, solo si es destruida, desarmada e inspeccionada a fondo. Pensamiento y razonamiento, su funcion es asistir a los demas como lo haria la verdadera Awen. Capaz de sentir emociones y actuar acorde a las mismas. Autonomia. Personalidad marcada y basada en la de Awen. Memoria con informacion sobre la personalidad de Awen para actuar en base a lo que ella haria. Esta capacitada para tomar decisiones en situaciones dificiles.  
-
+<br>&nbsp;
 ***Modelos RHI (Robot Humanoide de Investigación)***
 
 _RHI-500_
