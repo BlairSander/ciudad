@@ -19,6 +19,10 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 - Jardín de Infantes
 - Escuela
 - Colegio
+- Instituto Privado (Todos los niveles) ► Barrio Citrino
+- Instituto Privado Serkei (Educacion especial-Todos los niveles) ► 
+   - Directora: Ezra
+- Escuela de arte
 - Facultad de Arquitectura y Urbanismo
 - Facultad de Bellas Artes SEDE 1
 - Facultad de Bellas Artes SEDE 2
@@ -119,6 +123,26 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * YPS (Yacimientos Petrolíferos Sanderianos) ► 
 * Frigoríficos Alen (Matadero y Frigorífico) ► 
 
+<h4>INTELIGENCIA ARTIFICIAL</h4>
+* I.A. Nébula ► 
+   - Fundador: Fritz
+   - Cofundador: Lester
+* I.A. Doxes ► 
+   - Dueño: Fritz
+* Sector de seguridad y desarrollo tecnológico, en el Centro Rehab ► Turen
+   - Fundadora: Awen
+   - Ingeniera: Franci
+   - Ingeniero: Izan
+   - Ingeniero: Lester
+   - Ingeniero: Dark
+* Pixipon ► 
+   - Fundadora: Costella
+* Pulsar ► 
+   -  Dueña: Tanis
+* Muro Génesis ► 
+   - Fundador: Kratzer
+* ONG IADA ► 
+   - Fundador: Ray
 
 <h4>CULTURA</h4>
 * Museo de Ciencias Naturales ► 
@@ -156,6 +180,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 <h4>ORDEN</h4>
 * Comisaría (Policía) ►  
 * Prisión Lannister ► 
+* Centro Rehab ► Turen
 * Psiquiátrico ►
 * Gendarmería Nacional ► 
 * Cementerio ► 
