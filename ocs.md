@@ -12,7 +12,7 @@ layout: default
   - Glaze
   - Ray
   - Remi
-  - Einar 
+  - Einar <br>&nbsp;
 
 * **Puerto Citrino**
   - Ima Dante
@@ -22,68 +22,55 @@ layout: default
   - Nepal Zia
   - Odel <br>&nbsp;
 
-**Gialo**
+* **Gialo**
+  - Dean Sugar
+  - Bianca Ciever Leyva
+  - Roberto <br>&nbsp;
 
-- Dean Sugar
-- Bianca Ciever Leyva
-- Roberto <br>&nbsp;
+* **Aster**
+  - nadie <br>&nbsp;
 
-**Aster**
+* **Reverie**
+  - Garret
+  - Set Ava <br>&nbsp;
 
-- nadie <br>&nbsp;
+* **Midsommar** 
+  - Ume Durian <br>&nbsp;
 
-**Reverie**
+* **Alen**
+  - Izan
+  - Franci
+  - Riva <br>&nbsp;
 
-- Garret
-- Set Ava <br>&nbsp;
+* **Kepler**
+  - nadie <br>&nbsp;
 
-**Midsommar** 
+* **Turen**
+  - Liv / Eruo / Costella
+  - Haunter <br>&nbsp;
 
-- Ume Durian <br>&nbsp;
+* **Zona roja Carmesí**
+  - Smurf
+  - Devi / Lezne 
+  - Latifa
+  - Velafi <br>&nbsp;
 
-**Alen**
+* **Kavensport**
+  - Emi Noir
+  - Bernard <br>&nbsp;
 
-- Izan
-- Franci
-- Riva <br>&nbsp;
+* **Deacon**
+  - Katty
+  - Relojitos 
+  - Coral Maite <br>&nbsp;
 
-**Kepler**
+* **Tadmor**
+  - Herz <br>&nbsp;
 
-- nadie <br>&nbsp;
+* **Delta**
+  - Nerea / Enzel
+  - Siena / Tanis / Kyaru / Shaunte  <br>&nbsp;
 
-**Turen**
-
-- Liv / Eruo / Costella
-- Haunter <br>&nbsp;
-
-**Zona roja Carmesí**
-
-- Smurf
-- Devi / Lezne 
-- Latifa
-- Velafi <br>&nbsp;
-
-**Kavensport**
-
-- Emi Noir
-- Bernard <br>&nbsp;
-
-**Deacon**
-
-- Katty
-- Relojitos 
-- Coral Maite <br>&nbsp;
-
-**Tadmor**
-
-- Herz <br>&nbsp;
-
-**Delta**
-
-- Nerea / Enzel
-- Siena / Tanis / Kyaru / Shaunte  <br>&nbsp;
-
-**Villa Strega**
-
-- Euler
-- Exit 
+* **Villa Strega**
+  - Euler
+  - Exit 
