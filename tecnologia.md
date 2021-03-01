@@ -56,33 +56,33 @@ La metrópolis cuenta con diferentes tipos de inteligencia artificial que forman
 
 <h4>⏩ Modelos registrados</h4>
 <br>&nbsp;
-***Modelos SCA (Sistema Cibernético Antropomórfico)***
+*Modelos SCA (Sistema Cibernético Antropomórfico)*
 
-_SCA-200_
+* **_SCA-200_**
 * Ingeniero y diseñador: Lester 
 * Construcción: En la empresa I.A. Nébula
 * Características: Creó una una serie de 200 máquinas inteligentes utilizadas en una variedad de roles y ambientes. No todos tienen apariencia completamente humanoide y se usan en campos que requerían una extensa especialización y conocimiento, tales como en medicina, mecánica, náutica, pilotaje, exploradores, administrativos, de construcción, de entrenamiento, navegación, mantenimiento, seguridad, servicio. Dependiendo de su diseño y de su propósito, son capaces de almacenar gran cantidad de información en sus extensas memorias y matemáticamente precisos.
 
-_SCA-400_
+* **_SCA-400_**
 * Ingeniero y diseñador: Lester y Fritz
 * Construcción: En la empresa I.A. Nébula
 * Ejemplos: Enzel
 * Características: En la serie 400, con apariencias humanas, se crearon sistemas que emulan el comportamiento racional humano y que imitan las conductas humanas. Además, son capaces de reconocer, recordar caras y simular expresiones. Están dotados de un cerebro positrónico que le permite ser racional, con una mente analítica y encuentra a los humanos difíciles de entender. Estos androides tienen la capacidad de un sistema para interpretar correctamente datos externos, para aprender de dichos datos y emplear esos conocimientos para lograr tareas y metas concretas a través de la adaptación flexible. 
 
-_Real Sim_
+* **_Real Sim_**
 * Ingeniero y diseñador: Fritz
 * Construcción: En la empresa I.A. Doxes
 * Características: Utilizando el sistema de los SCA-400 como base, Fritz adaptó el diseño para satisfacer las necesidades del comprador en relación al placer, en actividades de compañía o como juguetes sexuales. Por lo que trabajó sobre sus apariencias dependiendo de las exigencias del comprador. Están equipados con sensores en todo el cuerpo, de forma tal que son capaces de sentir, excitarse y hasta alcanzar el orgasmo, responden de manera automática a estímulos cada vez que son abordados. A su vez, su respuesta varía según su estado, ya que también cuenta con modos: amistoso, romántico y sexual. El último capaz de alcanzar el clímax.
 
-_SCA-300_
+* **_SCA-300_**
 * Ingeniero y diseñador: Awen
 * Construcción: En el sector de seguridad y desarrollo tecnológico, en el Centro Rehab.
 * Características: Máquina diseñada con las especificaciones de un esqueleto humano, subsecuentemente envuelta en piel viva cultivada y tejido. No sólo parece humano, sino que también suda, huele, sangra, y puede imitar voces humanas. Sin embargo, ciertos animales y serkeis pueden advertir la presencia de la máquina. Los perros son empleados a menudo en los puestos de custodia para detectarlos. Su endoesqueleto fue construido en hiperaleación, y por lo tanto esto lo hace esencialmente inmune a armas de fuego de medio y bajo calibre. Aunque es posible destruirlo sin recurrir a armas de fuego, atravesando su cuello con una barra metálica y girar esta con las manos, ejerciendo presión sobre las piezas del mismo que mantienen en su lugar la cabeza hasta conseguir zafarlas y decapitarlo.
 <br>&nbsp;
 
-***Modelos MCZ (Mascota Cibernética Zoomorfa)***
+*Modelos MCZ (Mascota Cibernética Zoomorfa)*
 
-_manapon_
+* **_manapon_**
 * Ingeniero y diseñador: Costella
 * Construcción: En la empresa pixipon
 * Ejemplos: Perritos elementales
@@ -91,21 +91,21 @@ _manapon_
 
 <h4>⏩ Modelos Sin Registro</h4>
 <br>&nbsp;
-***Modelos EGAL (Exterminador Galáctico)***
+*Modelos EGAL (Exterminador Galáctico)*
 
-_EGALx_
+* **_EGALx_**
 * Ingeniero y diseñador: Logan
 * Características: Con la apariencia de mujer, es un prototipo altamente avanzado creado para el combate y destrucción. Cuenta con un endoesqueleto con una aleación muy dura, con la propiedad de formar armas blancas y objetos cortantes de metal con sus brazos. Su endoesqueleto está cubierto por tecnología nanométrica en metal líquido, con capacidad de tomar la apariencia y voz de personas con las que ha tenido algún contacto físico. Tiene la facilidad para colarse por espacios reducidos, rápido restablecimiento al impacto físico de golpes y ataques con objetos sólidos y armas, facilidad para formar armas con las que matar. El único modo de destruirlo definitivamente es fundirlo o bañarlo con ácido.
 <br>&nbsp;
-***Modelos Doppel (significa «doble»)***
+*Modelos Doppel (significa «doble»)*
 
-_DOPPEL-10 	TOP SECRET xd_
+* **_DOPPEL-10 	TOP SECRET xd_**
 * Ingeniero y diseñador: Awen
 * Características: Version mejorada en cuanto a la simulacion de humanidad, pero con resistencia baja, igual a la resistencia del cuerpo de Awen. No puede ser identificado por serkeis ni animales, solo si es destruida, desarmada e inspeccionada a fondo. Pensamiento y razonamiento, su funcion es asistir a los demas como lo haria la verdadera Awen. Capaz de sentir emociones y actuar acorde a las mismas. Autonomia. Personalidad marcada y basada en la de Awen. Memoria con informacion sobre la personalidad de Awen para actuar en base a lo que ella haria. Esta capacitada para tomar decisiones en situaciones dificiles.  
 <br>&nbsp;
-***Modelos RHI (Robot Humanoide de Investigación)***
+*Modelos RHI (Robot Humanoide de Investigación)*
 
-_RHI-500_
+* **_RHI-500_**
 * Ingeniero y diseñador: Franci
 * Características: Ciberseguridad. Tareas de programación. Aprendizaje. Puede realizar diferentes tareas para facilitar investigaciones de datos, obteniendolos de otros dispositivos electrónicos y hackeando sus códigos para obtener acceso.
 Los robots poseen softwares de última generación capaces de captar, almacenar y compartir datos que se convierten en información de gran valor en el avance de los estudios de investigación. Poder contar con la precisión de la robótica en la ciencia permite obtener resultados más verídicos y realizar pruebas de hipótesis en entornos donde se aseguran que siempre se actúe bajo los mismos parámetros y estándares de ejecución y calidad. Por otro lado, la resistencia y exhaustiva manipulación que realiza un robot colaborativo, lo convierte en el mejor instrumento para el manejo de ciertas sustancias o la realización de ciertos procesos peligrosos.
