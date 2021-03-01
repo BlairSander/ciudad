@@ -10,50 +10,28 @@ layout: default
 |:-------------|:------------------|:------|
 | Dark <br>Audy Serpentita <br>Glaze <br>Ray <br>Remi <br>Einar | Ima Dante <br>Awen Cali <br>Fausto Reif Madoc <br>Desmond <br>Nepal Zia <br>Odel | Dean Sugar <br>Bianca Ciever Leyva <br>Roberto | 
 
-* **Aster**
-  - nadie <br>&nbsp;
+<br>&nbsp;
 
-* **Reverie**
-  - Garret
-  - Set Ava <br>&nbsp;
+| **Aster**| **Reverie**| **Midsommar** |
+|:-------------|:------------------|:------|
+| nadie| Garret <br>Set Ava | Ume Durian|
 
-* **Midsommar** 
-  - Ume Durian <br>&nbsp;
+<br>&nbsp;
 
-* **Alen**
-  - Izan
-  - Franci
-  - Riva <br>&nbsp;
+| **Alen**| **Turen**| **Zona roja Carmesí** |
+|:-------------|:------------------|:------|
+| Izan <br>Franci <br>Riva | Liv Eruo Costella <br>Haunter | Smurf <br>Devi Lezne  <br>Latifa <br>Velafi |
 
-* **Kepler**
-  - nadie <br>&nbsp;
+<br>&nbsp;
 
-* **Turen**
-  - Liv / Eruo / Costella
-  - Haunter <br>&nbsp;
+| **Kavensport**| **Deacon**| **Tadmor** |
+|:-------------|:------------------|:------|
+| Emi Noir <br>Bernard| Katty <br>Relojitos <br>Coral Maite | Herz|
 
-* **Zona roja Carmesí**
-  - Smurf
-  - Devi / Lezne 
-  - Latifa
-  - Velafi <br>&nbsp;
 
-* **Kavensport**
-  - Emi Noir
-  - Bernard <br>&nbsp;
+<br>&nbsp;
 
-* **Deacon**
-  - Katty
-  - Relojitos 
-  - Coral Maite <br>&nbsp;
+| **Delta**| **Villa Strega**| 
+|:-------------|:------------------|
+| Nerea Enzel <br> Tanis Siena Kyaru Shaunte| Euler <br>Exit | 
 
-* **Tadmor**
-  - Herz <br>&nbsp;
-
-* **Delta**
-  - Nerea / Enzel
-  - Siena / Tanis / Kyaru / Shaunte  <br>&nbsp;
-
-* **Villa Strega**
-  - Euler
-  - Exit 
