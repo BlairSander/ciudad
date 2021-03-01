@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>gallery</title>
+    <style>
+      
+body {
+	background: #f2f2f2;
+}
+
+.contenedor {
+	margin: 40px auto;
+	max-width: 700px;  /* Ancho máximo de la imagen */ 
+}
+
+.card { /* CODIGO PARA EL BORDE BLANCO, SE PUEED BORRAR */ 
+	padding: 5px;
+	background: #fff;
+	margin-bottom: 0px; /* espacio entre imagenes */ 
+	border-radius: 10px; /* esquinas redondeadas del borde blanco */ 
+	box-shadow: 0px 0px 10px rgba(71, 71, 71, 0.15);
+}
+
+.card img {
+	width: 100%;
+	vertical-align: top;
+	border-radius: 10px; /* esquina redondeada de la imagen */ 
+}
+      
+    </style>
+    <!-- Codigo para galerias   -->
+</head>
+<body>
+ 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<h2>Mansion: Sector rosa para Sugar, Sector azul para Dean, sector blanco es neutral</h2>
+	<main class="contenedor">
+		Subsuelo<div class="card"><img src="http://drive.google.com/uc?export=view&id=1P0b0Is2iNn7PqUEVmk0Fg2K2-KAU0PYv" alt=""></div><br>
+    1er piso<div class="card"><img src="http://drive.google.com/uc?export=view&id=1pz7b8zYvM5C7d3h43M-6P_EElkcui8j1" alt=""></div><br>
+		2do piso<div class="card"><img src="http://drive.google.com/uc?export=view&id=1Zp66EEoQOicXGkQ7uXNl5bXEDz1KCzlZ" alt=""></div><br>
+		
+	
+
+	</main>
+</body>
+</html>
+  
+</body>
+</html>
