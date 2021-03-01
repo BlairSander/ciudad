@@ -108,7 +108,7 @@ _RHI-500_
 * Ingeniero y diseñador: Franci
 * Características: Ciberseguridad. Tareas de programación. Aprendizaje. Puede realizar diferentes tareas para facilitar investigaciones de datos, obteniendolos de otros dispositivos electrónicos y hackeando sus códigos para obtener acceso.
 Los robots poseen softwares de última generación capaces de captar, almacenar y compartir datos que se convierten en información de gran valor en el avance de los estudios de investigación. Poder contar con la precisión de la robótica en la ciencia permite obtener resultados más verídicos y realizar pruebas de hipótesis en entornos donde se aseguran que siempre se actúe bajo los mismos parámetros y estándares de ejecución y calidad. Por otro lado, la resistencia y exhaustiva manipulación que realiza un robot colaborativo, lo convierte en el mejor instrumento para el manejo de ciertas sustancias o la realización de ciertos procesos peligrosos.
-
+<br>&nbsp;
 <h4>⏩ Leyes de la robótica</h4>
 
 Son un conjunto de normas que se aplican a todas las Inteligencias Artificiales Registradas. Están diseñados para cumplir órdenes y establecen lo siguiente:
