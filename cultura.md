@@ -3,6 +3,9 @@ layout: default
 ---
 
 <h2>Cultura</h2>
+
+**Ministro de Cultura:** Roberto Arlt
+
 <h3> EVENTOS RECREATIVOS</h3>
 
 - Aniversario de Blair
