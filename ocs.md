@@ -8,7 +8,7 @@ layout: default
 
 | **Centro Blair**| **Puerto Citrino**| **Gialo**|
 |:-------------|:------------------|:------|
-| ☗ Dark <br>☗ Audy Serpentita <br>☗ Glaze <br>☗ Ray <br>☗ Remi <br>☗ Einar | ☗ Ima Dante <br>☗ Awen Cali <br>☗ Fausto Reif Madoc <br>☗ Desmond <br>☗ Nepal Zia <br>☗ Odel | ☗ Dean Sugar <br>☗ Bianca Ciever Leyva <br>☗ Roberto | 
+| ☗ Dark <br>☗ Audy Serpentita <br>☗ Glaze <br>☗ Ray <br>☗ Remi <br>☗ Einar | ☗ Ima Dante <br>☗ Awen Cali <br>☗ Fausto Reif Madoc <br>☗ Desmond <br>☗ Nepal Zia <br>☗ Odel | [☗](https://blairsander.github.io/ciudad/mansiondean.html) Dean Sugar <br>☗ Bianca Ciever Leyva <br>☗ Roberto | 
 
 
 | **Aster**| **Reverie**| **Midsommar** |
