@@ -6,28 +6,8 @@ layout: default
 
 [PLANO](http://drive.google.com/uc?export=view&id=1M0Og6TFNzZG4si31fPmWkbnzWbJglekd) [.](https://drive.google.com/uc?export=download&id=18qELow9rEQamiWaok7Tc9ZS3VpUqg6zp) 
 
-| * **Centro Blair**
-  - Dark
-  - Audy Serpentita
-  - Glaze
-  - Ray
-  - Remi
-  - Einar <br>&nbsp; |
+| **Centro Blair** <br>Dark <br>Audy Serpentita <br>Glaze <br>Ray <br>Remi <br>Einar | **Puerto Citrino** <br>Ima Dante <br>Awen Cali <br>Fausto Reif Madoc <br>Desmond <br>Nepal Zia <br>Odel | **Gialo** <br> Dean Sugar <br>Bianca Ciever Leyva <br>Roberto | 
 
-* **Puerto Citrino**
-  - Ima Dante
-  - Awen Cali
-  - Fausto Reif Madoc
-  - Desmond
-  - Nepal Zia
-  - Odel <br>&nbsp;
-|
-
-* **Gialo**
-  - Dean Sugar
-  - Bianca Ciever Leyva
-  - Roberto <br>&nbsp;
-| 
 * **Aster**
   - nadie <br>&nbsp;
 
