@@ -12,16 +12,15 @@ layout: default
   - Glaze
   - Ray
   - Remi
-  - Einar <br>&nbsp;
+  - Einar 
 
-**Puerto Citrino**
-
-- Ima Dante
-- Awen Cali
-- Fausto Reif Madoc
-- Desmond
-- Nepal Zia
-- Odel <br>&nbsp;
+* **Puerto Citrino**
+  - Ima Dante
+  - Awen Cali
+  - Fausto Reif Madoc
+  - Desmond
+  - Nepal Zia
+  - Odel <br>&nbsp;
 
 **Gialo**
 
