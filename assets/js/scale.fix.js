@@ -17,6 +17,17 @@
             initialize();
         };
 
+    
+    
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+    
+    
+    
+    
+    
+    
 
     if (navigator.userAgent.match(/iPhone/i)) {
         initialize();
