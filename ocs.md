@@ -13,7 +13,7 @@ layout: default
 - Glaze
 - Ray
 - Remi
-- Einar
+- Einar <br>&nbsp;
 
 **Puerto Citrino**
 
@@ -22,35 +22,38 @@ layout: default
 - Fausto Reif Madoc
 - Desmond
 - Nepal Zia
-- Odel
+- Odel <br>&nbsp;
 
 **Gialo**
 
 - Dean Sugar
 - Bianca Ciever Leyva
-- Roberto
+- Roberto <br>&nbsp;
 
 **Aster**
 
-- nadie
+- nadie <br>&nbsp;
 
 **Reverie**
 
 - Garret
-- Set Ava
+- Set Ava <br>&nbsp;
 
 **Midsommar** 
 
 - Ume
-- Durian
+- Durian <br>&nbsp;
 
 **Alen**
 
 - Izan
 - Franci
-- Riva
+- Riva <br>&nbsp;
 
 **Kepler**
+
+- nadie <br>&nbsp;
+
 **Turen**
 
 - Liv / Eruo / Costella
@@ -66,24 +69,24 @@ layout: default
 **Kavensport**
 
 - Emi Noir
-- Bernard
+- Bernard <br>&nbsp;
 
 **Deacon**
 
 - Katty
-- Relojitos
-- Coral Maite
+- Relojitos 
+- Coral Maite <br>&nbsp;
 
 **Tadmor**
 
-- Herz
+- Herz <br>&nbsp;
 
 **Delta**
 
 - Nerea / Enzel
-- Siena / Tanis / Kyaru / Shaunte 
+- Siena / Tanis / Kyaru / Shaunte  <br>&nbsp;
 
-**Villa Strega **
+**Villa Strega**
 
 - Euler
-- Exit
+- Exit 
