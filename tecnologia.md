@@ -7,7 +7,7 @@ layout: default
 - [Transporte](#TRANSPORTE)
 - [Nanotecnología](#NANOTECNOLOGÍA)
 - [Biotecnología](#BIOTECNOLOGÍA)
-- [Inteligencia Artificial](#INTELIGENCIA ARTIFICIAL)
+- [Inteligencia Artificial](#inteligencia-artificial)
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
