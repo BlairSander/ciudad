@@ -41,8 +41,7 @@ layout: default
 
 **Midsommar** 
 
-- Ume
-- Durian <br>&nbsp;
+- Ume Durian <br>&nbsp;
 
 **Alen**
 
