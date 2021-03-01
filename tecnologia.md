@@ -52,7 +52,7 @@ Se implementa tanto para la biotecnología, como la Inteligencia artificial.
 
 **BIOTECNOLOGÍA**
 
-**Miinistra de ciencia y Tecnología:** Bianca
+**Ministra de ciencia y Tecnología:** Bianca
 
 * * * 
 
