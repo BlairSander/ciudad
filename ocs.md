@@ -6,14 +6,13 @@ layout: default
 
 [PLANO](http://drive.google.com/uc?export=view&id=1M0Og6TFNzZG4si31fPmWkbnzWbJglekd) [.](https://drive.google.com/uc?export=download&id=18qELow9rEQamiWaok7Tc9ZS3VpUqg6zp) 
 
-**Centro Blair**
-
-- Dark
-- Audy Serpentita
-- Glaze
-- Ray
-- Remi
-- Einar <br>&nbsp;
+* **Centro Blair**
+  - Dark
+  - Audy Serpentita
+  - Glaze
+  - Ray
+  - Remi
+  - Einar <br>&nbsp;
 
 **Puerto Citrino**
 
