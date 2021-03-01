@@ -54,6 +54,25 @@ Se implementa tanto para la biotecnología, como la Inteligencia artificial.
 
 **Ministra de ciencia y Tecnología:** Bianca
 
+Blair promueve la biotecnología «aplicación de principios de la ciencia y la ingeniería para tratamientos de materiales orgánicos e inorgánicos por sistemas biológicos para producir bienes y servicios» Dichos organismos pueden o no estar modificados genéticamente. Sus bases son la ingeniería, física, química y biología.
+
+* **Medicina.** El desarrollo de la insulina, la hormona del crecimiento, la identidad y el diagnóstico molecular, las terapias génicas y vacunas como la de la hepatitis B son algunos de los hitos de la biotecnología y su alianza con la ingeniería genética. También influye en ña veterinaria, y tiene gran repercusión en la farmacia.
+* **Industria.** La revolución de los nuevos materiales inteligentes de la mano de la biotecnología no ha hecho más que empezar, y en breve podríamos tener hormigón autorreparable, plantas que cambian de color al detectar un explosivo, ropa y calzado elaborados con tela de araña sintética, etc.
+* **Agricultura/Alimentación.** Además de los alimentos transgénicos que mencionamos anteriormente, gracias a la tecnología biológica se han creado productos como el _maíz WEMA_, un tipo de cultivo resistente a las sequías y a ciertos insectos que puede ser fundamental para luchar contra el hambre en África.
+* **Medio ambiente.** A través de los _procesos de biorremediación_, muy útiles para la recuperación ecológica, se aprovechan las facultades catabólicas de microorganismos, hongos, plantas y enzimas para recuperar ecosistemas contaminados, y trabajando sobre residuos sólidos, líquidos, gaseosos.
+
+<h4>➽ TIPOS DE BIOTECNOLOGÍA</h4>
+
+Al igual que las franjas del arcoíris, las distintas aplicaciones de la biotecnología se agrupan en siete colores o áreas de investigación y desarrollo. En este apartado, señalamos lo más relevante de cada una.
+
+* **Biotecnología roja.** Es la rama sanitaria y responsable, según la Biotechnology Innovation Organization (BIO), de la elaboración de más de 250 vacunas y medicamentos como antibióticos, de terapias regenerativas y de la fabricación de órganos artificiales.
+* **Biotecnología verde.** La utilizan los agricultores para combatir las plagas y nutrir los cultivos y fortalecerlos frente a los microorganismos y los eventos climatológicos extremos, como las sequías y las heladas.
+* **Biotecnología blanca.** La rama industrial trabaja en la mejora de los procesos de fabricación, el desarrollo de biocombustibles y otras tecnologías para obtener una industria más eficiente y sostenible.
+* **Biotecnología amarilla.** Esta modalidad está enfocada en la producción de alimentos y, por ejemplo, investiga para reducir los niveles de grasas saturadas en los aceites de cocina.
+* **Biotecnología azul.** Explota los recursos marinos para obtener productos de acuicultura, cosméticos o sanitarios. Además, es la más utilizada para conseguir biocombustibles a partir de algunas microalgas.
+* **Biotecnología gris.** Tiene como finalidad la conservación y la recuperación de los ecosistemas naturales contaminados a través de los procesos de biorremediación.
+* **Biotecnología dorada.** La también conocida como bioinformática se encarga de obtener, almacenar, analizar y separar la información biológica, sobre todo la relativa a las secuencias de ADN y aminoácidos.
+
 * * * 
 
 **INTELIGENCIA ARTIFICIAL**
