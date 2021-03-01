@@ -42,13 +42,13 @@ layout: default
 - Crucero 
 - Lancha
 
-* * * 
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 **NANOTECNOLOGÍA**
 
 Se implementa tanto para la biotecnología, como la Inteligencia artificial. 
 
-* * * 
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 **BIOTECNOLOGÍA**
 
@@ -73,7 +73,7 @@ Al igual que las franjas del arcoíris, las distintas aplicaciones de la biotecn
 * **Biotecnología gris.** Tiene como finalidad la conservación y la recuperación de los ecosistemas naturales contaminados a través de los procesos de biorremediación.
 * **Biotecnología dorada.** La también conocida como bioinformática se encarga de obtener, almacenar, analizar y separar la información biológica, sobre todo la relativa a las secuencias de ADN y aminoácidos.
 
-* * * 
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 **INTELIGENCIA ARTIFICIAL**
 
