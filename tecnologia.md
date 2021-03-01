@@ -64,10 +64,10 @@ _SCA-200_
 * Características: Creó una una serie de 200 máquinas inteligentes utilizadas en una variedad de roles y ambientes. No todos tienen apariencia completamente humanoide y se usan en campos que requerían una extensa especialización y conocimiento, tales como en medicina, mecánica, náutica, pilotaje, exploradores, administrativos, de construcción, de entrenamiento, navegación, mantenimiento, seguridad, servicio. Dependiendo de su diseño y de su propósito, son capaces de almacenar gran cantidad de información en sus extensas memorias y matemáticamente precisos.
 
 _SCA-400_
-Ingeniero y diseñador: Lester y Fritz
-Construcción: En la empresa I.A. Nébula
-Ejemplos: Enzel
-Características: En la serie 400, con apariencias humanas, se crearon sistemas que emulan el comportamiento racional humano y que imitan las conductas humanas. Además, son capaces de reconocer, recordar caras y simular expresiones. Están dotados de un cerebro positrónico que le permite ser racional, con una mente analítica y encuentra a los humanos difíciles de entender. Estos androides tienen la capacidad de un sistema para interpretar correctamente datos externos, para aprender de dichos datos y emplear esos conocimientos para lograr tareas y metas concretas a través de la adaptación flexible. 
+* Ingeniero y diseñador: Lester y Fritz
+* Construcción: En la empresa I.A. Nébula
+* Ejemplos: Enzel
+* Características: En la serie 400, con apariencias humanas, se crearon sistemas que emulan el comportamiento racional humano y que imitan las conductas humanas. Además, son capaces de reconocer, recordar caras y simular expresiones. Están dotados de un cerebro positrónico que le permite ser racional, con una mente analítica y encuentra a los humanos difíciles de entender. Estos androides tienen la capacidad de un sistema para interpretar correctamente datos externos, para aprender de dichos datos y emplear esos conocimientos para lograr tareas y metas concretas a través de la adaptación flexible. 
 
 _Real Sim_
 * Ingeniero y diseñador: Fritz
