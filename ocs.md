@@ -10,26 +10,21 @@ layout: default
 |:-------------|:------------------|:------|
 | Dark <br>Audy Serpentita <br>Glaze <br>Ray <br>Remi <br>Einar | Ima Dante <br>Awen Cali <br>Fausto Reif Madoc <br>Desmond <br>Nepal Zia <br>Odel | Dean Sugar <br>Bianca Ciever Leyva <br>Roberto | 
 
-<br>&nbsp;
 
 | **Aster**| **Reverie**| **Midsommar** |
 |:-------------|:------------------|:------|
 | nadie| Garret <br>Set Ava | Ume Durian|
 
-<br>&nbsp;
 
 | **Alen**| **Turen**| **Zona roja Carmesí** |
 |:-------------|:------------------|:------|
 | Izan <br>Franci <br>Riva | Liv Eruo Costella <br>Haunter | Smurf <br>Devi Lezne  <br>Latifa <br>Velafi |
 
-<br>&nbsp;
 
 | **Kavensport**| **Deacon**| **Tadmor** |
 |:-------------|:------------------|:------|
 | Emi Noir <br>Bernard| Katty <br>Relojitos <br>Coral Maite | Herz|
 
-
-<br>&nbsp;
 
 | **Delta**| **Villa Strega**| 
 |:-------------|:------------------|
