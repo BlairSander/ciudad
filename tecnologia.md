@@ -79,6 +79,7 @@ _SCA-300_
 * Construcción: En el sector de seguridad y desarrollo tecnológico, en el Centro Rehab.
 * Características: Máquina diseñada con las especificaciones de un esqueleto humano, subsecuentemente envuelta en piel viva cultivada y tejido. No sólo parece humano, sino que también suda, huele, sangra, y puede imitar voces humanas. Sin embargo, ciertos animales y serkeis pueden advertir la presencia de la máquina. Los perros son empleados a menudo en los puestos de custodia para detectarlos. Su endoesqueleto fue construido en hiperaleación, y por lo tanto esto lo hace esencialmente inmune a armas de fuego de medio y bajo calibre. Aunque es posible destruirlo sin recurrir a armas de fuego, atravesando su cuello con una barra metálica y girar esta con las manos, ejerciendo presión sobre las piezas del mismo que mantienen en su lugar la cabeza hasta conseguir zafarlas y decapitarlo.
 <br>&nbsp;
+
 ***Modelos MCZ (Mascota Cibernética Zoomorfa)***
 
 _manapon_
