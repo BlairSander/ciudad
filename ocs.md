@@ -23,7 +23,7 @@ layout: default
 
 | **Kavensport**| **Deacon**| **Tadmor** |
 |:-------------|:------------------|:------|
-| ☗ Emi Noir <br>☗ Bernard| ☗ Katty <br>☗ Relojitos <br>☗ Coral Maite | ☗ Herz|
+| ☗ Emi Noir <br>☗ Bernard| ☗ Katty <br>☗ Relojitos <br>☗ Coral Maite <br>☗ Purin| ☗ Herz|
 
 
 | **Zona roja Carmesí**| **Delta**| **Villa Strega**| 
