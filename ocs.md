@@ -6,13 +6,13 @@ layout: default
 
 [PLANO](http://drive.google.com/uc?export=view&id=1M0Og6TFNzZG4si31fPmWkbnzWbJglekd) [.](https://drive.google.com/uc?export=download&id=18qELow9rEQamiWaok7Tc9ZS3VpUqg6zp) 
 
-* **Centro Blair**
+| * **Centro Blair**
   - Dark
   - Audy Serpentita
   - Glaze
   - Ray
   - Remi
-  - Einar <br>&nbsp;
+  - Einar <br>&nbsp; |
 
 * **Puerto Citrino**
   - Ima Dante
@@ -21,12 +21,13 @@ layout: default
   - Desmond
   - Nepal Zia
   - Odel <br>&nbsp;
+|
 
 * **Gialo**
   - Dean Sugar
   - Bianca Ciever Leyva
   - Roberto <br>&nbsp;
-
+| 
 * **Aster**
   - nadie <br>&nbsp;
 
