@@ -87,7 +87,7 @@ _manapon_
 * Ejemplos: Perritos elementales
 * Características: Los manapon, en plural manapons, son androides que tienen un grado de parentesco animal. Siempre con apariencias adorables. Tienen un circuito ánima, el cual es un implante que genera sentimientos en el androide. El circuito puede madurar con el androide. Su uso principal es el de compañía y entretenimiento, sustituyendo en algunos casos a las mascotas reales.
 
-<h4>Modelos Sin Registro</h4>
+<h4>⏩ Modelos Sin Registro</h4>
 
 *Modelos EGAL (Exterminador Galáctico)*
 
@@ -107,4 +107,27 @@ _RHI-500_
 * Ingeniero y diseñador: Franci
 * Características: Ciberseguridad. Tareas de programación. Aprendizaje. Puede realizar diferentes tareas para facilitar investigaciones de datos, obteniendolos de otros dispositivos electrónicos y hackeando sus códigos para obtener acceso.
 Los robots poseen softwares de última generación capaces de captar, almacenar y compartir datos que se convierten en información de gran valor en el avance de los estudios de investigación. Poder contar con la precisión de la robótica en la ciencia permite obtener resultados más verídicos y realizar pruebas de hipótesis en entornos donde se aseguran que siempre se actúe bajo los mismos parámetros y estándares de ejecución y calidad. Por otro lado, la resistencia y exhaustiva manipulación que realiza un robot colaborativo, lo convierte en el mejor instrumento para el manejo de ciertas sustancias o la realización de ciertos procesos peligrosos.
+
+<h4>⏩ Leyes de la robótica</h4>
+
+Son un conjunto de normas que se aplican a todas las Inteligencias Artificiales Registradas. Están diseñados para cumplir órdenes y establecen lo siguiente:
+
+* Ley Cero: Un robot no puede dañar a la humanidad o, por inacción, permitir que la humanidad sufra daños.
+* Primera Ley: Un robot no hará daño a un ser humano ni, por inacción, permitirá que un ser humano sufra daño.
+* Segunda Ley: Un robot debe cumplir las órdenes dadas por los seres humanos, a excepción de aquellas que entren en conflicto con la primera ley.
+* Tercera Ley: Un robot debe proteger su propia existencia en la medida en que esta protección no entre en conflicto con la primera o con la segunda ley.
+
+Estas leyes surgen únicamente como medida de protección para los seres humanos, y representan el código moral del robot. Un robot va a actuar siempre bajo los imperativos de sus tres leyes. Para todos los efectos, un robot se comportará como un ser moralmente correcto.
+
+<h4>⏩ Organismos que desarrollan Inteligenia Artificial</h4>
+
+* _I.A. Nébula._ Compañía dedicada al diseño,construcción y venta de robots. Fundador de la compañía: Fritz. Ingeniero y diseñador de robots y cofundador de la compañía: Lester.
+* _I.A. Doxes_ Dueño: Fritz. Slogan: Doxes, toda la tecnología de robótica inteligente. Crean Real Sim.
+* _Sector de seguridad y desarrollo tecnológico, en el Centro Rehab_ Centro de reclusión y rehabilitación integral. Prisión fundada por Awen. Ingenieros esepcializados en IA: Izan, Fanci, Lester, Dark, Awen.
+* _Pixipon._ Fundadora y empresaria: Costella. Slogan “más que mascota es un amigo”.
+* _Pulsar_ Empresa privada, perteneciente a Tanis. Desarrollo de vehículos motorizados autónomos. Son sistemas de inteligencia artificial capaces de circular en el tráfico real recurriendo tan sólo a cámaras y sensores, IA y un navegador GPS. Emplea el deep learning para aprender a conducir por experiencia. Pueden reconocer el entorno, identificar situaciones de riesgo y detectar, por ejemplo, marcas viales, señales, peatones o ciclistas. También emplean inteligencia artificial para el procesamiento natural del lenguaje, de modo que se puede comunicar con el vehículo usando la forma de hablar natural. De esta forma, se le puede dar órdenes, como “sube la temperatura del climatizador a 24 grados”. Además, estos sistemas reconocen rutinas (rutas habituales, música preferida, temperatura favorita…) para automatizarlas.
+* _Muro Génesis._ Organismo perteneciente a la nación, dirigido por Dark. Desarrollo web, defensa y ciberseguridad. Fabrica drones que crean mapas para la seguridad nacional. Encuentra vulnerabilidades en la ciberseguridad. Fabrica sistemas de vigilancia con fines de seguridad nacional.
+* _ONG IADA._ Fundada por Ray. ONG IADA. Ingeniería ambiental y defensa animal. Fabrica robots que identifican y clasifican materiales reciclables.
+
+
 
