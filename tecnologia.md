@@ -103,6 +103,7 @@ La metrópolis cuenta con diferentes tipos de inteligencia artificial que forman
 * Ingeniero y diseñador: Awen
 * Características: Version mejorada en cuanto a la simulacion de humanidad, pero con resistencia baja, igual a la resistencia del cuerpo de Awen. No puede ser identificado por serkeis ni animales, solo si es destruida, desarmada e inspeccionada a fondo. Pensamiento y razonamiento, su funcion es asistir a los demas como lo haria la verdadera Awen. Capaz de sentir emociones y actuar acorde a las mismas. Autonomia. Personalidad marcada y basada en la de Awen. Memoria con informacion sobre la personalidad de Awen para actuar en base a lo que ella haria. Esta capacitada para tomar decisiones en situaciones dificiles.  
 <br>&nbsp;
+
 *Modelos RHI (Robot Humanoide de Investigación)*
 
 * **_RHI-500_**
