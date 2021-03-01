@@ -8,12 +8,12 @@ layout: default
 
 **TRANSPORTE**
 
-<h4>⏩ Transportación</h4>
+<h4>➽ Transportación</h4>
 
 - DTC (dispositivo de transportación por cámaras). Dispositivo de teletransporte usando dos cabinas o cámaras (telépodos) donde el objeto (inerte o vivo) se desintegra y reintegra completando el proceso de teletransporte. Este proceso es asistido por una potente computadora. Este dispositivo puede transportar multitudes de 100 personas. 
 - DTP (dispositivo de transporte por pulsera). Este dispositivo sólo logra transportar hasta dos personas por vez. 
 
-<h4>⏩ Terrestre</h4>
+<h4>➽ Terrestre</h4>
 
 - Tren bala
 - Subte 
@@ -24,7 +24,7 @@ layout: default
 - Bicicleta
 - Combi 
 
-<h4>⏩ Aéreo</h4> 
+<h4>➽ Aéreo</h4> 
 
 - Jet 
 - Helicóptero 
@@ -33,7 +33,7 @@ layout: default
 - helicóptero Airbus 
 - Tabla voladora 
 
-<h4>⏩ Marítimo</h4>
+<h4>➽ Marítimo</h4>
 
 - Barco 
 - Bote 
@@ -54,7 +54,7 @@ layout: default
 
 La metrópolis cuenta con diferentes tipos de inteligencia artificial que forman parte de la viuda cotidina, los sistemas de Inteligencia Artificial utilizados en distintos dispositivos inteligentes y los androides (que pueden ser antropomórficos o zoomórficos). Éstos fueron diseñados y creados por unos pocos ingenieros y empresarios. Los androides que son mucho más complejos que los sistemas de dispositivos, están regidos bajo leyes y normativas por lo que se requiere un registro nacional obligatorio, de caso contrario se estaría ejerciendo contra la ley. Por lo tanto los diferentes modelos de androides se clasifican en Modelos registrados y modelos sin registrar.
 
-<h4>⏩ Modelos registrados</h4>
+<h4>➽ Modelos registrados</h4>
 <br>&nbsp;
 *Modelos SCA (Sistema Cibernético Antropomórfico)*
 
@@ -89,7 +89,7 @@ La metrópolis cuenta con diferentes tipos de inteligencia artificial que forman
 * Características: Los manapon, en plural manapons, son androides que tienen un grado de parentesco animal. Siempre con apariencias adorables. Tienen un circuito ánima, el cual es un implante que genera sentimientos en el androide. El circuito puede madurar con el androide. Su uso principal es el de compañía y entretenimiento, sustituyendo en algunos casos a las mascotas reales.
 <br>&nbsp;
 
-<h4>⏩ Modelos Sin Registro</h4>
+<h4>➽ Modelos Sin Registro</h4>
 <br>&nbsp;
 *Modelos EGAL (Exterminador Galáctico)*
 
@@ -110,7 +110,7 @@ La metrópolis cuenta con diferentes tipos de inteligencia artificial que forman
 * Características: Ciberseguridad. Tareas de programación. Aprendizaje. Puede realizar diferentes tareas para facilitar investigaciones de datos, obteniendolos de otros dispositivos electrónicos y hackeando sus códigos para obtener acceso.
 Los robots poseen softwares de última generación capaces de captar, almacenar y compartir datos que se convierten en información de gran valor en el avance de los estudios de investigación. Poder contar con la precisión de la robótica en la ciencia permite obtener resultados más verídicos y realizar pruebas de hipótesis en entornos donde se aseguran que siempre se actúe bajo los mismos parámetros y estándares de ejecución y calidad. Por otro lado, la resistencia y exhaustiva manipulación que realiza un robot colaborativo, lo convierte en el mejor instrumento para el manejo de ciertas sustancias o la realización de ciertos procesos peligrosos.
 <br>&nbsp;
-<h4>⏩ Leyes de la robótica</h4>
+<h4>➽ Leyes de la robótica</h4>
 
 Son un conjunto de normas que se aplican a todas las Inteligencias Artificiales Registradas. Están diseñados para cumplir órdenes y establecen lo siguiente:
 
@@ -121,7 +121,7 @@ Son un conjunto de normas que se aplican a todas las Inteligencias Artificiales 
 
 Estas leyes surgen únicamente como medida de protección para los seres humanos, y representan el código moral del robot. Un robot va a actuar siempre bajo los imperativos de sus tres leyes. Para todos los efectos, un robot se comportará como un ser moralmente correcto.
 
-<h4>⏩ Organismos que desarrollan Inteligenia Artificial</h4>
+<h4>➽ Organismos que desarrollan Inteligenia Artificial</h4>
 
 * **_I.A. Nébula._** Compañía dedicada al diseño,construcción y venta de robots. Fundador de la compañía: Fritz. Ingeniero y diseñador de robots y cofundador de la compañía: Lester.
 * **_I.A. Doxes._** Dueño: Fritz. Slogan: Doxes, toda la tecnología de robótica inteligente. Crean Real Sim.
