@@ -8,6 +8,8 @@ layout: default
 
 **TRANSPORTE**
 
+**Ministra de transporte:** Tanis
+
 <h4>➽ Transportación</h4>
 
 - DTC (dispositivo de transportación por cámaras). Dispositivo de teletransporte usando dos cabinas o cámaras (telépodos) donde el objeto (inerte o vivo) se desintegra y reintegra completando el proceso de teletransporte. Este proceso es asistido por una potente computadora. Este dispositivo puede transportar multitudes de 100 personas. 
@@ -42,15 +44,21 @@ layout: default
 
 * * * 
 
-**BIOTECNOLOGÍA**
+**NANOTECNOLOGÍA**
+
+Se implementa tanto para la biotecnología, como la Inteligencia artificial. 
 
 * * * 
 
-**NANOTECNOLOGÍA**
+**BIOTECNOLOGÍA**
+
+**Miinistra de ciencia y Tecnología:** Bianca
 
 * * * 
 
 **INTELIGENCIA ARTIFICIAL**
+
+**Ministro de Industria y Tecnología Informática:** Kratzer
 
 La metrópolis cuenta con diferentes tipos de inteligencia artificial que forman parte de la viuda cotidina, los sistemas de Inteligencia Artificial utilizados en distintos dispositivos inteligentes y los androides (que pueden ser antropomórficos o zoomórficos). Éstos fueron diseñados y creados por unos pocos ingenieros y empresarios. Los androides que son mucho más complejos que los sistemas de dispositivos, están regidos bajo leyes y normativas por lo que se requiere un registro nacional obligatorio, de caso contrario se estaría ejerciendo contra la ley. Por lo tanto los diferentes modelos de androides se clasifican en Modelos registrados y modelos sin registrar.
 
