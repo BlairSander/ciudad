@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>gallery</title>
+    <style>
+      
+body {
+	background: #f2f2f2;
+}
+
+.contenedor {
+	margin: 40px auto;
+	max-width: 700px;  /* Ancho máximo de la imagen */ 
+}
+
+.card { /* CODIGO PARA EL BORDE BLANCO, SE PUEED BORRAR */ 
+	padding: 5px;
+	background: #fff;
+	margin-bottom: 0px; /* espacio entre imagenes */ 
+	border-radius: 10px; /* esquinas redondeadas del borde blanco */ 
+	box-shadow: 0px 0px 10px rgba(71, 71, 71, 0.15);
+}
+
+.card img {
+	width: 100%;
+	vertical-align: top;
+	border-radius: 10px; /* esquina redondeada de la imagen */ 
+}
+      
+    </style>
+    <!-- Codigo para galerias   -->
+</head>
+<body>
+ 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<h2>Casa en el medio del bosque, en el barrio Turen </h2>
+	<main class="contenedor">
+		Plano<div class="card"><img src="http://drive.google.com/uc?export=view&id=1MxDUyPLnSlaaSIXEeiyNDci--XZxeJSX" alt=""></div><br>
+		Frente<div class="card"><img src="http://drive.google.com/uc?export=view&id=1naonnvybobomlwz-m70yo8qCPTt1Re5a" alt=""></div><br>
+		Living<div class="card"><img src="http://drive.google.com/uc?export=view&id=1ey9N4S2ycBRTXap-di3A7jzKvhPH1M7y" alt=""></div><br>
+		Television en el living<div class="card"><img src="http://drive.google.com/uc?export=view&id=16zX8NB6UDG0TG7mp1D4YwsfpFIlR-e-Z" alt=""></div><br>
+		Sala 1<div class="card"><img src="http://drive.google.com/uc?export=view&id=10SqwS6PNZFRKoqtPZ1NpBmIAgiwHXm2S" alt=""></div><br>
+		Sala 2<div class="card"><img src="http://drive.google.com/uc?export=view&id=1Kp1FYRiStczdKNR2sV8x54vyOoJI70OE" alt=""></div><br>
+		Baño<div class="card"><img src="http://drive.google.com/uc?export=view&id=1oFWWf0-vtI-SOFE6MVuaQbdda2pMcOTj" alt=""></div><br>
+		Biblioteca<div class="card"><img src="http://drive.google.com/uc?export=view&id=1TDk9JjKvviXi6z4vLeuuf7AziU7bYgvy" alt=""></div><br>
+		Sala cerca de la Biblioteca<div class="card"><img src="http://drive.google.com/uc?export=view&id=1yPZoVw1D3xwkcdAYlph-ZrgqgOIxl8dN" alt=""></div><br>
+		Comedor<div class="card"><img src="http://drive.google.com/uc?export=view&id=1hCoXH6RvLel8srW2qpRURLIlWxYZtrQH" alt=""></div><br>
+		Habitacion de Reif y Fausto<div class="card"><img src="http://drive.google.com/uc?export=view&id=1tftO53Kfbo9Ulp8MXUe_gAOb-KnpDzYz" alt=""></div><br>
+		Baño<div class="card"><img src="http://drive.google.com/uc?export=view&id=1Y4l2ehPrMcST8lnRCzZp8NO_jQuxWZii" alt=""></div><br>
+		Habitacion de Madoc<div class="card"><img src="http://drive.google.com/uc?export=view&id=1hE9CX7Zrk8L6PyIVU21Q20hKKNh-ceXu" alt=""></div><br>
+		Habitacion de Madoc<div class="card"><img src="http://drive.google.com/uc?export=view&id=1upXQVkNMaeBQhk2KLC41yNYL1tlkEJT4" alt=""></div><br>
+		Habitacion Invitados<div class="card"><img src="http://drive.google.com/uc?export=view&id=1m1k_HOHCvlxF8KUrM9MJV7_6bp2zqKuO" alt=""></div><br>
+		Baño Invitados<div class="card"><img src="http://drive.google.com/uc?export=view&id=13wZed0Dnsczz_-QiSYlmG8xCPzhyjYPL" alt=""></div><br>
+
+	</main>
+</body>
+</html>
+  
+</body>
+</html>
