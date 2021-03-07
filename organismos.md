@@ -59,7 +59,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 - Panaderías ► 
 - Restaurant mariscos/mediterraneo ► Puerto Citrino
     - Empleada: Lezne 
-- Restaurante ► Centro Blair
+- [Restaurante](https://blairsander.github.io/ciudad/restauranteremi.html) ► Centro Blair
    - Dueño: Remi 
    - Ayudante: Purín 
 - Bares ► 
