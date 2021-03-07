@@ -13,7 +13,7 @@ layout: default
 
 | **Aster**| **Reverie**| **Midsommar** |
 |:-------------|:------------------|:------|
-| nadie| ☗ Garret <br>☗ Set Ava | [☗](https://blairsander.github.io/ciudad/caba%C3%B1aumeduri.html) Ume Durian|
+| nadie| ☗ Garret <br>[☗](https://blairsander.github.io/ciudad/casasethava.html) Set Ava | [☗](https://blairsander.github.io/ciudad/caba%C3%B1aumeduri.html) Ume Durian|
 
 
 | **Alen**| **Turen**| **Kepler** |
