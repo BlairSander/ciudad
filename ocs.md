@@ -18,7 +18,7 @@ layout: default
 
 | **Alen**| **Turen**| **Kepler** |
 |:-------------|:------------------|:------|
-| ☗ Izan <br>☗ Franci <br>☗ Riva | ☗ Liv Eruo Costella <br>☗ Haunter | nadie |
+| ☗ Izan <br>☗ Franci <br>☗ Riva | [☗](https://blairsander.github.io/ciudad/casaliv) Liv Eruo Costella <br>☗ Haunter | nadie |
 
 
 | **Kavensport**| **Deacon**| **Tadmor** |
