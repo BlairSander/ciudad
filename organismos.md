@@ -162,7 +162,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Catedral ► 
 * Deportes ► 
 * Estadio Unico ► 
-* Estadio de Hielo ► 
+* [Estadio de Hielo](https://blairsander.github.io/ciudad/estadiohielo.html) ► Kavensport
 * Clubes-Complejos deportivos ►  Citrino
 * Clubes-Complejos deportivos ►  Strega
 * Clubes-Complejos deportivos ►  Blair
