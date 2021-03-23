@@ -139,7 +139,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
    - Ingeniero: Izan
    - Ingeniero: Lester
    - Ingeniero: Dark
-* Pixipon ► 
+* [Pixipon](https://blairsander.github.io/ciudad/pixipon.html) ► Centro Blair
    - Fundadora: Costella
 * Pulsar ► 
    -  Dueña: Tanis
