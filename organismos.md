@@ -56,6 +56,8 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
     - Administrador: Eliot
 - [Restaurante](https://blairsander.github.io/ciudad/restaurantedemi.html) ► Puerto Citrino
    - Dueño: Remi 
+   - Dean
+   - Purin
 - Golosinas ► 
 - Heladería ► 
 - Panaderías ► 
