@@ -54,10 +54,11 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 - [Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html) ► Puerto Citrino
     - Dueño: Herz 
     - Administrador: Eliot
+    - Mesera: Esmeralda
 - [Restaurante](https://blairsander.github.io/ciudad/restaurantedemi.html) ► Puerto Citrino
    - Dueño: Remi 
    - Dean
-   - Purin
+   - Ayudante: Purin
 - Golosinas ► 
 - Heladería ► 
 - Panaderías ► 
@@ -66,7 +67,8 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 - [Restaurante](https://blairsander.github.io/ciudad/restauranteremi.html) ► Centro Blair
    - Dueño: Remi 
    - Ayudante: Purín 
-- Bares ► 
+- Bar ► Puerto Citrino
+   - Encargado/Bartender: Gein 
 - Kioscos ► 
 
 <h4>URBANISMO</h4>
