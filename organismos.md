@@ -54,6 +54,8 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 - [Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html) ► Puerto Citrino
     - Dueño: Herz 
     - Administrador: Eliot
+- [Restaurante](https://blairsander.github.io/ciudad/restaurantedemi.html) ► Puerto Citrino
+   - Dueño: Remi 
 - Golosinas ► 
 - Heladería ► 
 - Panaderías ► 
