@@ -8,12 +8,12 @@ layout: default
 
 | **Centro Blair**| **Puerto Citrino**| **Gialo**|
 |:-------------|:------------------|:------|
-| ☗ Dark <br>☗ Audy Serpentita <br>[☗](https://blairsander.github.io/ciudad/apartamentoglaze.html) Glaze <br>☗ Ray <br>[☗](https://blairsander.github.io/ciudad/apartamentoremi.html) Remi <br>☗ Einar <br>☗ Fausto | ☗ Ima Dante <br>[☗](https://blairsander.github.io/ciudad/mansionawen.html) Awen Cali <br>[☗](https://blairsander.github.io/ciudad/casagobierno) Reif Madoc <br>☗ Desmond <br>[☗](https://blairsander.github.io/ciudad/casanepalzia.html) Nepal Zia <br>☗ Odel | [☗](https://blairsander.github.io/ciudad/mansiondean.html) Dean <br>☗ Bianca Ciever Leyva <br>☗ Roberto <br>[☗](https://blairsander.github.io/ciudad/casakrauss.html) Krauss| 
+| ☗ Dark <br>☗ Audy Serpentita <br>[☗](https://blairsander.github.io/ciudad/apartamentoglaze.html) Glaze <br>☗ Ray <br>[☗](https://blairsander.github.io/ciudad/apartamentoremi.html) Remi <br>☗ Einar | ☗ Ima Dante <br>[☗](https://blairsander.github.io/ciudad/mansionawen.html) Awen Cali <br>[☗](https://blairsander.github.io/ciudad/casagobierno) Reif Madoc <br>☗ Desmond <br>[☗](https://blairsander.github.io/ciudad/casanepalzia.html) Nepal Zia <br>☗ Odel | [☗](https://blairsander.github.io/ciudad/mansiondean.html) Dean <br>☗ Bianca Ciever Leyva <br>☗ Roberto <br>[☗](https://blairsander.github.io/ciudad/casakrauss.html) Krauss| 
 
 
 | **Aster**| **Reverie**| **Midsommar** |
 |:-------------|:------------------|:------|
-| nadie| ☗ Garret <br>[☗](https://blairsander.github.io/ciudad/casasethava.html) Set Ava | [☗](https://blairsander.github.io/ciudad/caba%C3%B1aumeduri.html) Ume Durian|
+| ☗ Fausto| ☗ Garret <br>[☗](https://blairsander.github.io/ciudad/casasethava.html) Set Ava | [☗](https://blairsander.github.io/ciudad/caba%C3%B1aumeduri.html) Ume Durian|
 
 
 | **Alen**| **Turen**| **Kepler** |
