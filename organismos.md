@@ -187,7 +187,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 <h4>ORDEN</h4>
 * Comisaría (Policía) ►  
 * Prisión Lannister ► 
-* Centro Rehab ► Turen
+* [Centro Rehab](https://blairsander.github.io/ciudad/centrorehab.html) ► Turen
 * Psiquiátrico ►
 * Gendarmería Nacional ► 
 * Cementerio ► 
