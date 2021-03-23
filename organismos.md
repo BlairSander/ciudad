@@ -172,7 +172,8 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Club nocturno homo ► Zona Roja
 * Club nocturno  ► Zona Roja
     * Jefe: Devi
-* Club nocturno  ► Puerto Citrino
+* [Club nocturno Alter](https://blairsander.github.io/ciudad/nightclubalter.html)  ► Puerto Citrino
+    * DJ local: Partuza
 * Bioparque
 * Acuario
 * Centro de escalada deportiva Kavensport
