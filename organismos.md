@@ -165,7 +165,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * [Estadio de Hielo](https://blairsander.github.io/ciudad/estadiohielo.html) ► Kavensport
 * Clubes-Complejos deportivos ►  Citrino
 * Clubes-Complejos deportivos ►  Strega
-* Clubes-Complejos deportivos ►  Blair
+* [Club-Complejo Polideportivo](https://blairsander.github.io/ciudad/polideportivoblair.html) ►  Blair
 * Clubes-Complejos deportivos ►  Tadmor
 * Club nocturno ► Centro Blair 
     * Dueño: Izan
