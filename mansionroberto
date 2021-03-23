@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>gallery</title>
+    <style>
+      
+body {
+	background: #f2f2f2;
+}
+
+.contenedor {
+	margin: 40px auto;
+	max-width: 700px;  /* Ancho máximo de la imagen */ 
+}
+
+.card { /* CODIGO PARA EL BORDE BLANCO, SE PUEED BORRAR */ 
+	padding: 5px;
+	background: #fff;
+	margin-bottom: 0px; /* espacio entre imagenes */ 
+	border-radius: 10px; /* esquinas redondeadas del borde blanco */ 
+	box-shadow: 0px 0px 10px rgba(71, 71, 71, 0.15);
+}
+
+.card img {
+	width: 100%;
+	vertical-align: top;
+	border-radius: 10px; /* esquina redondeada de la imagen */ 
+}
+      
+    </style>
+    <!-- Codigo para galerias   -->
+</head>
+<body>
+ 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<h2>Mansion donde viven Dean y Sugar</h2>
+	<main class="contenedor">
+		Exterior<div class="card"><img src="http://drive.google.com/uc?export=view&id=1eGu_zzBVkfncJh3kkwqM3Vt7ftPE3S4n" alt=""></div><br>
+		Frente<div class="card"><img src="http://drive.google.com/uc?export=view&id=1QpVvQSAMwIPBCk2QV51MVjEWigW9q9N5" alt=""></div><br>
+    Frente<div class="card"><img src="http://drive.google.com/uc?export=view&id=1Wwjy58GF5fF8VrzFiIDhGd9G2RGg7qi1" alt=""></div><br>
+		Hall<div class="card"><img src="http://drive.google.com/uc?export=view&id=1jQiSm-JB4nPj__Kk4Skk1PEbpR99vnrX" alt=""></div><br>
+    Sala<div class="card"><img src="http://drive.google.com/uc?export=view&id=1ad_bxdkVO-ugN8iAXP6J8x77kZc7QuEe" alt=""></div><br>
+    Living<div class="card"><img src="http://drive.google.com/uc?export=view&id=1_ldb3kYrFy8HEwIrA4YTd8QFOXnW1SGw" alt=""></div><br>
+    Sala entretenimiento<div class="card"><img src="http://drive.google.com/uc?export=view&id=1AHJpLGBVmDjPB4pSfM4bpW7dsInIx2if" alt=""></div><br>
+    Sala entretenimiento<div class="card"><img src="http://drive.google.com/uc?export=view&id=1_40Z-6UOd5_jaWeyCsk-c0MHkrvrEoKU" alt=""></div><br>
+    Cocina<div class="card"><img src="http://drive.google.com/uc?export=view&id=1zWYEfhyxly6r1fIl7tpkEo5n8b8A9Rf1" alt=""></div><br>
+    Dormitorio<div class="card"><img src="http://drive.google.com/uc?export=view&id=1zuy3_mgEt3Cv00aMjpX6M_kwA1YJREZR" alt=""></div><br>
+    Closet<div class="card"><img src="http://drive.google.com/uc?export=view&id=1l1PSBbbM2QPl59l4ZMh_4DHc81HQbnCr" alt=""></div><br>
+    Gimnasio<div class="card"><img src="http://drive.google.com/uc?export=view&id=1IouMbb6wCRTkhdNZm8Z3i-KbGCyRLFkW" alt=""></div><br>
+    Home teather<div class="card"><img src="http://drive.google.com/uc?export=view&id=1VWww7s2IhmnPKjLpPkTk6bYDASgzb-BM" alt=""></div><br>
+    Cancha<div class="card"><img src="http://drive.google.com/uc?export=view&id=1Qb-5vQwdetoWvq-3BeZhQdTQeteiRVPn" alt=""></div><br>
+		
+	
+
+	</main>
+</body>
+</html>
+  
+</body>
+</html>
