@@ -23,7 +23,7 @@ layout: default
 
 | **Kavensport**| **Deacon**| **Tadmor** |
 |:-------------|:------------------|:------|
-| ☗ Emi Noir <br>☗ Bernard| ☗ Katty <br>☗ Relojitos <br>[☗](https://blairsander.github.io/ciudad/casamaitecoral.html) Coral Maite <br>☗ Purin| ☗ Herz <br> [☗](https://blairsander.github.io/ciudad/casalark.html) Lark|
+| ☗ Emi Noir <br>☗ Bernard| ☗ Katty <br>[☗](https://blairsander.github.io/ciudad/casarelojes.html) Relojitos <br>[☗](https://blairsander.github.io/ciudad/casamaitecoral.html) Coral Maite <br>☗ Purin| ☗ Herz <br> [☗](https://blairsander.github.io/ciudad/casalark.html) Lark|
 
 
 | **Zona roja Carmesí**| **Delta**| **Villa Strega**| 
