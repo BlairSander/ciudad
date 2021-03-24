@@ -28,5 +28,5 @@ layout: default
 
 | **Zona roja Carmesí**| **Delta**| **Villa Strega**| 
 |:-------------|:------------------|:------------------|
-| ☗ Smurf <br>☗ Devi Lezne  <br>☗ Latifa <br>[☗](https://blairsander.github.io/ciudad/apartamentovelafi.html) Velafi| ☗ Nerea Enzel <br> ☗ Tanis Siena Kyaru Shaunte| ☗ Euler <br>☗ Exit | 
+| ☗ Smurf <br>☗ Devi Lezne  <br>☗ Latifa <br>[☗](https://blairsander.github.io/ciudad/apartamentovelafi.html) Velafi| ☗ Nerea Enzel <br> [☗](https://blairsander.github.io/ciudad/casatanis.html) Tanis Siena Kyaru Shaunte| ☗ Euler <br>☗ Exit | 
 
