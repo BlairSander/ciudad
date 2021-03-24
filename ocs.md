@@ -8,7 +8,7 @@ layout: default
 
 | **Centro Blair**| **Puerto Citrino**| **Gialo**|
 |:-------------|:------------------|:------|
-| ☗ Dark <br>☗ Audy Serpentita <br>[☗](https://blairsander.github.io/ciudad/apartamentoglaze.html) Glaze <br>☗ Ray <br>[☗](https://blairsander.github.io/ciudad/apartamentoremi.html) Remi <br>[☗](https://blairsander.github.io/ciudad/apartamentoeinar.html) Einar | ☗ Ima Dante <br>[☗](https://blairsander.github.io/ciudad/mansionawen.html) Awen Cali <br>[☗](https://blairsander.github.io/ciudad/casagobierno) Reif Madoc <br>☗ Desmond <br>[☗](https://blairsander.github.io/ciudad/casanepalzia.html) Nepal Zia <br>☗ Odel <br>☗ Nisha| [☗](https://blairsander.github.io/ciudad/mansiondean.html) Dean <br>☗ Bianca Ciever Leyva <br>[☗](https://blairsander.github.io/ciudad/mansionroberto.html) Roberto <br>[☗](https://blairsander.github.io/ciudad/casakrauss.html) Krauss| 
+| [☗](https://blairsander.github.io/ciudad/casadark.html) Dark <br>☗ Audy Serpentita <br>[☗](https://blairsander.github.io/ciudad/apartamentoglaze.html) Glaze <br>☗ Ray <br>[☗](https://blairsander.github.io/ciudad/apartamentoremi.html) Remi <br>[☗](https://blairsander.github.io/ciudad/apartamentoeinar.html) Einar | ☗ Ima Dante <br>[☗](https://blairsander.github.io/ciudad/mansionawen.html) Awen Cali <br>[☗](https://blairsander.github.io/ciudad/casagobierno) Reif Madoc <br>☗ Desmond <br>[☗](https://blairsander.github.io/ciudad/casanepalzia.html) Nepal Zia <br>☗ Odel <br>☗ Nisha| [☗](https://blairsander.github.io/ciudad/mansiondean.html) Dean <br>☗ Bianca Ciever Leyva <br>[☗](https://blairsander.github.io/ciudad/mansionroberto.html) Roberto <br>[☗](https://blairsander.github.io/ciudad/casakrauss.html) Krauss| 
 
 
 | **Aster**| **Reverie**| **Midsommar** |
