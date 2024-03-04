@@ -17,7 +17,7 @@ layout: default
 <br>&nbsp;
 
 | Nombre     | Cargo     |
-|----------|----------|
+|----------------------|------------------------------------------------------|
 | hi there | hi there |
 | Fausto | Ministro de Seguridad y Defensa| 
 | Coral | Ministro de Educación|
