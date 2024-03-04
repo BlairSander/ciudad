@@ -16,26 +16,23 @@ layout: default
 - MINISTROS
 <br>&nbsp;
 
-| Col1     |
-|----------|
-| hi there |
-
-| Nombre | Cargo |<br>
-|:-------------|:------------------|<br>
-| Fausto | Ministro de Seguridad y Defensa|  <br>
-| Coral | Ministro de Educación|<br>
-| Bianca| Ministro de Ciencia y Tecnología| <br>
-|  | Ministro de Asuntos Civiles|<br>
-| Euler | Ministro de Justicia|<br>
-| Ray | Ministro de Protección Medioambiental|<br>
-| | Ministro de Construcción y Desarrollo Urbano - Rural	|<br>
-| Tanis| Ministro de Transportes|<br>
-| Kratzer | Ministro de Industria y Tecnología Informática|<br>
-| | Ministro de Agricultura	|<br>
-| | Ministro de Obras Hidráulicas	|<br>
-| | Ministro de Comercio	|<br>
-| Roberto Arlt (Natacha)| Ministro de Cultura|<br>
-| Renan| Ministro de Salud|<br>
+| Nombre     | Cargo     |
+|----------|----------|
+| hi there | hi there |
+| Fausto | Ministro de Seguridad y Defensa| 
+| Coral | Ministro de Educación|
+| Bianca| Ministro de Ciencia y Tecnología|
+|  | Ministro de Asuntos Civiles|
+| Euler | Ministro de Justicia|
+| Ray | Ministro de Protección Medioambiental|
+| | Ministro de Construcción y Desarrollo Urbano - Rural	|
+| Tanis| Ministro de Transportes|
+| Kratzer | Ministro de Industria y Tecnología Informática|
+| | Ministro de Agricultura	|
+| | Ministro de Obras Hidráulicas	|
+| | Ministro de Comercio	|
+| Roberto Arlt (Natacha)| Ministro de Cultura|
+| Renan| Ministro de Salud|
 <br>&nbsp;
 <h3>SECTORES</h3>
 Los entes de gobernanza metropolitana son organismos
