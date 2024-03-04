@@ -16,6 +16,10 @@ layout: default
 - MINISTROS
 <br>&nbsp;
 
+| Col1     |
+|----------|
+| hi there |
+
 | Nombre | Cargo |<br>
 |:-------------|:------------------|<br>
 | Fausto | Ministro de Seguridad y Defensa|  <br>
