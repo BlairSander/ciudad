@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-
 <h2>Gobierno de Blair Sander</h2>
 
 <h3>AUTORIDADES: CONSEJO DE ESTADO</h3>
-
 - PRESIDENTE
   - Reif
 - VICEPRESIDENTES
@@ -34,7 +32,6 @@ layout: default
 | | Ministro de Comercio	|
 | Roberto Arlt (Natacha)| Ministro de Cultura|
 | Renan| Ministro de Salud|
-
 <br>&nbsp;
 <h3>SECTORES</h3>
 Los entes de gobernanza metropolitana son organismos
