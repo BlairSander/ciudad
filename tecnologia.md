@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2>Tecnología</h2>
+<h1>Tecnología</h1>
 
 - [Transporte](#transporte)
 - [Nanotecnología](#nanotecnología)
