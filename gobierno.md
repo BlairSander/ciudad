@@ -33,6 +33,14 @@ layout: default
 | Roberto Arlt (Natacha)| Ministro de Cultura|
 | Renan| Ministro de Salud|
  
++-------+
+| Col1  |
++=======+
+| hi    |
+|       |
+| there |
++-------+
+
 <h3>SECTORES</h3>
 Los entes de gobernanza metropolitana son organismos
 institucionalizados que cumplen funciones para más de un sector, es decir, son multisectoriales.
