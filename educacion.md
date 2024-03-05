@@ -22,12 +22,12 @@ layout: default
 
 *Ref. Ciclo orientado: Distintas tenencias orientativas afines a las carreras universitarias por las que los alumnos pueden optar.*
 
-**Ed. SUPERIOR** Se logra mediante institutos de educación superior o universidades.  Con la finalidad de cumplir con las exigencias legales, técnicas y pedagógicas de los diferentes niveles educativos. Modalidades de educación superior: 
-* Educación técnico profesional, Ciclos formativos de grado superior: Dirigidos a los alumnos con el título secundario y como alternativa a la universidad. La titulación obtenida es de Técnico/a superior. 
-* Carreras de grado: Universidades públicas/privadas aprobadas por la Comisión Nacional de Evaluación y Acreditación Universitaria. Tipos de carreras de grado: Licenciaturas y profesorados. Licenciaturas (de 4 a 6 años): Acreditan experticia en investigación en un área del conocimiento determinado. Profesorados: carreras acreditadas que habilitan a la enseñanza universitaria.
+**Ed. SUPERIOR** Otorgado por institutos de educación superior o universidades. Modalidades de educación superior: 
+* Educación técnico profesional: Son ciclos formativos de grado superior dirigidos a los alumnos con el título secundario y como alternativa a la universidad. La titulación obtenida es de Técnico/a superior. 
+* Carreras de grado: Universidades públicas/privadas aprobadas por la Comisión Nacional de Evaluación y Acreditación Universitaria. Tipos de carreras de grado: Licenciaturas y profesorados. *Licenciaturas:* (de 4 a 6 años) Acreditan experticia en investigación en un área del conocimiento determinado. *Profesorados:* carreras acreditadas que habilitan a la enseñanza universitaria.
 * Carreras de posgrado: Cursos divididos en especializaciones, maestrías y doctorados los cuales pueden ser presenciales, semipresenciales o carreras a distancia.
-* Educación artística,  Enseñanzas artísticas superiores. Música; Danza; Arte Dramático; Conservación y Restauración de Bienes Culturales; Diseño; Artes Plásticas; Cerámica; estudios superiores del Vidrio.
-* Educación permanente de adultos, Para adultos que no terminaron los estudios básicos y obligatorios. 
+* Enseñanzas artísticas superiores: Música; Danza; Arte Dramático; Conservación y Restauración de Bienes Culturales; Diseño; Artes Plásticas; Cerámica; estudios superiores del Vidrio.
+* Educación permanente de adultos: Para adultos que no terminaron los estudios básicos y obligatorios. 
 * Educación domiciliaria y hospitalaria: Para personas que no pueden asistir a la escuela por condiciones médicas o incapacidad de asistir con regularidad.
 * Educación en contextos de privación de libertad: Para los presos y los que están en manicomios. 
 
