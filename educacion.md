@@ -5,8 +5,18 @@ layout: default
 <h2>Educación</h2>
 
 **Ministra de Educación:** Coral.
+<BR>
+<h3>NO-HUMANOS</h3>
+<BR>
 
+**Ed. ESPECIAL**
+Tienen un sistema educativo diferente al de los humanos. 
+* ***Altavis:*** 
+* ***Lexvoays:*** 
+* ***Gijinkas:*** 
+<BR>
 <h3>HUMANOS</h3> 
+ <BR>
  
 | Ed. INICIAL | Ed. PRIMARIA | Ed. SECUNDARIA |
 |------|------|------|
@@ -30,13 +40,15 @@ layout: default
 * ***Educación permanente de adultos:*** Para adultos que no terminaron los estudios básicos y obligatorios. 
 * ***Educación domiciliaria y hospitalaria:*** Para personas que no pueden asistir a la escuela por condiciones médicas o incapacidad de asistir con regularidad.
 * ***Educación en contextos de privación de libertad:*** Para los presos y los que están en manicomios. 
+<BR>
+**Facultad de**
+  
+| Arquitectura y Urbanismo | Odontología | Trabajo Social |
+|------|------|------|
+| Arquitectura | Odontología | Lic. en Trabajo Social |
 
-<h3>NO-HUMANOS</h3>
-
-**Ed. ESPECIAL**
-Tienen un sistema educativo diferente al de los humanos. 
-* ***Altavis:*** 
-* ***Lexvoays:*** 
-* ***Gijinkas:*** 
-
+| Psicología | Cs. Veterinarias | Cs. Agrarias y Forestales |
+|------|------|------|
+| Lic. en Psicologìa | Cs. Veterinarias | Ingeniería Agronómica |
+| Prof. en Psicología | Microbiología Clínica e Industrial | Ingeniería Forestal |
 
