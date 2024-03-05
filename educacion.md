@@ -6,7 +6,7 @@ layout: default
 
 **Ministra de Educación:** Coral.
 
-<h4>HUMANOS</h4> 
+<h3>HUMANOS</h3> 
  
 | Ed. INICIAL | Ed. PRIMARIA | Ed. SECUNDARIA |
 |------|------|------|
@@ -31,7 +31,7 @@ layout: default
 * Educación domiciliaria y hospitalaria: Para personas que no pueden asistir a la escuela por condiciones médicas o incapacidad de asistir con regularidad.
 * Educación en contextos de privación de libertad: Para los presos y los que están en manicomios. 
 
-<h4>NO-HUMANOS</h4>
+<h3>NO-HUMANOS</h3>
 
 **Ed. ESPECIAL**
 Tienen un sistema educativo diferente al de los humanos. 
