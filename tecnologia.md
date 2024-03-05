@@ -17,8 +17,8 @@ layout: default
 
 |Terrestre|Aéreo|Marítimo|Transportación|
 |---|---|---|---|
-|Tren bala|Jet|Barco |<details> <summary>DTC</summary> (dispositivo de transportación por cámaras). Dispositivo de teletransporte usando dos cabinas o cámaras (telépodos) donde el objeto (inerte o vivo) se desintegra y reintegra completando el proceso de teletransporte. Este proceso es asistido por una potente computadora. Este dispositivo puede transportar multitudes de 100 personas. </details> |
-|Subte |Helicóptero |Bote | <details> <summary>DTP</summary> (dispositivo de transporte por pulsera). Este dispositivo sólo logra transportar hasta dos personas por vez. </details> |
+|Tren bala|Jet|Barco |<details> <summary> DTC </summary> (dispositivo de transportación por cámaras). Dispositivo de teletransporte usando dos cabinas o cámaras (telépodos) donde el objeto (inerte o vivo) se desintegra y reintegra completando el proceso de teletransporte. Este proceso es asistido por una potente computadora. Este dispositivo puede transportar multitudes de 100 personas. </details> |
+|Subte |Helicóptero |Bote | <details> <summary> DTP </summary> (dispositivo de transporte por pulsera). Este dispositivo sólo logra transportar hasta dos personas por vez. </details> |
 |Limusina xd |Avión |Crucero |||
 |Auto personal |multicóptero |Lancha||
 |Camioneta |helicóptero Airbus|||
@@ -133,32 +133,3 @@ Estas leyes surgen únicamente como medida de protección para los seres humanos
 * **_Pulsar._** Empresa privada, perteneciente a Tanis. Desarrollo de vehículos motorizados autónomos. Son sistemas de inteligencia artificial capaces de circular en el tráfico real recurriendo tan sólo a cámaras y sensores, IA y un navegador GPS. Emplea el deep learning para aprender a conducir por experiencia. Pueden reconocer el entorno, identificar situaciones de riesgo y detectar, por ejemplo, marcas viales, señales, peatones o ciclistas. También emplean inteligencia artificial para el procesamiento natural del lenguaje, de modo que se puede comunicar con el vehículo usando la forma de hablar natural. De esta forma, se le puede dar órdenes, como “sube la temperatura del climatizador a 24 grados”. Además, estos sistemas reconocen rutinas (rutas habituales, música preferida, temperatura favorita…) para automatizarlas.
 * **_Muro Génesis._** Organismo perteneciente a la nación, dirigido por Dark. Desarrollo web, defensa y ciberseguridad. Fabrica drones que crean mapas para la seguridad nacional. Encuentra vulnerabilidades en la ciberseguridad. Fabrica sistemas de vigilancia con fines de seguridad nacional.
 * **_ONG IADA._** Fundada por Ray. ONG IADA. Ingeniería ambiental y defensa animal. Fabrica robots que identifican y clasifican materiales reciclables.
-<details>
-<summary>EFE EN EL CHAT</summary>
-
-fgfdgfdgFdGff
-fg
-df
-g
-gd
-dfg
-fdg
-fdg
-df
-g
-dfg
-dfg
-df
-gd
-fg
-dfg
-df
-g
-dfg
-df
-g
-</details>
-
-
-
-
