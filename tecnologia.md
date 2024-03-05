@@ -156,4 +156,6 @@ Estas leyes surgen únicamente como medida de protección para los seres humanos
 * **_ONG IADA._** Fundada por Ray. ONG IADA. Ingeniería ambiental y defensa animal. Fabrica robots que identifican y clasifican materiales reciclables.
 
 
+1
+
 
