@@ -8,46 +8,21 @@ layout: default
 
 HUMANOS
  
-| Educación inicial | Educación primaria | 
-|------|------|
-| Obligatorio de 3-5 años | Primer Ciclo
-* Primer Grado: 6-7 años
-* Segundo Grado: 7-8 años
-* Tercer Grado: 8-9 años|
-| Lactantes (45 días-1 año) | |
-| Deambuladores (1 año-2 años) | |
-| Sala de 2 años | |
-| Sala de 3 años (primera sala del "jardín de infantes") | |
-| Sala de 4 años (obligatoria) | |
-| Sala de 5 años (obligatoria) | |
+| Educación inicial | Educación primaria | Educación secundaria |
+|------|------|------|
+| Obligatorio de 3-5 años | Primer Ciclo | Ciclo básico |
+| Lactantes (45 días-1 año) | Primer Grado: 6-7 años| Primer año: 12-13 años |
+| Deambuladores (1 año-2 años) | Segundo Grado: 7-8 años| Segundo año:	13-14 años |
+| Sala de 2 años | Tercer Grado: 8-9 años | Tercer año: 14-15 años | 
+| Sala de 3 años (primera sala del "jardín de infantes") | Segundo Ciclo | Ciclo orientado |
+| Sala de 4 años (obligatoria) | Cuarto Grado: 9-10 años| Cuarto año: 15-16 años |
+| Sala de 5 años (obligatoria) | Quinto Grado: 10-11 años | Quinto año: 16-17 años |
+|| Sexto Grado: 11-12 años| Sexto año: 17-18 años |
+|| Séptimo Grado: 12-13 años| |
 
 
-
-
-Segundo Ciclo
-* Cuarto Grado: 9-10 años
-* Quinto Grado: 10-11 años
-* Sexto Grado: 11-12 años
-* Séptimo Grado: 12-13 años
-<br>&nbsp;
-<h4>Educación secundaria</h4>
-
-Ciclo básico
-
-* Primer año: 12-13 años
-* Segundo año:	13-14 años
-* Tercer año: 14-15 años
-
-Ciclo orientado (distintas tenencias orientativas afines a las carreras universitarias por las que los alumnos pueden optar) 
-
-* Cuarto año: 15-16 años
-* Quinto año: 16-17 años
-* Sexto año: 17-18 años
-<br>&nbsp;
-<h4>Educación superior </h4>
-
-Se logra mediante institutos de educación superior o universidades.  Con la finalidad de cumplir con las exigencias legales, técnicas y pedagógicas de los diferentes niveles educativos.
-<br>
+* Ciclo orientado: Distintas tenencias orientativas afines a las carreras universitarias por las que los alumnos pueden optar.
+* Educación superior: Se logra mediante institutos de educación superior o universidades.  Con la finalidad de cumplir con las exigencias legales, técnicas y pedagógicas de los diferentes niveles educativos.
 
 Modalidades de educación superior: 
 
