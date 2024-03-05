@@ -6,24 +6,23 @@ layout: default
 
 **Ministra de Educación:** Coral.
 
-El sistema educativo de Blair Sander se compone de cuatro niveles para los humanos: inicial, primaria, secundaria y superior. Es universal para las instituciones de enseñanza pública o privada:
-
-<h4>Educación inicial</h4>
-En la educación inicial: sólo las salas de 3, 4 y 5 años son obligatorias.
-
-* Lactantes (45 días-1 año)
-* Deambuladores (1 año-2 años)
-* Sala de 2 años
-* Sala de 3 años (primera sala del "jardín de infantes")
-* Sala de 4 años (obligatoria)
-* Sala de 5 años (obligatoria)
-<br>&nbsp;
-<h4>Educación primaria</h4>
-
-Primer Ciclo
+HUMANOS
+ 
+| Educación inicial | Educación primaria | 
+|------|------|
+| Obligatorio de 3-5 años | Primer Ciclo
 * Primer Grado: 6-7 años
 * Segundo Grado: 7-8 años
-* Tercer Grado: 8-9 años
+* Tercer Grado: 8-9 años|
+| Lactantes (45 días-1 año) | |
+| Deambuladores (1 año-2 años) | |
+| Sala de 2 años | |
+| Sala de 3 años (primera sala del "jardín de infantes") | |
+| Sala de 4 años (obligatoria) | |
+| Sala de 5 años (obligatoria) | |
+
+
+
 
 Segundo Ciclo
 * Cuarto Grado: 9-10 años
