@@ -18,7 +18,6 @@ layout: default
 
 | Nombre     | Cargo     |
 |-------|-------|
-| hi there | hi there |
 | Fausto | Ministro de Seguridad y Defensa| 
 | Coral | Ministro de Educación|
 | Bianca| Ministro de Ciencia y Tecnología|
