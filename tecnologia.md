@@ -4,9 +4,9 @@ layout: default
 
 <h2>Tecnología</h2>
 
-- [Transporte](#TRANSPORTE)
-- [Nanotecnología](#NANOTECNOLOGÍA)
-- [Biotecnología](#BIOTECNOLOGÍA)
+- [Transporte](#transporte)
+- [Nanotecnología](#nanotecnología)
+- [Biotecnología](#biotecnología)
 - [Inteligencia Artificial](#inteligencia-artificial)
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
