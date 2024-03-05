@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>Tecnología</h1>
+# Tecnología
 
 - [Transporte](#transporte)
 - [Nanotecnología](#nanotecnología)
@@ -15,12 +15,12 @@ layout: default
 
 `Ministra de transporte: Tanis`
 
-<h4>➽ Transportación</h4>
+#### ➽ Transportación
 
 - DTC (dispositivo de transportación por cámaras). Dispositivo de teletransporte usando dos cabinas o cámaras (telépodos) donde el objeto (inerte o vivo) se desintegra y reintegra completando el proceso de teletransporte. Este proceso es asistido por una potente computadora. Este dispositivo puede transportar multitudes de 100 personas. 
 - DTP (dispositivo de transporte por pulsera). Este dispositivo sólo logra transportar hasta dos personas por vez. 
 
-<h4>➽ Terrestre</h4>
+#### ➽ Terrestre
 
 - Tren bala
 - Subte 
@@ -31,7 +31,7 @@ layout: default
 - Bicicleta
 - Combi 
 
-<h4>➽ Aéreo</h4> 
+#### ➽ Aéreo
 
 - Jet 
 - Helicóptero 
@@ -40,7 +40,7 @@ layout: default
 - helicóptero Airbus 
 - Tabla voladora 
 
-<h4>➽ Marítimo</h4>
+#### ➽ Marítimo
 
 - Barco 
 - Bote 
@@ -49,15 +49,13 @@ layout: default
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
-NANOTECNOLOGÍA
-=
+## NANOTECNOLOGÍA
 
 Se implementa tanto para la biotecnología, como la Inteligencia artificial. 
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
-BIOTECNOLOGÍA
-=
+## BIOTECNOLOGÍA
 
 **Ministra de ciencia y Tecnología:** Bianca
 
