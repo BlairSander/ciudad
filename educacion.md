@@ -5,8 +5,9 @@ layout: default
 <h2>Educación</h2>
 
 **Ministra de Educación:** Coral.
-<BR>
-<h3>NO-HUMANOS</h3>
+
+NO-HUMANOS
+==========
 
 **Ed. ESPECIAL**
 Tienen un sistema educativo diferente al de los humanos. 
@@ -41,7 +42,7 @@ Tienen un sistema educativo diferente al de los humanos.
 <BR>
 **Facultad de**
   
-| Arquit. y Urbanismo | Odontología | Trabajo Social | Psicología |
+| Arq. y Urbanismo | Odontología | Trabajo Social | Psicología |
 |------|------|------|------|
 | Arquitectura | Odontología | Lic. en Trabajo Social | Lic. en Psicología |
 ||||Prof. en Psicología|
