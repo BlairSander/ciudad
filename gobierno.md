@@ -22,15 +22,15 @@ layout: default
 | Fausto | Ministro de Seguridad y Defensa| 
 | Coral | Ministro de Educación|
 | Bianca| Ministro de Ciencia y Tecnología|
-|  | Ministro de Asuntos Civiles|
+|.  | Ministro de Asuntos Civiles|
 | Euler | Ministro de Justicia|
 | Ray | Ministro de Protección Medioambiental|
-| | Ministro de Construcción y Desarrollo Urbano - Rural	|
+|. | Ministro de Construcción y Desarrollo Urbano - Rural	|
 | Tanis| Ministro de Transportes|
 | Kratzer | Ministro de Industria y Tecnología Informática|
-| | Ministro de Agricultura	|
-| | Ministro de Obras Hidráulicas	|
-| | Ministro de Comercio	|
+|. | Ministro de Agricultura	|
+| .| Ministro de Obras Hidráulicas	|
+|. | Ministro de Comercio	|
 | Roberto Arlt (Natacha)| Ministro de Cultura|
 | Renan| Ministro de Salud|
 <br>&nbsp;
