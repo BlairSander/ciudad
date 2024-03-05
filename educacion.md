@@ -7,7 +7,6 @@ layout: default
 **Ministra de Educación:** Coral.
 <BR>
 <h3>NO-HUMANOS</h3>
-<BR>
 
 **Ed. ESPECIAL**
 Tienen un sistema educativo diferente al de los humanos. 
@@ -16,7 +15,6 @@ Tienen un sistema educativo diferente al de los humanos.
 * ***Gijinkas:*** 
 <BR>
 <h3>HUMANOS</h3> 
- <BR>
  
 | Ed. INICIAL | Ed. PRIMARIA | Ed. SECUNDARIA |
 |------|------|------|
