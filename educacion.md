@@ -41,12 +41,13 @@ Tienen un sistema educativo diferente al de los humanos.
 <BR>
 **Facultad de**
   
-| Arquitectura y Urbanismo | Odontología | Trabajo Social |
-|------|------|------|
-| Arquitectura | Odontología | Lic. en Trabajo Social |
+| Arquit. y Urbanismo | Odontología | Trabajo Social | Psicología |
+|------|------|------|------|
+| Arquitectura | Odontología | Lic. en Trabajo Social | Lic. en Psicología |
+||||Prof. en Psicología|
 
-| Psicología | Cs. Veterinarias | Cs. Agrarias y Forestales |
+| Periodismo y Com. Social | Cs. Veterinarias | Cs. Agrarias y Forestales |
 |------|------|------|
-| Lic. en Psicologìa | Cs. Veterinarias | Ingeniería Agronómica |
-| Prof. en Psicología | Microbiología Clínica e Industrial | Ingeniería Forestal |
-
+| Lic. en Comunicación Social | Cs. Veterinarias | Ingeniería Agronómica |
+| Prof. en Comunicación Social | Microbiología Clínica e Industrial | Ingeniería Forestal |
+| Tec. Sup. Uni. en Periodismo Deportivo| | | |
