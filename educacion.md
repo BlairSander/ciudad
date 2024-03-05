@@ -6,9 +6,9 @@ layout: default
 
 **Ministra de Educación:** Coral.
 
-HUMANOS
+<h4>HUMANOS<h4>
  
-| Educación inicial | Educación primaria | Educación secundaria |
+| Ed. INICIAL | Ed. PRIMARIA | Ed. SECUNDARIA |
 |------|------|------|
 | *Obligatorio de 3-5 años* | **Primer Ciclo** | **Ciclo básico** |
 | Lactantes (45 días-1 año) | Primer Grado: 6-7 años| Primer año: 12-13 años |
@@ -22,7 +22,7 @@ HUMANOS
 
 *Ref. Ciclo orientado: Distintas tenencias orientativas afines a las carreras universitarias por las que los alumnos pueden optar.*
 
-**Educación superior** Se logra mediante institutos de educación superior o universidades.  Con la finalidad de cumplir con las exigencias legales, técnicas y pedagógicas de los diferentes niveles educativos. Modalidades de educación superior: 
+**Ed. SUPERIOR** Se logra mediante institutos de educación superior o universidades.  Con la finalidad de cumplir con las exigencias legales, técnicas y pedagógicas de los diferentes niveles educativos. Modalidades de educación superior: 
 * Educación técnico profesional, Ciclos formativos de grado superior  Están dirigidos a los alumnos que con el título secundario y como alternativa a la universidad. La titulación obtenida es de Técnico/a superior. 
 * Carreras de grado Todas las universidades públicas y privadas aprobadas por la Comisión Nacional de Evaluación y Acreditación Universitaria ofrecen programas de grado y posgrado que otorgan títulos académicos y profesionales. Al finalizar una licenciatura, el «licenciado» pasa a ser considerado experto en un campo determinado.  Las carreras de grado pueden dividirse básicamente en dos tipos: Licenciaturas y profesorados. Las licenciaturas son aquellas que acreditan experticia en investigación en un área del conocimiento determinado. Consisten en carreras de 4 a 6 años donde se requiere una cuota de investigación, en términos de años son equivalentes a una maestría. El graduado puede ostentar el prefijo Lic. al rubricar su nombre. Los profesorados por otro lado son aquellas carreras acreditadas que habilitan a la enseñanza universitaria. El graduado puede ostentar el prefijo Prof. al rubricar su nombre.
 * Carreras de posgrado: Cursos divididos en especializaciones, maestrías y doctorados los cuales pueden ser presenciales, semipresenciales o carreras a distancia.
@@ -31,11 +31,12 @@ HUMANOS
 * Educación domiciliaria y hospitalaria, Para personas que no pueden asistir a la escuela por condiciones médicas o incapacidad de asistir con regularidad.
 * Educación en contextos de privación de libertad. Para los presos y los que están en manicomios. 
 
+<h4>NO-HUMANOS<h4>
 
-<h4>Educación especial </h4>
+**Ed. ESPECIAL**
 Tienen un sistema educativo diferente al de los humanos. 
-Altavis: 
-Lexvoays: 
-Gijinkas: 
+* Altavis: 
+* Lexvoays: 
+* Gijinkas: 
 
 
