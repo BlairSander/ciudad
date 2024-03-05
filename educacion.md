@@ -14,9 +14,9 @@ HUMANOS
 | Lactantes (45 días-1 año) | Primer Grado: 6-7 años| Primer año: 12-13 años |
 | Deambuladores (1 año-2 años) | Segundo Grado: 7-8 años| Segundo año:	13-14 años |
 | Sala de 2 años | Tercer Grado: 8-9 años | Tercer año: 14-15 años | 
-| Sala de 3 años (primera sala del "jardín de infantes") | Segundo Ciclo | Ciclo orientado |
-| Sala de 4 años (obligatoria) | Cuarto Grado: 9-10 años| Cuarto año: 15-16 años |
-| Sala de 5 años (obligatoria) | Quinto Grado: 10-11 años | Quinto año: 16-17 años |
+| Jardín: Sala de 3 años | Segundo Ciclo | Ciclo orientado |
+| Jardín: Sala de 4 años | Cuarto Grado: 9-10 años| Cuarto año: 15-16 años |
+| Jardín: Sala de 5 años | Quinto Grado: 10-11 años | Quinto año: 16-17 años |
 || Sexto Grado: 11-12 años| Sexto año: 17-18 años |
 || Séptimo Grado: 12-13 años| |
 
