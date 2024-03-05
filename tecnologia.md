@@ -14,7 +14,7 @@ layout: default
 TRANSPORTE
 =
 
-**Ministra de transporte:** Tanis
+`Ministra de transporte: Tanis`
 
 <h4>➽ Transportación</h4>
 
