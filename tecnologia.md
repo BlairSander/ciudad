@@ -15,7 +15,7 @@ layout: default
 
 `Ministra de transporte: Tanis`
 
-c
+
 
 |Terrestre|Aéreo|Marítimo|Transportación|
 |---|---|---|---|
