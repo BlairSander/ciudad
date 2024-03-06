@@ -8,7 +8,6 @@ layout: default
 - [Nanotecnología](#nanotecnología)
 - [Biotecnología](#biotecnología)
 - [Inteligencia Artificial](#inteligencia-artificial)
-<br>
 
 ## TRANSPORTE
 `Ministra de transporte: Tanis`
@@ -36,8 +35,7 @@ layout: default
 ## NANOTECNOLOGÍA
 
 Se implementa tanto para la biotecnología, como la Inteligencia artificial. 
-<br><br>
- 
+
 ## BIOTECNOLOGÍA
 `Ministra de ciencia y Tecnología: Bianca`
 
@@ -49,7 +47,6 @@ Rama:
 * **Medio ambiente.** Biotec-Gris, utiliza los _procesos de biorremediación_ que tiene como finalidad la conservación y la recuperación de los ecosistemas naturales contaminados, se aprovechan las facultades catabólicas de microorganismos, hongos, plantas y enzimas para recuperar ecosistemas contaminados, y trabajando sobre residuos sólidos, líquidos, gaseosos.
 * **Recursos marinos.** Biotec-Azul explota los recursos marinos para obtener productos de acuicultura, cosméticos o sanitarios. Además, es la más utilizada para conseguir biocombustibles a partir de algunas microalgas.
 * **Bioinformática.** Biotec-Dorada, se encarga de obtener, almacenar, analizar y separar la información biológica, sobre todo la relativa a las secuencias de ADN y aminoácidos. Se realizan producciones de _biochips_ con diversas finalidades, y puede trabajar en forma integral junto a otros campos como la medicina. 
-<br><br>
 
 ## INTELIGENCIA ARTIFICIAL
 `Ministro de Industria y Tecnología Informática: Kratzer`
@@ -57,7 +54,6 @@ Rama:
 La metrópolis cuenta con diferentes tipos de inteligencia artificial que forman parte de la viuda cotidina, los sistemas de Inteligencia Artificial utilizados en distintos dispositivos inteligentes y los androides (que pueden ser antropomórficos o zoomórficos). Éstos fueron diseñados y creados por unos pocos ingenieros y empresarios. Los androides que son mucho más complejos que los sistemas de dispositivos, están regidos bajo leyes y normativas por lo que se requiere un registro nacional obligatorio, de caso contrario se estaría ejerciendo contra la ley. Por lo tanto los diferentes modelos de androides se clasifican en Modelos registrados y modelos sin registrar.
 
 <h4>➽ Modelos registrados</h4>
-<br>&nbsp;
 *Modelos SCA (Sistema Cibernético Antropomórfico)*
 
 * **_SCA-200_**
@@ -92,7 +88,6 @@ La metrópolis cuenta con diferentes tipos de inteligencia artificial que forman
 <br>&nbsp;
 
 <h4>➽ Modelos Sin Registro</h4>
-<br>&nbsp;
 *Modelos EGAL (Exterminador Galáctico)*
 
 * **_EGALx_**
@@ -111,7 +106,7 @@ La metrópolis cuenta con diferentes tipos de inteligencia artificial que forman
 * Ingeniero y diseñador: Franci
 * Características: Ciberseguridad. Tareas de programación. Aprendizaje. Puede realizar diferentes tareas para facilitar investigaciones de datos, obteniendolos de otros dispositivos electrónicos y hackeando sus códigos para obtener acceso.
 Los robots poseen softwares de última generación capaces de captar, almacenar y compartir datos que se convierten en información de gran valor en el avance de los estudios de investigación. Poder contar con la precisión de la robótica en la ciencia permite obtener resultados más verídicos y realizar pruebas de hipótesis en entornos donde se aseguran que siempre se actúe bajo los mismos parámetros y estándares de ejecución y calidad. Por otro lado, la resistencia y exhaustiva manipulación que realiza un robot colaborativo, lo convierte en el mejor instrumento para el manejo de ciertas sustancias o la realización de ciertos procesos peligrosos.
-<br>&nbsp;
+
 <h4>➽ Leyes de la robótica</h4>
 
 Son un conjunto de normas que se aplican a todas las Inteligencias Artificiales Registradas. Están diseñados para cumplir órdenes y establecen lo siguiente:
