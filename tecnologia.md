@@ -31,15 +31,13 @@ layout: default
     Este proceso es asistido por una potente computadora. Este dispositivo puede transportar multitudes de 100 personas.
 
 [^1]: DTP: (dispositivo de transporte por pulsera). Este dispositivo sólo logra transportar hasta dos personas por vez. 
-
-
+<br>
 
 ## NANOTECNOLOGÍA
 
 Se implementa tanto para la biotecnología, como la Inteligencia artificial. 
-
+<br>
  
-
 ## BIOTECNOLOGÍA
 `Ministra de ciencia y Tecnología: Bianca`
 
