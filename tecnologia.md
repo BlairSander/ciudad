@@ -17,8 +17,8 @@ layout: default
 
 |Terrestre|Aéreo|Marítimo|Transportación|
 |---|---|---|---|
-|Tren bala|Jet|Barco | DTC |
-|Subte |Helicóptero |Bote | DTP  |
+|Tren bala|Jet|Barco | DTC [^bignote] |
+|Subte |Helicóptero |Bote | DTP [^1]  |
 |Limusina xd |Avión |Crucero |||
 |Auto personal |multicóptero |Lancha||
 |Camioneta |helicóptero Airbus|||
@@ -26,9 +26,14 @@ layout: default
 |Bicicleta||||
 |Combi ||||
 
-<h5> <details><summary>DTC</summary> (dispositivo de transportación por cámaras). Dispositivo de teletransporte usando dos cabinas o cámaras (telépodos) donde el objeto (inerte o vivo) se desintegra y reintegra completando el proceso de teletransporte. Este proceso es asistido por una potente computadora. Este dispositivo puede transportar multitudes de 100 personas.</details> </h5> 
+[^bignote]: DTC: (dispositivo de transportación por cámaras). 
 
-<h5> <details><summary>DTP</summary>(dispositivo de transporte por pulsera). Este dispositivo sólo logra transportar hasta dos personas por vez. </details> </h5> 
+    Dispositivo de teletransporte usando dos cabinas o cámaras (telépodos) donde el objeto (inerte o vivo) se desintegra y reintegra completando el proceso de teletransporte.
+
+    Este proceso es asistido por una potente computadora. Este dispositivo puede transportar multitudes de 100 personas.
+
+[^1]: DTP: (dispositivo de transporte por pulsera). Este dispositivo sólo logra transportar hasta dos personas por vez. 
+
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 ## NANOTECNOLOGÍA
