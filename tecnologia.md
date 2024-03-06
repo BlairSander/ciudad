@@ -52,8 +52,6 @@ Rama:
 * **Recursos marinos.** Biotec-Azul explota los recursos marinos para obtener productos de acuicultura, cosméticos o sanitarios. Además, es la más utilizada para conseguir biocombustibles a partir de algunas microalgas.
 * **Bioinformática.** Biotec-Dorada, se encarga de obtener, almacenar, analizar y separar la información biológica, sobre todo la relativa a las secuencias de ADN y aminoácidos. Se realizan producciones de _biochips_ con diversas finalidades, y puede trabajar en forma integral junto a otros campos como la medicina. 
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-
 INTELIGENCIA ARTIFICIAL
 =
 `Ministro de Industria y Tecnología Informática: Kratzer`
