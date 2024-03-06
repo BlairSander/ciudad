@@ -14,8 +14,8 @@ Tienen un sistema educativo diferente al de los humanos.
 * ***Lexvoays:*** 
 * ***Gijinkas:*** 
 
-#### HUMANOS
- 
+### HUMANOS
+
 | Ed. INICIAL | Ed. PRIMARIA | Ed. SECUNDARIA |
 |------|------|------|
 | *Obligatorio de 3-5 años* | ***Primer Ciclo*** | ***Ciclo básico*** |
