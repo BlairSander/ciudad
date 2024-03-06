@@ -9,7 +9,7 @@ layout: default
 - [Biotecnología](#biotecnología)
 - [Inteligencia Artificial](#inteligencia-artificial)
 
-## TRANSPORTE
+### TRANSPORTE
 `Ministra de transporte: Tanis`
 
 |Terrestre|Aéreo|Marítimo|Transportación|
@@ -31,11 +31,11 @@ layout: default
 
 [^1]: DTP: (dispositivo de transporte por pulsera). Este dispositivo sólo logra transportar hasta dos personas por vez. 
 
-## NANOTECNOLOGÍA
+### NANOTECNOLOGÍA
 
 Se implementa tanto para la biotecnología, como la Inteligencia artificial. 
 
-## BIOTECNOLOGÍA
+### BIOTECNOLOGÍA
 `Ministra de ciencia y Tecnología: Bianca`
 
 Rama:
@@ -47,7 +47,7 @@ Rama:
 * **Recursos marinos.** Biotec-Azul explota los recursos marinos para obtener productos de acuicultura, cosméticos o sanitarios. Además, es la más utilizada para conseguir biocombustibles a partir de algunas microalgas.
 * **Bioinformática.** Biotec-Dorada, se encarga de obtener, almacenar, analizar y separar la información biológica, sobre todo la relativa a las secuencias de ADN y aminoácidos. Se realizan producciones de _biochips_ con diversas finalidades, y puede trabajar en forma integral junto a otros campos como la medicina. 
 
-## INTELIGENCIA ARTIFICIAL
+### INTELIGENCIA ARTIFICIAL
 `Ministro de Industria y Tecnología Informática: Kratzer`
 
 La metrópolis cuenta con diferentes tipos de inteligencia artificial que forman parte de la viuda cotidina, los sistemas de Inteligencia Artificial utilizados en distintos dispositivos inteligentes y los androides (que pueden ser antropomórficos o zoomórficos). Éstos fueron diseñados y creados por unos pocos ingenieros y empresarios. Los androides que son mucho más complejos que los sistemas de dispositivos, están regidos bajo leyes y normativas por lo que se requiere un registro nacional obligatorio, de caso contrario se estaría ejerciendo contra la ley. Por lo tanto los diferentes modelos de androides se clasifican en Modelos registrados y modelos sin registrar.
