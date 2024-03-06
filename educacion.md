@@ -2,20 +2,19 @@
 layout: default
 ---
 
-<h2>Educación</h2>
+# EDUCACIÓN
 
 **Ministra de Educación:** Coral.
 
-NO-HUMANOS
-==========
+### NO-HUMANOS
 
 **Ed. ESPECIAL**
 Tienen un sistema educativo diferente al de los humanos. 
 * ***Altavis:*** 
 * ***Lexvoays:*** 
 * ***Gijinkas:*** 
-<BR>
-<h3>HUMANOS</h3> 
+
+#### HUMANOS
  
 | Ed. INICIAL | Ed. PRIMARIA | Ed. SECUNDARIA |
 |------|------|------|
