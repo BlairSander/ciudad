@@ -9,10 +9,8 @@ layout: default
 - [Biotecnología](#biotecnología)
 - [Inteligencia Artificial](#inteligencia-artificial)
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 ## TRANSPORTE
-
 `Ministra de transporte: Tanis`
 
 |Terrestre|Aéreo|Marítimo|Transportación|
@@ -34,34 +32,31 @@ layout: default
 
 [^1]: DTP: (dispositivo de transporte por pulsera). Este dispositivo sólo logra transportar hasta dos personas por vez. 
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+
 
 ## NANOTECNOLOGÍA
 
 Se implementa tanto para la biotecnología, como la Inteligencia artificial. 
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+ 
 
 ## BIOTECNOLOGÍA
+`Ministra de ciencia y Tecnología: Bianca`
 
-**Ministra de ciencia y Tecnología:** Bianca
-
-Blair promueve la biotecnología «aplicación de principios de la ciencia y la ingeniería para tratamientos de materiales orgánicos e inorgánicos por sistemas biológicos para producir bienes y servicios» Dichos organismos pueden o no estar modificados genéticamente. Sus bases son la ingeniería, física, química y biología.
-
-Aplicaciones de la biotecnología:
-
-* **Medicina.** En el la rama de la biotecnología roja, desde lo sanitario, se ocupa de la elaboración de vacunas y medicamentos como antibióticos, de terapias regenerativas y de la fabricación de órganos artificiales, el desarrollo de la insulina, la hormona del crecimiento, la identidad y el diagnóstico molecular, las terapias génicas. Tiene una alianza con la ingeniería genética, la veterinaria, y gran repercusión en la farmacia.
-* **Industria.** La rama de la biotecnología blanca, trabaja en la mejora de los procesos de fabricación, el desarrollo de biocombustibles y otras tecnologías como tener hormigón autorreparable, plantas que cambian de color al detectar un explosivo, ropa y calzado elaborados con tela de araña sintética, etc.
-* **Agricultura/Alimentación.** La biotecnología verde la utilizan los agricultores para combatir las plagas y nutrir los cultivos y fortalecerlos frente a los microorganismos y los eventos climatológicos extremos, como las sequías y las heladas. Por otro lado, la rama de la biotecnología amarilla está enfocada en la producción de alimentos, como el _maíz WEMA_, un tipo de cultivo resistente a las sequías y a ciertos insectos; y, por ejemplo, investiga para reducir los niveles de grasas saturadas en los aceites de cocina. 
-* **Medio ambiente.** La biotecnología gris utiliza los _procesos de biorremediación_ que tiene como finalidad la conservación y la recuperación de los ecosistemas naturales contaminados, se aprovechan las facultades catabólicas de microorganismos, hongos, plantas y enzimas para recuperar ecosistemas contaminados, y trabajando sobre residuos sólidos, líquidos, gaseosos.
-* **Recursos marinos.** La biotecnología azul explota los recursos marinos para obtener productos de acuicultura, cosméticos o sanitarios. Además, es la más utilizada para conseguir biocombustibles a partir de algunas microalgas.
-* **Bioinformática.** La también conocida como biotecnología dorada se encarga de obtener, almacenar, analizar y separar la información biológica, sobre todo la relativa a las secuencias de ADN y aminoácidos. Se realizan producciones de _biochips_ con diversas finalidades, y puede trabajar en forma integral junto a otros campos como la medicina. 
+Rama:
+* **Medicina.** Biotec-Roja, Elaboración de vacunas y medicamentos, terapias regenerativas, fabricación de órganos artificiales,  terapias génicas. Tiene una alianza con la ingeniería genética, la veterinaria, y gran repercusión en la farmacia.
+* **Industria.** Biotec-Blanca, trabaja en la mejora de los procesos de fabricación, el desarrollo de biocombustibles y otras tecnologías como tener hormigón autorreparable, plantas que cambian de color al detectar un explosivo, ropa y calzado elaborados con tela de araña sintética, etc.
+* **Agricultura.** Biotec-Verde, la utilizan los agricultores para combatir las plagas y nutrir los cultivos y fortalecerlos frente a los microorganismos y los eventos climatológicos extremos, como las sequías y las heladas.
+* **Alimentación.** Biotec-Amarilla, Enfocada en la producción de alimentos, como el _maíz WEMA_, un tipo de cultivo resistente a las sequías y a ciertos insectos; y, por ejemplo, investiga para reducir los niveles de grasas saturadas en los aceites de cocina. 
+* **Medio ambiente.** Biotec-Gris, utiliza los _procesos de biorremediación_ que tiene como finalidad la conservación y la recuperación de los ecosistemas naturales contaminados, se aprovechan las facultades catabólicas de microorganismos, hongos, plantas y enzimas para recuperar ecosistemas contaminados, y trabajando sobre residuos sólidos, líquidos, gaseosos.
+* **Recursos marinos.** Biotec-Azul explota los recursos marinos para obtener productos de acuicultura, cosméticos o sanitarios. Además, es la más utilizada para conseguir biocombustibles a partir de algunas microalgas.
+* **Bioinformática.** Biotec-Dorada, se encarga de obtener, almacenar, analizar y separar la información biológica, sobre todo la relativa a las secuencias de ADN y aminoácidos. Se realizan producciones de _biochips_ con diversas finalidades, y puede trabajar en forma integral junto a otros campos como la medicina. 
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 INTELIGENCIA ARTIFICIAL
 =
-**Ministro de Industria y Tecnología Informática:** Kratzer
+`Ministro de Industria y Tecnología Informática: Kratzer`
 
 La metrópolis cuenta con diferentes tipos de inteligencia artificial que forman parte de la viuda cotidina, los sistemas de Inteligencia Artificial utilizados en distintos dispositivos inteligentes y los androides (que pueden ser antropomórficos o zoomórficos). Éstos fueron diseñados y creados por unos pocos ingenieros y empresarios. Los androides que son mucho más complejos que los sistemas de dispositivos, están regidos bajo leyes y normativas por lo que se requiere un registro nacional obligatorio, de caso contrario se estaría ejerciendo contra la ley. Por lo tanto los diferentes modelos de androides se clasifican en Modelos registrados y modelos sin registrar.
 
@@ -141,3 +136,8 @@ Estas leyes surgen únicamente como medida de protección para los seres humanos
 * **_Pulsar._** Empresa privada, perteneciente a Tanis. Desarrollo de vehículos motorizados autónomos. Son sistemas de inteligencia artificial capaces de circular en el tráfico real recurriendo tan sólo a cámaras y sensores, IA y un navegador GPS. Emplea el deep learning para aprender a conducir por experiencia. Pueden reconocer el entorno, identificar situaciones de riesgo y detectar, por ejemplo, marcas viales, señales, peatones o ciclistas. También emplean inteligencia artificial para el procesamiento natural del lenguaje, de modo que se puede comunicar con el vehículo usando la forma de hablar natural. De esta forma, se le puede dar órdenes, como “sube la temperatura del climatizador a 24 grados”. Además, estos sistemas reconocen rutinas (rutas habituales, música preferida, temperatura favorita…) para automatizarlas.
 * **_Muro Génesis._** Organismo perteneciente a la nación, dirigido por Dark. Desarrollo web, defensa y ciberseguridad. Fabrica drones que crean mapas para la seguridad nacional. Encuentra vulnerabilidades en la ciberseguridad. Fabrica sistemas de vigilancia con fines de seguridad nacional.
 * **_ONG IADA._** Fundada por Ray. ONG IADA. Ingeniería ambiental y defensa animal. Fabrica robots que identifican y clasifican materiales reciclables.
+
+
+
+
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
