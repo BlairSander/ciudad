@@ -30,7 +30,6 @@ layout: default
     Este proceso es asistido por una potente computadora. Este dispositivo puede transportar multitudes de 100 personas.
 
 [^1]: DTP: (dispositivo de transporte por pulsera). Este dispositivo sólo logra transportar hasta dos personas por vez. 
-<br>
 
 ## NANOTECNOLOGÍA
 
