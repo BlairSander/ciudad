@@ -12,6 +12,8 @@ body {
 h1 {
   color:#222;
   margin:0 0 20px;
+  font-size:18px;
+  line-height:1.1;
 }
 
 h2, h3 {
@@ -19,11 +21,12 @@ h2, h3 {
   margin:20px 0 15px;
   border-top: 1px solid silver;
   padding-top: 10px;
+  line-height:1.1;
 }
 
 h4, h5, h6 {
   color:#222;
-  margin:0 0 5px;
+  margin:15px 0 10px;
 }
 
 p, table, pre, dl {
@@ -32,14 +35,6 @@ p, table, pre, dl {
 
 ul, ol {
   margin:0 0 5px;
-}
-
-h1, h2, h3 {
-  line-height:1.1;
-}
-
-h1 {
-  font-size:18px;
 }
 
 h2 {
