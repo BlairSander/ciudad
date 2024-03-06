@@ -15,8 +15,6 @@ layout: default
 
 `Ministra de transporte: Tanis`
 
-
-
 |Terrestre|Aéreo|Marítimo|Transportación|
 |---|---|---|---|
 |Tren bala|Jet|Barco | DTC |
@@ -30,7 +28,7 @@ layout: default
 
 <h5> <details><summary>DTC</summary> (dispositivo de transportación por cámaras). Dispositivo de teletransporte usando dos cabinas o cámaras (telépodos) donde el objeto (inerte o vivo) se desintegra y reintegra completando el proceso de teletransporte. Este proceso es asistido por una potente computadora. Este dispositivo puede transportar multitudes de 100 personas.</details> </h5> 
 
-<h5> <details><summary>DTC</summary>(dispositivo de transporte por pulsera). Este dispositivo sólo logra transportar hasta dos personas por vez. </details> </h5> 
+<h5> <details><summary>DTP</summary>(dispositivo de transporte por pulsera). Este dispositivo sólo logra transportar hasta dos personas por vez. </details> </h5> 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 ## NANOTECNOLOGÍA
