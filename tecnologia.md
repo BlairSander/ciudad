@@ -9,6 +9,7 @@ layout: default
 - [Biotecnología](#biotecnología)
 - [Inteligencia Artificial](#inteligencia-artificial)
 
+<br>
 
 ## TRANSPORTE
 `Ministra de transporte: Tanis`
