@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Tecnología
+# TECNOLOGÍA
 
 - [Transporte](#transporte)
 - [Nanotecnología](#nanotecnología)
