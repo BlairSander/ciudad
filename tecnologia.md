@@ -85,7 +85,7 @@ Construcción: En la empresa pixipon <br>
 Ejemplos: Perritos elementales <br>
 Características: Los manapon, en plural manapons, son androides que tienen un grado de parentesco animal. Siempre con apariencias adorables. Tienen un circuito ánima, el cual es un implante que genera sentimientos en el androide. El circuito puede madurar con el androide. Su uso principal es el de compañía y entretenimiento, sustituyendo en algunos casos a las mascotas reales.
  </details>
-
+<br>
 <h4>➽ Modelos Sin Registro</h4>
 *Modelos EGAL*
 
@@ -104,7 +104,7 @@ Características: Version mejorada en cuanto a la simulacion de humanidad, pero 
 <details><summary>RHI-500 - No-Humanoide (Eren)</summary> 
 Ingeniero y diseñador: Eren <br>
 Características: Ciberseguridad. Tareas de programación. Aprendizaje. Puede realizar diferentes tareas para facilitar investigaciones de datos. Los robots poseen softwares de última generación capaces de captar, almacenar y compartir datos que se convierten en información de gran valor en el avance de los estudios de investigación. Destaca su uso limitado de información, ya que lo procesan y comparten de manera activa, generando informes físicos para la imposibilidad del hackeo. Poder contar con la precisión de la robótica en la ciencia permite obtener resultados más verídicos y realizar pruebas de hipótesis en entornos donde se aseguran que siempre se actúe bajo los mismos parámetros y estándares de ejecución y calidad. Por otro lado, la resistencia y exhaustiva manipulación que realiza un robot colaborativo, lo convierte en el mejor instrumento para el manejo de ciertas sustancias o la realización de ciertos procesos peligrosos. </details>
-
+<br>
 <h4>➽ Leyes de la robótica</h4>
 
 Son un conjunto de normas que se aplican a todas las Inteligencias Artificiales Registradas. Están diseñados para cumplir órdenes y establecen lo siguiente:
