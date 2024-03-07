@@ -41,16 +41,17 @@ Se implementa tanto para la biotecnología, como la Inteligencia artificial.
 Rama:
 <details><summary>Medicina</summary>  Biotec-Roja, Elaboración de vacunas y medicamentos, terapias regenerativas, fabricación de órganos artificiales,  terapias génicas. Tiene una alianza con la ingeniería genética, la veterinaria, y gran repercusión en la farmacia.</details>
 
-    <details><summary>Industria</summary>  Biotec-Blanca, trabaja en la mejora de los procesos de fabricación, el desarrollo de biocombustibles y otras tecnologías como tener hormigón autorreparable, plantas que cambian de color al detectar un explosivo, ropa y calzado elaborados con tela de araña sintética, etc.</details>
+<details><summary>Industria</summary>  Biotec-Blanca, trabaja en la mejora de los procesos de fabricación, el desarrollo de biocombustibles y otras tecnologías como tener hormigón autorreparable, plantas que cambian de color al detectar un explosivo, ropa y calzado elaborados con tela de araña sintética, etc.</details>
 
-<details><summary>Agricultura</summary>  Biotec-Verde, la utilizan los agricultores para combatir las plagas y nutrir los cultivos y fortalecerlos frente a los microorganismos y los eventos climatológicos extremos, como las sequías y las heladas.
+<details><summary>Agricultura</summary>  Biotec-Verde, la utilizan los agricultores para combatir las plagas y nutrir los cultivos y fortalecerlos frente a los microorganismos y los eventos climatológicos extremos, como las sequías y las heladas.</details>
+
 <details><summary>Alimentación</summary>  Biotec-Amarilla, Enfocada en la producción de alimentos, como el _maíz WEMA_, un tipo de cultivo resistente a las sequías y a ciertos insectos; y, por ejemplo, investiga para reducir los niveles de grasas saturadas en los aceites de cocina. </details>
 
-    <details><summary>Medio ambiente</summary>  Biotec-Gris, utiliza los _procesos de biorremediación_ que tiene como finalidad la conservación y la recuperación de los ecosistemas naturales contaminados, se aprovechan las facultades catabólicas de microorganismos, hongos, plantas y enzimas para recuperar ecosistemas contaminados, y trabajando sobre residuos sólidos, líquidos, gaseosos.</details>
+<details><summary>Medio ambiente</summary>  Biotec-Gris, utiliza los _procesos de biorremediación_ que tiene como finalidad la conservación y la recuperación de los ecosistemas naturales contaminados, se aprovechan las facultades catabólicas de microorganismos, hongos, plantas y enzimas para recuperar ecosistemas contaminados, y trabajando sobre residuos sólidos, líquidos, gaseosos.</details>
 
 <details><summary>Recursos marinos</summary>  Biotec-Azul explota los recursos marinos para obtener productos de acuicultura, cosméticos o sanitarios. Además, es la más utilizada para conseguir biocombustibles a partir de algunas microalgas.</details>
 
-    <details><summary>Bioinformática</summary>  Biotec-Dorada, se encarga de obtener, almacenar, analizar y separar la información biológica, sobre todo la relativa a las secuencias de ADN y aminoácidos. Se realizan producciones de _biochips_ con diversas finalidades, y puede trabajar en forma integral junto a otros campos como la medicina. </details>
+<details><summary>Bioinformática</summary>  Biotec-Dorada, se encarga de obtener, almacenar, analizar y separar la información biológica, sobre todo la relativa a las secuencias de ADN y aminoácidos. Se realizan producciones de _biochips_ con diversas finalidades, y puede trabajar en forma integral junto a otros campos como la medicina. </details>
 
 ### INTELIGENCIA ARTIFICIAL
 `Ministro de Industria y Tecnología Informática: Kratzer`
