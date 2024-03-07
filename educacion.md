@@ -81,7 +81,7 @@ Tienen un sistema educativo diferente al de los humanos.
 | Lic.-Óptica O.O. | I. Industrial | Lic.-Sociología | Prof.-Matemá. |
 | Lic.-Química | I. Mecánica | I. Química | Prof.-Química |
 | L.Q.T. Ambiental | I. Agrimensor | Prof.-Bibliotecología  | Prof.-Sociología |
-|  | I. en Computación | Prof.-Cs. Biológicas | Traductorado |
+|  | I. en Compu. | Prof.-Cs. Biológicas | Traductorado |
 
 <table> 
   <tr> 
