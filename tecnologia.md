@@ -39,13 +39,18 @@ Se implementa tanto para la biotecnología, como la Inteligencia artificial.
 `Ministra de ciencia y Tecnología: Bianca`
 
 Rama:
-* **Medicina.** Biotec-Roja, Elaboración de vacunas y medicamentos, terapias regenerativas, fabricación de órganos artificiales,  terapias génicas. Tiene una alianza con la ingeniería genética, la veterinaria, y gran repercusión en la farmacia.
-* **Industria.** Biotec-Blanca, trabaja en la mejora de los procesos de fabricación, el desarrollo de biocombustibles y otras tecnologías como tener hormigón autorreparable, plantas que cambian de color al detectar un explosivo, ropa y calzado elaborados con tela de araña sintética, etc.
-* **Agricultura.** Biotec-Verde, la utilizan los agricultores para combatir las plagas y nutrir los cultivos y fortalecerlos frente a los microorganismos y los eventos climatológicos extremos, como las sequías y las heladas.
-* **Alimentación.** Biotec-Amarilla, Enfocada en la producción de alimentos, como el _maíz WEMA_, un tipo de cultivo resistente a las sequías y a ciertos insectos; y, por ejemplo, investiga para reducir los niveles de grasas saturadas en los aceites de cocina. 
-* **Medio ambiente.** Biotec-Gris, utiliza los _procesos de biorremediación_ que tiene como finalidad la conservación y la recuperación de los ecosistemas naturales contaminados, se aprovechan las facultades catabólicas de microorganismos, hongos, plantas y enzimas para recuperar ecosistemas contaminados, y trabajando sobre residuos sólidos, líquidos, gaseosos.
-* **Recursos marinos.** Biotec-Azul explota los recursos marinos para obtener productos de acuicultura, cosméticos o sanitarios. Además, es la más utilizada para conseguir biocombustibles a partir de algunas microalgas.
-* **Bioinformática.** Biotec-Dorada, se encarga de obtener, almacenar, analizar y separar la información biológica, sobre todo la relativa a las secuencias de ADN y aminoácidos. Se realizan producciones de _biochips_ con diversas finalidades, y puede trabajar en forma integral junto a otros campos como la medicina. 
+<details><summary>Medicina</summary>  Biotec-Roja, Elaboración de vacunas y medicamentos, terapias regenerativas, fabricación de órganos artificiales,  terapias génicas. Tiene una alianza con la ingeniería genética, la veterinaria, y gran repercusión en la farmacia.</details>
+
+    <details><summary>Industria</summary>  Biotec-Blanca, trabaja en la mejora de los procesos de fabricación, el desarrollo de biocombustibles y otras tecnologías como tener hormigón autorreparable, plantas que cambian de color al detectar un explosivo, ropa y calzado elaborados con tela de araña sintética, etc.</details>
+
+<details><summary>Agricultura</summary>  Biotec-Verde, la utilizan los agricultores para combatir las plagas y nutrir los cultivos y fortalecerlos frente a los microorganismos y los eventos climatológicos extremos, como las sequías y las heladas.
+<details><summary>Alimentación</summary>  Biotec-Amarilla, Enfocada en la producción de alimentos, como el _maíz WEMA_, un tipo de cultivo resistente a las sequías y a ciertos insectos; y, por ejemplo, investiga para reducir los niveles de grasas saturadas en los aceites de cocina. </details>
+
+    <details><summary>Medio ambiente</summary>  Biotec-Gris, utiliza los _procesos de biorremediación_ que tiene como finalidad la conservación y la recuperación de los ecosistemas naturales contaminados, se aprovechan las facultades catabólicas de microorganismos, hongos, plantas y enzimas para recuperar ecosistemas contaminados, y trabajando sobre residuos sólidos, líquidos, gaseosos.</details>
+
+<details><summary>Recursos marinos</summary>  Biotec-Azul explota los recursos marinos para obtener productos de acuicultura, cosméticos o sanitarios. Además, es la más utilizada para conseguir biocombustibles a partir de algunas microalgas.</details>
+
+    <details><summary>Bioinformática</summary>  Biotec-Dorada, se encarga de obtener, almacenar, analizar y separar la información biológica, sobre todo la relativa a las secuencias de ADN y aminoácidos. Se realizan producciones de _biochips_ con diversas finalidades, y puede trabajar en forma integral junto a otros campos como la medicina. </details>
 
 ### INTELIGENCIA ARTIFICIAL
 `Ministro de Industria y Tecnología Informática: Kratzer`
@@ -112,13 +117,18 @@ Normas que surgen como medida de protección para los seres humanos. Se aplican 
 
 <h4>➽ Organismos que desarrollan Inteligenia Artificial</h4>
 
-* **_I.A. Nébula._** Compañía dedicada al diseño,construcción y venta de robots. Fundador de la compañía: Fritz. Ingeniero y diseñador de robots y cofundador de la compañía: Lester.
-* **_I.A. Doxes._** Dueño: Fritz. Slogan: Doxes, toda la tecnología de robótica inteligente. Crean Real Sim.
-* _**Sector de seguridad y desarrollo tecnológico**, en el Centro Rehab_ Centro de reclusión y rehabilitación integral. Prisión fundada por Awen. Ingenieros esepcializados en IA: Izan, Fanci, Lester, Dark, Awen.
-* **_Pixipon._** Fundadora y empresaria: Costella. Slogan “más que mascota es un amigo”.
-* **_Pulsar._** Empresa privada, perteneciente a Tanis. Desarrollo de vehículos motorizados autónomos. Son sistemas de inteligencia artificial capaces de circular en el tráfico real recurriendo tan sólo a cámaras y sensores, IA y un navegador GPS. Emplea el deep learning para aprender a conducir por experiencia. Pueden reconocer el entorno, identificar situaciones de riesgo y detectar, por ejemplo, marcas viales, señales, peatones o ciclistas. También emplean inteligencia artificial para el procesamiento natural del lenguaje, de modo que se puede comunicar con el vehículo usando la forma de hablar natural. De esta forma, se le puede dar órdenes, como “sube la temperatura del climatizador a 24 grados”. Además, estos sistemas reconocen rutinas (rutas habituales, música preferida, temperatura favorita…) para automatizarlas.
-* **_Muro Génesis._** Organismo perteneciente a la nación, dirigido por Dark. Desarrollo web, defensa y ciberseguridad. Fabrica drones que crean mapas para la seguridad nacional. Encuentra vulnerabilidades en la ciberseguridad. Fabrica sistemas de vigilancia con fines de seguridad nacional.
-* **_ONG IADA._** Fundada por Ray. ONG IADA. Ingeniería ambiental y defensa animal. Fabrica robots que identifican y clasifican materiales reciclables.
+<details><summary>I.A. Nébula</summary> Compañía dedicada al diseño,construcción y venta de robots. Fundador de la compañía: Fritz. Ingeniero y diseñador de robots y cofundador de la compañía: Lester.</details>
+    
+<details><summary>I.A. Doxes</summary> Dueño: Fritz. Slogan: Doxes, toda la tecnología de robótica inteligente. Crean Real Sim.
+Sector de seguridad y desarrollo tecnológico**, en el Centro Rehab_ Centro de reclusión y rehabilitación integral. Prisión fundada por Awen. Ingenieros esepcializados en IA: Izan, Fanci, Lester, Dark, Awen.</details>
+
+<details><summary>Pixipon</summary> Fundadora y empresaria: Costella. Slogan “más que mascota es un amigo”.</details>
+
+<details><summary>Pulsar</summary> Empresa privada, perteneciente a Tanis. Desarrollo de vehículos motorizados autónomos. Son sistemas de inteligencia artificial capaces de circular en el tráfico real recurriendo tan sólo a cámaras y sensores, IA y un navegador GPS. Emplea el deep learning para aprender a conducir por experiencia. Pueden reconocer el entorno, identificar situaciones de riesgo y detectar, por ejemplo, marcas viales, señales, peatones o ciclistas. También emplean inteligencia artificial para el procesamiento natural del lenguaje, de modo que se puede comunicar con el vehículo usando la forma de hablar natural. De esta forma, se le puede dar órdenes, como “sube la temperatura del climatizador a 24 grados”. Además, estos sistemas reconocen rutinas (rutas habituales, música preferida, temperatura favorita…) para automatizarlas.</details>
+
+<details><summary>Muro Génesis</summary> Organismo perteneciente a la nación, dirigido por Dark. Desarrollo web, defensa y ciberseguridad. Fabrica drones que crean mapas para la seguridad nacional. Encuentra vulnerabilidades en la ciberseguridad. Fabrica sistemas de vigilancia con fines de seguridad nacional.</details>
+
+<details><summary>ONG IADA</summary> Fundada por Ray. ONG IADA. Ingeniería ambiental y defensa animal. Fabrica robots que identifican y clasifican materiales reciclables.</details>
 
 
 
