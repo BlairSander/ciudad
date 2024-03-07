@@ -16,10 +16,6 @@ h1 {
   line-height:1.1;
 }
 
-.footnotes {
-    color: silver;
-}
-
 h2, h3 {
   color:#222;
   margin:20px 0 15px;
@@ -211,6 +207,10 @@ footer {
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+.footnotes {
+    color: silver;
 }
 
 @media print, screen and (max-width: 960px) {
