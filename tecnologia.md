@@ -54,9 +54,8 @@ La metrópolis cuenta con diferentes tipos de inteligencia artificial que forman
 
 <h4>➽ Modelos registrados</h4>
 
-*Modelos SCA (Sistema Cibernético Antropomórfico)*
-
 <details><summary>SCA-200 - No-Humanoide (Lester)</summary> 
+Modelos SCA (Sistema Cibernético Antropomórfico)<br>
 Ingeniero y diseñador: Lester  <br>
 Construcción: En la empresa I.A. Nébula <br>
 Características: Creó una una serie de 200 máquinas inteligentes utilizadas en una variedad de roles y ambientes. No todos tienen apariencia completamente humanoide y se usan en campos que requerían una extensa especialización y conocimiento, tales como en medicina, mecánica, náutica, pilotaje, exploradores, administrativos, de construcción, de entrenamiento, navegación, mantenimiento, seguridad, servicio. Dependiendo de su diseño y de su propósito, son capaces de almacenar gran cantidad de información en sus extensas memorias y matemáticamente precisos. </details>
@@ -77,9 +76,8 @@ Ingeniero y diseñador: Awen <br>
 Construcción: En el sector de seguridad y desarrollo tecnológico, en el Centro Rehab. <br>
 Características: Máquina diseñada con las especificaciones de un esqueleto humano, subsecuentemente envuelta en piel viva cultivada y tejido. No sólo parece humano, sino que también suda, huele, sangra, y puede imitar voces humanas. Sin embargo, ciertos animales y serkeis pueden advertir la presencia de la máquina. Los perros son empleados a menudo en los puestos de custodia para detectarlos. Su endoesqueleto fue construido en hiperaleación, y por lo tanto esto lo hace esencialmente inmune a armas de fuego de medio y bajo calibre. Aunque es posible destruirlo sin recurrir a armas de fuego, atravesando su cuello con una barra metálica y girar esta con las manos, ejerciendo presión sobre las piezas del mismo que mantienen en su lugar la cabeza hasta conseguir zafarlas y decapitarlo. </details>
 
-*Modelos MCZ (Mascota Cibernética Zoomorfa)*
-
 <details><summary>manapon - Mascota Cibernética Zoomorfa (Coss)</summary>
+Modelos MCZ (Mascota Cibernética Zoomorfa)<br>
 Ingeniero y diseñador: Costella <br>
 Construcción: En la empresa pixipon <br>
 Ejemplos: Perritos elementales <br>
@@ -87,21 +85,19 @@ Características: Los manapon, en plural manapons, son androides que tienen un g
  </details>
 <br>
 <h4>➽ Modelos Sin Registro</h4>
-*Modelos EGAL*
 
 <details><summary>EGALx - Exterminador Galáctico (Logan)</summary>
+Modelos EGAL<br>
 Ingeniero y diseñador: Logan <br>
 Características: Con la apariencia de mujer, es un prototipo altamente avanzado creado para el combate y destrucción. Cuenta con un endoesqueleto con una aleación muy dura, con la propiedad de formar armas blancas y objetos cortantes de metal con sus brazos. Su endoesqueleto está cubierto por tecnología nanométrica en metal líquido, con capacidad de tomar la apariencia y voz de personas con las que ha tenido algún contacto físico. Tiene la facilidad para colarse por espacios reducidos, rápido restablecimiento al impacto físico de golpes y ataques con objetos sólidos y armas, facilidad para formar armas con las que matar. El único modo de destruirlo definitivamente es fundirlo o bañarlo con ácido.  </details>
 
-*Modelos Doppel (significa «doble»)*
-
 <details><summary>DOPPEL-10 / TOP SECRET - Copias de Awen (Awen)</summary>
+Modelos Doppel (significa «doble»)<br>
 Ingeniero y diseñador: Awen <br>
 Características: Version mejorada en cuanto a la simulacion de humanidad, pero con resistencia baja, igual a la resistencia del cuerpo de Awen. No puede ser identificado por serkeis ni animales, solo si es destruida, desarmada e inspeccionada a fondo. Pensamiento y razonamiento, su funcion es asistir a los demas como lo haria la verdadera Awen. Capaz de sentir emociones y actuar acorde a las mismas. Autonomia. Personalidad marcada y basada en la de Awen. Memoria con informacion sobre la personalidad de Awen para actuar en base a lo que ella haria. Esta capacitada para tomar decisiones en situaciones dificiles.  </details>
 
-*Modelos RHI (Robot Híbrido de Investigación)*
-
 <details><summary>RHI-500 - No-Humanoide (Eren)</summary> 
+Modelos RHI (Robot Híbrido de Investigación) <br>
 Ingeniero y diseñador: Eren <br>
 Características: Ciberseguridad. Tareas de programación. Aprendizaje. Puede realizar diferentes tareas para facilitar investigaciones de datos. Los robots poseen softwares de última generación capaces de captar, almacenar y compartir datos que se convierten en información de gran valor en el avance de los estudios de investigación. Destaca su uso limitado de información, ya que lo procesan y comparten de manera activa, generando informes físicos para la imposibilidad del hackeo. Poder contar con la precisión de la robótica en la ciencia permite obtener resultados más verídicos y realizar pruebas de hipótesis en entornos donde se aseguran que siempre se actúe bajo los mismos parámetros y estándares de ejecución y calidad. Por otro lado, la resistencia y exhaustiva manipulación que realiza un robot colaborativo, lo convierte en el mejor instrumento para el manejo de ciertas sustancias o la realización de ciertos procesos peligrosos. </details>
 <br>
