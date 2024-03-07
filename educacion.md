@@ -69,7 +69,7 @@ Tienen un sistema educativo diferente al de los humanos.
 | | Lic. en Nutrición | Lic. en Geología |
 | | Tec. en Prác. Cardiológicas | Lic. en Geoquímica |
  
-| Cs. Exactas | Ingeniería | Human. y Cs. de la|Educación|
+| Cs. Exactas | Ingeniería | Humanidades y Cs. de la|Educación|
 |------|------|------|------|
 | Lic. en Bioquímica | I. Aeronáutica | Lic. en Bibliotecología | Prof.-Ed. Física |
 | Farmacia | Ingeniería Civil | Lic.-Cs. de la Educación | Prof.-Filosofía |
