@@ -31,10 +31,9 @@ Tienen un sistema educativo diferente al de los humanos.
 *Ref. Ciclo orientado: Distintas tenencias orientativas afines a las carreras universitarias por las que los alumnos pueden optar.*
 
 **Ed. SUPERIOR** Otorgado por institutos de educación superior o universidades. Modalidades de educación superior: 
-* ***Educación técnico profesional:*** Ciclos formativos de grado superior dirigidos a los alumnos con el título secundario y como alternativa a la universidad. La titulación obtenida es de Técnico/a superior. 
-* ***Carreras de grado:*** Universidades públicas/privadas aprobadas por la Comisión Nacional de Evaluación y Acreditación Universitaria. Tipos de carreras de grado: *Licenciaturas:* (de 4 a 6 años) Acreditan experticia en investigación en un área del conocimiento determinado. *Profesorados:* carreras acreditadas que habilitan a la enseñanza universitaria.
+* ***Educación técnico profesional:*** Dirigido a los alumnos con el título secundario y como alternativa a la universidad. Se otorga la titulación de Técnico/a superior. 
+* ***Carreras de grado:*** Universidades públicas/privadas aprobadas por la Comisión Nacional de Evaluación y Acreditación Universitaria. Tipos de carreras de grado: *Licenciaturas:* (de 4 a 6 años) Acreditan experticia en investigación en un área del conocimiento determinado. <br>*Profesorados:* carreras acreditadas que habilitan a la enseñanza universitaria.
 * ***Carreras de posgrado:*** Cursos divididos en especializaciones, maestrías y doctorados los cuales pueden ser presenciales, semipresenciales o carreras a distancia.
-* ***Enseñanzas artísticas superiores:*** Música; Danza; Arte Dramático; Conservación y Restauración de Bienes Culturales; Diseño; Artes Plásticas; Cerámica; estudios superiores del Vidrio.
 * ***Educación permanente de adultos:*** Para adultos que no terminaron los estudios básicos y obligatorios. 
 * ***Educación domiciliaria y hospitalaria:*** Para personas que no pueden asistir a la escuela por condiciones médicas o incapacidad de asistir con regularidad.
 * ***Educación en contextos de privación de libertad:*** Para los presos y los que están en manicomios. 
