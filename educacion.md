@@ -75,7 +75,7 @@ Tienen un sistema educativo diferente al de los humanos.
 | Farmacia | Ingeniería Civil | Lic.-Cs. de la Educación | Prof.-Filosofía |
 | L.B.B. Molecular | I. Electricista | Lic.-Educación Física | Prof.-Física |
 | L.C.T.- Alimentos | I. Electromecánica | Lic.-Filosofía | Prof.-Geografía |
-| Lic.-Física | I. Electrónica | Lic.-Geografía | Prof.-Cs. de la Educación |
+| Lic.-Física | I. Electrónica | Lic.-Geografía | P.Cs. de la Edu. |
 | Lic.-Física Médica | I. en Materiales | Lic.-Historia | Prof.-Historia|
 | Lic.-Matemáticas | I. Hidráulica | Lic. en Letras | Prof.-Letras |
 | Lic.-Óptica O.O. | I. Industrial | Lic.-Sociología | Prof.-Matemá. |
