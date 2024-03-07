@@ -17,7 +17,7 @@ Tienen un sistema educativo diferente al de los humanos.
 ### HUMANOS
 
 **Ed. INICIAL**  
-Lactantes: 45 días- 1y ➜ Deambuladores: 1-2y ➜ Sala de 2y 
+Lactantes: 45 días- 1y ➜ Deambuladores: 1-2y ➜ Sala de 2y  <br>
 Jardín Obligatorio: Sala de 3, 4, 5y 
 
 **Ed. PRIMARIA**  
