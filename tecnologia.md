@@ -2,24 +2,6 @@
 layout: default
 ---
 
-# TÍTULO 1
-Mares.
-## TÍTULO 2
-Mares.
-### TÍTULO 3
-Mares.
-### TÍTULO 4
-Mares.
-
-
-
-
-
-
-
-
-
-
 # TECNOLOGÍA
 
 - [Transporte](#transporte)
@@ -76,7 +58,7 @@ Rama:
 
 La metrópolis cuenta con diferentes tipos de inteligencia artificial que forman parte de la viuda cotidina, los sistemas de Inteligencia Artificial utilizados en distintos dispositivos inteligentes y los androides (que pueden ser antropomórficos o zoomórficos). Éstos fueron diseñados y creados por unos pocos ingenieros y empresarios. Los androides que son mucho más complejos que los sistemas de dispositivos, están regidos bajo leyes y normativas por lo que se requiere un registro nacional obligatorio, de caso contrario se estaría ejerciendo contra la ley. Por lo tanto los diferentes modelos de androides se clasifican en Modelos registrados y modelos sin registrar.
 
-<h4>➽ Modelos registrados</h4>
+#### ➽ Modelos registrados
 
 <details><summary>SCA-200 - No-Humanoide (Lester)</summary> 
 Modelos SCA (Sistema Cibernético Antropomórfico)<br>
@@ -108,7 +90,7 @@ Ejemplos: Perritos elementales <br>
 Características: Los manapon, en plural manapons, son androides que tienen un grado de parentesco animal. Siempre con apariencias adorables. Tienen un circuito ánima, el cual es un implante que genera sentimientos en el androide. El circuito puede madurar con el androide. Su uso principal es el de compañía y entretenimiento, sustituyendo en algunos casos a las mascotas reales.
  </details>
 
-<h4>➽ Modelos Sin Registro</h4>
+#### ➽ Modelos Sin Registro
 
 <details><summary>EGALx - Exterminador Galáctico (Logan)</summary>
 Modelos EGAL<br>
@@ -125,7 +107,7 @@ Modelos RHI (Robot Híbrido de Investigación) <br>
 Ingeniero y diseñador: Eren <br>
 Características: Ciberseguridad. Tareas de programación. Aprendizaje. Puede realizar diferentes tareas para facilitar investigaciones de datos. Los robots poseen softwares de última generación capaces de captar, almacenar y compartir datos que se convierten en información de gran valor en el avance de los estudios de investigación. Destaca su uso limitado de información, ya que lo procesan y comparten de manera activa, generando informes físicos para la imposibilidad del hackeo. Poder contar con la precisión de la robótica en la ciencia permite obtener resultados más verídicos y realizar pruebas de hipótesis en entornos donde se aseguran que siempre se actúe bajo los mismos parámetros y estándares de ejecución y calidad. Por otro lado, la resistencia y exhaustiva manipulación que realiza un robot colaborativo, lo convierte en el mejor instrumento para el manejo de ciertas sustancias o la realización de ciertos procesos peligrosos. </details>
 
-<h4>➽ Leyes de la robótica</h4>
+#### ➽ Leyes de la robótica
 
 Normas que surgen como medida de protección para los seres humanos. Se aplican a las *IA Registradas* para que actúen según lo establecido:
 
@@ -134,7 +116,7 @@ Normas que surgen como medida de protección para los seres humanos. Se aplican 
 * **_Segunda Ley:_** Un robot debe cumplir las órdenes dadas por los seres humanos, a excepción de aquellas que entren en conflicto con la primera ley.
 * **_Tercera Ley:_** Un robot debe proteger su propia existencia en la medida en que esta protección no entre en conflicto con la primera o con la segunda ley.
 
-<h4>➽ Organismos que desarrollan Inteligenia Artificial</h4>
+#### ➽ Organismos que desarrollan Inteligenia Artificial
 
 <details><summary>I.A. Nébula</summary> Compañía dedicada al diseño,construcción y venta de robots. Fundador de la compañía: Fritz. Ingeniero y diseñador de robots y cofundador de la compañía: Lester.</details>
     
