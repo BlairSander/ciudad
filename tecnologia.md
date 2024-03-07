@@ -131,7 +131,4 @@ Sector de seguridad y desarrollo tecnológico**, en el Centro Rehab_ Centro de r
 
 <details><summary>ONG IADA</summary> Fundada por Ray. ONG IADA. Ingeniería ambiental y defensa animal. Fabrica robots que identifican y clasifican materiales reciclables.</details>
 
-
-
 <br>
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
