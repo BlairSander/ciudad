@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<h2>Gobierno de Blair Sander</h2>
+# Gobierno de Blair Sander
 
-<h3>AUTORIDADES: CONSEJO DE ESTADO</h3>
+## AUTORIDADES: CONSEJO DE ESTADO
 - PRESIDENTE
   - Reif
 - VICEPRESIDENTES
@@ -14,7 +14,7 @@ layout: default
 - TESORERA
   - Riva
 - MINISTROS
-<br>&nbsp;
+
 
 | Nombre     | Cargo     |
 |-------|-------|
@@ -33,15 +33,7 @@ layout: default
 | Roberto Arlt (Natacha)| Ministro de Cultura|
 | Renan| Ministro de Salud|
  
-
-| Col1  |
-=======
-| hi    |
-|       |
-| there |
-
-
-<h3>SECTORES</h3>
+## SECTORES
 Los entes de gobernanza metropolitana son organismos
 institucionalizados que cumplen funciones para más de un sector, es decir, son multisectoriales.
 Estos sectores fueron clasificados y ordenados alfabéticamente de la siguiente manera:
@@ -57,11 +49,9 @@ Estos sectores fueron clasificados y ordenados alfabéticamente de la siguiente 
 - Transporte
 - Vivienda
 - Otros
-La categoría residual “otros” fue agregada para referirse a funciones que puedan tener los
-entes y que no estén contempladas entre los sectores elegidos, tales como turismo, deportes,
-esparcimiento, entre otros. 
-<br>&nbsp;
-<h3>FUNCIONES DEL GOBIERNO METROPOLITANO</h3>
+La categoría residual “otros” fue agregada para referirse a funciones que puedan tener los entes y que no estén contempladas entre los sectores elegidos, tales como turismo, deportes, esparcimiento, entre otros. 
+
+## FUNCIONES DEL GOBIERNO METROPOLITANO
 Categorización ordenada de mayor a menor según el grado de autoridad o poder de la institución metropolitana:
 - Control: “poder de policía”. Implica la capacidad de poner multas a actores públicos y
 privados ante situaciones de incumplimiento con ordenanzas, normativas y planes, el
@@ -90,8 +80,8 @@ A partir de estas categorías de funciones de los entes y de los sectores coordi
 configuró una grilla que nos permitió sistematizar la información y visualizarla de forma clara y
 sencilla. Este trabajo se realizó con cada uno de los entes de gobernanza metropolitana estudiados
 para entender qué hace y sobre qué sectores opera. 
-<br>&nbsp;
-<h3>FINANCIAMIENTO</h3>
+
+## FINANCIAMIENTO
 ¿Cómo se financia?
 El dinero que financia el organismo puede provenir de cinco posibles fuentes:
 - Transferencias desde Municipios
