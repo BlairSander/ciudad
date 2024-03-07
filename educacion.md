@@ -6,7 +6,7 @@ layout: default
 
 **Ministra de Educación:** Coral.
 
-### NO-HUMANOS
+## NO-HUMANOS
 
 **Ed. ESPECIAL**
 Tienen un sistema educativo diferente al de los humanos. 
@@ -14,7 +14,7 @@ Tienen un sistema educativo diferente al de los humanos.
 * ***Lexvoays:*** 
 * ***Gijinkas:*** 
 
-### HUMANOS
+## HUMANOS
 
 **Ed. INICIAL**  
 * Lactantes: 45 días- 1y ➜ Deambuladores: 1-2y ➜ Sala de 2y  
