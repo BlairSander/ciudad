@@ -33,7 +33,7 @@ Tienen un sistema educativo diferente al de los humanos.
 **Ed. SUPERIOR** Otorgado por institutos de educación superior o universidades. Modalidades de educación superior: 
 * ***Educación técnico profesional:*** Dirigido a los alumnos con el título secundario y como alternativa a la universidad. Se otorga la titulación de Técnico/a superior. 
 * ***Carreras de grado:*** Universidades públicas/privadas aprobadas por la Comisión Nacional de Evaluación y Acreditación Universitaria. Tipos:
-  * Licenciaturas:* (de 4 a 6 años) Primer nivel de estudios universitarios.
+  * *Licenciaturas:* (de 4 a 6 años) Primer nivel de estudios universitarios.
   * *Profesorados:* Habilitan a la enseñanza universitaria.
 * ***Carreras de posgrado:*** Cursos divididos en especializaciones. Tipos: 
   * *Maestrías* Se cursa después de completar la licenciatura. 
