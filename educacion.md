@@ -51,3 +51,46 @@ Tienen un sistema educativo diferente al de los humanos.
 | Lic. en Comunicación Social | Cs. Veterinarias | Ingeniería Agronómica |
 | Prof. en Comunicación Social | Microbiología Clínica e Industrial | Ingeniería Forestal |
 | Tec. Sup. Uni. en Periodismo Deportivo| | | |
+
+| Cs. Astr. y Geofísicas | Informática | Cs. Jurídicas y Sociales |
+|------|------|------|
+| Geofísica  | Lic. en Informática | Abogacía |
+| Lic. en Astronomía | Lic. en Sistemas| Escribanía |
+| Lic. en Meteor. y Cs. de la Atm. | Ingeniería en Computación | Procurador |
+|    | Analista Prog. Uni. | T.S.U de Mart. Público y Corredor |
+
+| Cs. Económicas | Cs. Médicas | Cs. Naturales y Museo |
+|------|------|------|
+| Contador Público | Lic. en Fonoaud. | Lic. en Antropología| 
+| Lic. en Administración | Lic. en Obstetricia | L.B.O. Botánica| 
+| Lic. en Economía| Medicina | L.B.O. Ecología| 
+| Lic. en Turismo | Lic. en Enfermería | L.B.O. Paleontología | 
+| Tec. en Cooperativismo | Enfermería | L.B.O. Zoología | 
+| | Lic. en Nutrición | Lic. en Geología |
+| | Tec. en Prác. Cardiológicas | Lic. en Geoquímica |
+ 
+| Cs. Exactas | Ingeniería | Human. y Cs. de la Edu. |
+|------|------|------|
+| Lic. en Bioquímica | I. Aeronáutica | Lic. en Bibliotecología |
+| Farmacia | Ingeniería Civil | Lic.-Cs. de la Educación |
+| Lic.-B.B. Molecular | I. Electricista | Lic.-Educación Física |
+| Lic.-C.T. de los Alimentos | I. Electromecánica | Lic.-Filosofía |
+| Lic.-Física | I. Electrónica | Lic.-Geografía |
+| Lic.-Física Médica | I. en Materiales | Lic.-Historia |
+| Lic.-Matemáticas | I. Hidráulica | Lic. en Letras |
+| Lic.-Óptica O.O. | I. Industrial | Lic.-Sociología |
+| Lic.-Química | I. Mecánica | I. Química |
+| Lic.-Q. y T. Ambiental | I. Agrimensor | Prof.-Bibliotecología  |
+|  | I. en Computación | Prof.-Cs. Biológicas |
+|  |  | Prof.-Cs. de la Educación  |
+|  |  | Prof.-Educación Física |
+|  |  | Prof.-Filosofía |
+|  |  | Prof.-Física |
+|  |  | Prof.-Geografía |
+|  |  | Prof.-Historia |
+|  |  | Prof.-Letras |
+|  |  | Prof.-Matemática |
+|  |  | Prof.-Química |
+|  |  | Prof.-Sociología |
+|  |  | Traductorado Públ. Nacional |
+
