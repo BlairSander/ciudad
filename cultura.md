@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-<h2>Cultura</h2>
+# Cultura
 
 **Ministro de Cultura:** Roberto Arlt
 
-<h3> EVENTOS RECREATIVOS</h3>
+## EVENTOS RECREATIVOS
 - Aniversario de Blair
 - Conciertos
 - Actos culturales
@@ -25,8 +25,8 @@ layout: default
 - Espectáculos callejeros
 - Torneo de Paintball
 - Parque de diversiones
-<br>&nbsp;
-<h3> EVENTOS DEPORTIVOS</h3>
+
+## EVENTOS DEPORTIVOS
 - Gran Prix de Hockey sobre hielo
 - Escalada Kavensport
 - Campeonato nacional de natación
@@ -35,8 +35,8 @@ layout: default
 - Juegos nacionales
 - Carrera atlética en el municipio
 - Torneo de fútbol
-<br>&nbsp;
-<h3> EVENTOS DE CAPACITACION</h3>
+
+## EVENTOS DE CAPACITACION
 (en centros de educación o bibliotecas)
 - Talleres 
 - Seminarios
