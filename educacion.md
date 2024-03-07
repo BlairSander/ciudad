@@ -32,8 +32,12 @@ Tienen un sistema educativo diferente al de los humanos.
 
 **Ed. SUPERIOR** Otorgado por institutos de educación superior o universidades. Modalidades de educación superior: 
 * ***Educación técnico profesional:*** Dirigido a los alumnos con el título secundario y como alternativa a la universidad. Se otorga la titulación de Técnico/a superior. 
-* ***Carreras de grado:*** Universidades públicas/privadas aprobadas por la Comisión Nacional de Evaluación y Acreditación Universitaria. Tipos:<br>*Licenciaturas:* (de 4 a 6 años) Primer nivel de estudios universitarios. <br>*Profesorados:* Habilitan a la enseñanza universitaria.
-* ***Carreras de posgrado:*** Cursos divididos en especializaciones. Tipos: <br>*Maestrías* Se cursa después de completar la licenciatura. <br>*Doctorados* Se llevan a cabo investigaciones profundas en su disciplina a través de una tesis o disertación. 
+* ***Carreras de grado:*** Universidades públicas/privadas aprobadas por la Comisión Nacional de Evaluación y Acreditación Universitaria. Tipos:
+  * Licenciaturas:* (de 4 a 6 años) Primer nivel de estudios universitarios.
+  * *Profesorados:* Habilitan a la enseñanza universitaria.
+* ***Carreras de posgrado:*** Cursos divididos en especializaciones. Tipos: 
+  * *Maestrías* Se cursa después de completar la licenciatura. 
+  * *Doctorados* Se llevan a cabo investigaciones profundas en su disciplina a través de una tesis o disertación. 
 * ***Educación permanente de adultos:*** Para adultos que no terminaron los estudios básicos y obligatorios. 
 * ***Educación domiciliaria y hospitalaria:*** Para personas que no pueden asistir a la escuela por condiciones médicas o incapacidad de asistir con regularidad.
 * ***Educación en contextos de privación de libertad:*** Para los presos y los que están en manicomios. 
