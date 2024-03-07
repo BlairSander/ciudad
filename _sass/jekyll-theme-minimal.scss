@@ -15,12 +15,18 @@ h1 {
   font-size:18px;
 }
 
-h2, h3 {
+h2 {
   color:#222;
   margin:20px 0 15px -7px;
-  background-color: white;
-  border: 1px solid white;
+  background-color: gainsboro;
+  border: 1px solid gainsboro;
   border-radius: 7px;
+  padding: 5px;
+}
+
+h3 {
+  color:#222;
+  margin:20px 0 15px -7px;
   padding: 5px;
 }
 
