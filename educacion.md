@@ -18,15 +18,15 @@ Tienen un sistema educativo diferente al de los humanos.
 
 | Ed. INICIAL | Ed. PRIMARIA | Ed. SECUNDARIA |
 |------|------|------|
-| *Obligatorio de 3-5 años* | ***Primer Ciclo*** | ***Ciclo básico*** |
-| Lactantes (45 días-1 año) | Primer Grado: 6-7 años| Primer año: 12-13 años |
-| Deambuladores (1 año-2 años) | Segundo Grado: 7-8 años| Segundo año:	13-14 años |
-| Sala de 2 años | Tercer Grado: 8-9 años | Tercer año: 14-15 años | 
-| Jardín: Sala de 3 años | ***Segundo Ciclo*** | ***Ciclo orientado*** |
-| Jardín: Sala de 4 años | Cuarto Grado: 9-10 años| Cuarto año: 15-16 años |
-| Jardín: Sala de 5 años | Quinto Grado: 10-11 años | Quinto año: 16-17 años |
-|| Sexto Grado: 11-12 años| Sexto año: 17-18 años |
-|| Séptimo Grado: 12-13 años| |
+| *Obligatorio de 3-5y* | ***Primer Ciclo*** | ***Ciclo básico*** |
+| Lactantes (45 días- 1y) | 1º - 6-7y| 1º - 12-13y |
+| Deambuladores (1-2y) | 2º - 7-8y | 3º -	13-14y |
+| Sala de 2y | 3º - 8-9y | 2º - 14-15y | 
+| Jardín: Sala de 3y | ***Segundo Ciclo*** | ***Ciclo orientado*** |
+| Jardín: Sala de 4y | 4º - 9-10y| 4º - 15-16y |
+| Jardín: Sala de 5y | 5º - 10-11y | 5º - 16-17y |
+|| 6º - 11-12y| 6º - 17-18y |
+|| 7º - 12-13y| |
 
 *Ref. Ciclo orientado: Distintas tenencias orientativas afines a las carreras universitarias por las que los alumnos pueden optar.*
 
