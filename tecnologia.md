@@ -103,7 +103,7 @@ Características: Ciberseguridad. Tareas de programación. Aprendizaje. Puede re
 
 <h4>➽ Leyes de la robótica</h4>
 
-Conjunto de normas que se aplican a todas las *IA Registradas*. Estas leyes surgen únicamente como medida de protección para los seres humanos, y representan el código moral del IA. Un IA va a actuar siempre bajo los imperativos de sus leyes y establecen lo siguiente:
+Normas que surgen como medida de protección para los seres humanos. Se aplican a las *IA Registradas* para que actúen según lo establecido:
 
 * **_Ley Cero:_** Un robot no puede dañar a la humanidad o, por inacción, permitir que la humanidad sufra daños.
 * **_Primera Ley:_** Un robot no hará daño a un ser humano ni, por inacción, permitirá que un ser humano sufra daño.
