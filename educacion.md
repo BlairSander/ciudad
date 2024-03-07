@@ -94,3 +94,14 @@ Tienen un sistema educativo diferente al de los humanos.
 |  |  | Prof.-Sociología |
 |  |  | Traductorado Públ. Nacional |
 
+<table> 
+  <tr> 
+      <th class colspan="2"> Facultad de Bellas Artes </th>
+  </tr> 
+  <tr><td>Comunicación Audiovisual</td> <td>Diseño en Comunicación Visual</td></tr>  
+  <tr><td>Diseño Industrial</td> <td>Lic. y/o Prof. en Historia del Arte</td></tr>  
+  <tr><td>Lic. y/o Prof. en Música <br>Orientación: Educación Musical, Piano, Guitarra, Dirección Coral, Dirección Orquestal, Composición, Música Popular
+   </td> <td>Lic. y/o Prof. en Artes Audiovisuales <br>Orientación: Realización, Realización Dirección de Fotografía, en Guión, en Teoría y Crítica </td></tr>  
+  <tr><td class colspan="2">Lic. y/o Prof. en Artes Plásticas <br>Orientación: Pintura, Dibujo, Cerámica, Escenografía, Escultura, Grabado y Arte Impreso, Muralismo y Arte Público Monumental</td></tr>    
+</table> 
+
