@@ -16,9 +16,16 @@ Tienen un sistema educativo diferente al de los humanos.
 
 ### HUMANOS
 
-**Ed. INICIAL**  Lactantes: 45 días- 1y ➜ Deambuladores: 1-2y ➜ Sala de 2y ➜ Jardín Obligatorio: Sala de 3, 4, 5y 
-**Ed. PRIMARIA**  ***1ER Ciclo***  1º - 6-7y ➜ 2º - 7-8y ➜ 2º - 14-15y ***2DO Ciclo*** 4º - 9-10y ➜ 5º - 10-11y ➜ 6º - 11-12y ➜  7º - 12-13y
-**Ed. SECUNDARIA**  ***Ciclo básico*** 1º - 12-13y ➜ 2º - 13-14y ➜ 3º - 14-15y ***Ciclo orientado*** 4º - 15-16y ➜ 5º - 16-17y ➜ 6º - 17-18y 
+**Ed. INICIAL**  
+Lactantes: 45 días- 1y ➜ Deambuladores: 1-2y ➜ Sala de 2y ➜ Jardín Obligatorio: Sala de 3, 4, 5y 
+
+**Ed. PRIMARIA**  
+***1ER Ciclo***  1º - 6-7y ➜ 2º - 7-8y ➜ 2º - 14-15y 
+***2DO Ciclo*** 4º - 9-10y ➜ 5º - 10-11y ➜ 6º - 11-12y ➜  7º - 12-13y
+
+**Ed. SECUNDARIA**  
+***Ciclo básico*** 1º - 12-13y ➜ 2º - 13-14y ➜ 3º - 14-15y 
+***Ciclo orientado*** 4º - 15-16y ➜ 5º - 16-17y ➜ 6º - 17-18y 
 
 *Ref. Ciclo orientado: Distintas tenencias orientativas afines a las carreras universitarias por las que los alumnos pueden optar.*
 
