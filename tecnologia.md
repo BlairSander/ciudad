@@ -83,7 +83,7 @@ Construcción: En la empresa pixipon <br>
 Ejemplos: Perritos elementales <br>
 Características: Los manapon, en plural manapons, son androides que tienen un grado de parentesco animal. Siempre con apariencias adorables. Tienen un circuito ánima, el cual es un implante que genera sentimientos en el androide. El circuito puede madurar con el androide. Su uso principal es el de compañía y entretenimiento, sustituyendo en algunos casos a las mascotas reales.
  </details>
-<br>
+
 <h4>➽ Modelos Sin Registro</h4>
 
 <details><summary>EGALx - Exterminador Galáctico (Logan)</summary>
@@ -100,17 +100,15 @@ Características: Version mejorada en cuanto a la simulacion de humanidad, pero 
 Modelos RHI (Robot Híbrido de Investigación) <br>
 Ingeniero y diseñador: Eren <br>
 Características: Ciberseguridad. Tareas de programación. Aprendizaje. Puede realizar diferentes tareas para facilitar investigaciones de datos. Los robots poseen softwares de última generación capaces de captar, almacenar y compartir datos que se convierten en información de gran valor en el avance de los estudios de investigación. Destaca su uso limitado de información, ya que lo procesan y comparten de manera activa, generando informes físicos para la imposibilidad del hackeo. Poder contar con la precisión de la robótica en la ciencia permite obtener resultados más verídicos y realizar pruebas de hipótesis en entornos donde se aseguran que siempre se actúe bajo los mismos parámetros y estándares de ejecución y calidad. Por otro lado, la resistencia y exhaustiva manipulación que realiza un robot colaborativo, lo convierte en el mejor instrumento para el manejo de ciertas sustancias o la realización de ciertos procesos peligrosos. </details>
-<br>
+
 <h4>➽ Leyes de la robótica</h4>
 
-Son un conjunto de normas que se aplican a todas las Inteligencias Artificiales Registradas. Están diseñados para cumplir órdenes y establecen lo siguiente:
+Conjunto de normas que se aplican a todas las *IA Registradas*. Estas leyes surgen únicamente como medida de protección para los seres humanos, y representan el código moral del IA. Un IA va a actuar siempre bajo los imperativos de sus leyes y establecen lo siguiente:
 
 * **_Ley Cero:_** Un robot no puede dañar a la humanidad o, por inacción, permitir que la humanidad sufra daños.
 * **_Primera Ley:_** Un robot no hará daño a un ser humano ni, por inacción, permitirá que un ser humano sufra daño.
 * **_Segunda Ley:_** Un robot debe cumplir las órdenes dadas por los seres humanos, a excepción de aquellas que entren en conflicto con la primera ley.
 * **_Tercera Ley:_** Un robot debe proteger su propia existencia en la medida en que esta protección no entre en conflicto con la primera o con la segunda ley.
-
-Estas leyes surgen únicamente como medida de protección para los seres humanos, y representan el código moral del robot. Un robot va a actuar siempre bajo los imperativos de sus tres leyes. Para todos los efectos, un robot se comportará como un ser moralmente correcto.
 
 <h4>➽ Organismos que desarrollan Inteligenia Artificial</h4>
 
