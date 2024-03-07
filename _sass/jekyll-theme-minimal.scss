@@ -35,6 +35,7 @@ p, table, pre, dl {
 
 ul, ol {
   margin:0 0 5px;
+  padding:50px;
 }
 
 h2 {
@@ -235,10 +236,9 @@ footer {
     display:inline;
   }
 
-  footer ul {
+  header ul {
     position:absolute;
-    right:50px;
-    bottom:52px;
+    right:20px;
   }
 }
 
