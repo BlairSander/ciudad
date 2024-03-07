@@ -16,6 +16,8 @@ Tienen un sistema educativo diferente al de los humanos.
 
 ### HUMANOS
 
+Ed. INICIAL: Obligatorio de 3-5y ➜ ➛ ➜ ➔ ➝ ➞ ➟ ➠ ➧ ➨
+
 | Ed. INICIAL | Ed. PRIMARIA | Ed. SECUNDARIA |
 |------|------|------|
 | *Obligatorio de 3-5y* | ***Primer Ciclo*** | ***Ciclo básico*** |
