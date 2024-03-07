@@ -71,17 +71,17 @@ Tienen un sistema educativo diferente al de los humanos.
  
 | Cs. Exactas | Ingeniería | Human. y Cs. de la Edu. ||
 |------|------|------|------|
-| Lic. en Bioquímica | I. Aeronáutica | Lic. en Bibliotecología | Prof.-Educación Física |
+| Lic. en Bioquímica | I. Aeronáutica | Lic. en Bibliotecología | Prof.-Ed. Física |
 | Farmacia | Ingeniería Civil | Lic.-Cs. de la Educación | Prof.-Filosofía |
-| Lic.-B.B. Molecular | I. Electricista | Lic.-Educación Física | Prof.-Física |
-| Lic.-C.T. de los Alimentos | I. Electromecánica | Lic.-Filosofía | Prof.-Geografía |
+| L.B.B. Molecular | I. Electricista | Lic.-Educación Física | Prof.-Física |
+| L.C.T.- Alimentos | I. Electromecánica | Lic.-Filosofía | Prof.-Geografía |
 | Lic.-Física | I. Electrónica | Lic.-Geografía | Prof.-Cs. de la Educación |
 | Lic.-Física Médica | I. en Materiales | Lic.-Historia | Prof.-Historia|
 | Lic.-Matemáticas | I. Hidráulica | Lic. en Letras | Prof.-Letras |
-| Lic.-Óptica O.O. | I. Industrial | Lic.-Sociología | Prof.-Matemática |
+| Lic.-Óptica O.O. | I. Industrial | Lic.-Sociología | Prof.-Matemá. |
 | Lic.-Química | I. Mecánica | I. Química | Prof.-Química |
-| Lic.-Q. y T. Ambiental | I. Agrimensor | Prof.-Bibliotecología  | Prof.-Sociología |
-|  | I. en Computación | Prof.-Cs. Biológicas | Traductorado Públ. Nacional |
+| L.Q.T. Ambiental | I. Agrimensor | Prof.-Bibliotecología  | Prof.-Sociología |
+|  | I. en Computación | Prof.-Cs. Biológicas | Traductorado |
 
 <table> 
   <tr> 
