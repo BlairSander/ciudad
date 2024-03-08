@@ -4,7 +4,7 @@ layout: default
 
 # ORGANISMOS
 
-ORGANISMO ► PERSONAJES ► MUNICPIO
+⚫ ORGANISMO [MUNICPIO]
 
 - [Educación](#educación)
 - [Gastronomía](#gastronomía)
@@ -32,98 +32,98 @@ Sex Shop • Motel • Hotel • Lencería • Burdel • Prostíbulo Barato •
 I.A. Nébula • I.A. Doxes • Sector de seguridad y desarrollo tecnológico [Turen] [⚫ Pixipon](https://blairsander.github.io/ciudad/pixipon.html) [Centro Blair] • Pulsar • Muro Génesis • ONG IADA  
 
 ## CULTURA
-* Museo de Ciencias Naturales ► 
-* Teatro 1: Danzas clásicas
-* Teatro 2 : Obras escénicas, cinematográficas, exposiciones
-* Teatro 3 : Teatro Opera, Talleres
-* Agencias - Estudio de baile y Coreografia SM  ► 
-    * Jefe: Partuza
-* Biblioteca Municipal ► 
-* Feria ► 
-* Moda ► 
-* Iglesia ► 
-* Catedral ► 
-* Deportes ► 
-* [Estadio Unico](https://blairsander.github.io/ciudad/estadiounico.html) ► Puerto Citrino
-* [Estadio de Hielo](https://blairsander.github.io/ciudad/estadiohielo.html) ► Kavensport
-* Clubes-Complejos deportivos ►  Citrino
-* Clubes-Complejos deportivos ►  Strega
-* [Club-Complejo Polideportivo](https://blairsander.github.io/ciudad/polideportivoblair.html) ►  Blair
-* Clubes-Complejos deportivos ►  Tadmor
-* Club nocturno ► Centro Blair 
-    * Dueño: Izan
-* Club nocturno homo ► Zona Roja
-* Club nocturno  ► Zona Roja
-    * Jefe: Devi
-* [Club nocturno Alter](https://blairsander.github.io/ciudad/nightclubalter.html)  ► Puerto Citrino
-    * DJ local: Partuza
-* Bioparque
-* Acuario
-* Centro de escalada deportiva Kavensport
-* Campo de Paintball
-* Parque de Diversiones
-* Casa de modas -Sede (Nisha)
+Museo de Ciencias Naturales ► 
+Teatro 1: Danzas clásicas
+Teatro 2 : Obras escénicas, cinematográficas, exposiciones
+Teatro 3 : Teatro Opera, Talleres
+Agencias - Estudio de baile y Coreografia SM  ► 
+* Jefe: Partuza
+Biblioteca Municipal ► 
+Feria ► 
+Moda ► 
+Iglesia ► 
+Catedral ► 
+Deportes ► 
+[Estadio Unico](https://blairsander.github.io/ciudad/estadiounico.html) ► Puerto Citrino
+[Estadio de Hielo](https://blairsander.github.io/ciudad/estadiohielo.html) ► Kavensport
+Clubes-Complejos deportivos ►  Citrino
+Clubes-Complejos deportivos ►  Strega
+[Club-Complejo Polideportivo](https://blairsander.github.io/ciudad/polideportivoblair.html) ►  Blair
+Clubes-Complejos deportivos ►  Tadmor
+Club nocturno ► Centro Blair 
+  * Dueño: Izan
+Club nocturno homo ► Zona Roja
+Club nocturno  ► Zona Roja
+  * Jefe: Devi
+[Club nocturno Alter](https://blairsander.github.io/ciudad/nightclubalter.html)  ► Puerto Citrino
+  * DJ local: Partuza
+Bioparque
+Acuario
+Centro de escalada deportiva Kavensport
+Campo de Paintball
+Parque de Diversiones
+Casa de modas -Sede (Nisha)
 
 ## VARIOS
 
 <h4>ORDEN</h4>
-* Comisaría (Policía) ►  
-* Prisión Lannister ► 
-* [Centro Rehab](https://blairsander.github.io/ciudad/centrorehab.html) ► Turen
-* Psiquiátrico ►
-* Gendarmería Nacional ► 
-* Cementerio ► 
+Comisaría (Policía) ►  
+Prisión Lannister ► 
+[Centro Rehab](https://blairsander.github.io/ciudad/centrorehab.html) ► Turen
+Psiquiátrico ►
+Gendarmería Nacional ► 
+Cementerio ► 
 
 <h4>COMUNICACIONES</h4>
-* Telefonía ►  
-* Correo ► 
+Telefonía ►  
+Correo ► 
 
 <h4>TRANSPORTE</h4>
-* Taxi ► 
-* Subte  ► 
-* Tren ► 
-* Líneas de micro ► 
+Taxi ► 
+Subte  ► 
+Tren ► 
+Líneas de micro ► 
 
 <h4>CONTRA INCENDIO Y SALVAMENTO</h4>
-* Bomberos Voluntarios de BS ► 
-* Policía BS ► 
-* Policía Forense ►
-* Prefectura Naval BS. ► 
+Bomberos Voluntarios de BS ► 
+Policía BS ► 
+Policía Forense ►
+Prefectura Naval BS. ► 
 
 <h4>SERVICIOS DE SALUD</h4> 
-* Hospital ►  
-* Veterinaria ►  
-* Odontología ►
-* Farmacias ► 
-* Geriátrico ► 
-* Clínica ► 
+Hospital ►  
+Veterinaria ►  
+Odontología ►
+Farmacias ► 
+Geriátrico ► 
+Clínica ► 
 
 <h4>SEDES MUNICIPALES</h4> 
-* Municipalidad central
-* Subsecretaría de Desarrollo Humano y Social ► 
+Municipalidad central
+Subsecretaría de Desarrollo Humano y Social ► 
 
 <h4>EMPRESAS</h4>
-* Banco ► 
-* Diario ► 
-* Editorial ► 
-* Revista ► 
-* Cine ► 
-* TV Sede canal Música-Telerrealidad-Series ► 
-* TV Sede canal Noticiero-Informativo ► 
-* TV Sede canal Deportes ► 
-* TV Sede canal Cine, Series para adultos ► 
-* TV Sede canal Infantil-Animación-Series ► 
-* Radio ► 
-* YPS (Yacimientos Petrolíferos Sanderianos) ► 
-* Frigoríficos Alen (Matadero y Frigorífico) ► 
+Banco ► 
+Diario ► 
+Editorial ► 
+Revista ► 
+Cine ► 
+TV Sede canal Música-Telerrealidad-Series ► 
+TV Sede canal Noticiero-Informativo ► 
+TV Sede canal Deportes ► 
+TV Sede canal Cine, Series para adultos ► 
+TV Sede canal Infantil-Animación-Series ► 
+Radio ► 
+YPS (Yacimientos Petrolíferos Sanderianos) ► 
+Frigoríficos Alen (Matadero y Frigorífico) ► 
 
 <h4>OTROS</h4>
-* Organismo Regulador de Aguas BS (agua potable y desagües cloacales) ► 
-* Vertedero ► 
-* Obras sociales ►
-* Ingeniería y rehabilitación de servicios. Secretaría de Servicios Públicos ►    
-* Control energético ENSASA (Energía Sander Sociedad Anónima) ► 
-* Control de gas BEGAS (Blair Sander Gas) ►  
+Organismo Regulador de Aguas BS (agua potable y desagües cloacales) ► 
+Vertedero ► 
+Obras sociales ►
+Ingeniería y rehabilitación de servicios. Secretaría de Servicios Públicos ►    
+Control energético ENSASA (Energía Sander Sociedad Anónima) ► 
+Control de gas BEGAS (Blair Sander Gas) ►  
 
 <br>
 <small>CATEGORÍA: CPV: ConsumoPrivado / CPB:ConsumoPúblico / DC: Defensa Civil</small>
