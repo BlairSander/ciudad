@@ -4,15 +4,12 @@ layout: default
 
 # ORGANISMOS
 
-⚫ ORGANISMO [MUNICPIO] ffff
+⚫ ORGANISMO [MUNICPIO] 
 
-[Educación](#educación)<br>
-[Gastronomía](#gastronomía)<br>
-[Urbanismo](#urbanismo)<br>
-[Zona Roja](#zona-roja)<br>
-[Inteligencia Artificial](#inteligencia-artificial)<br>
-[Cultura](#cultura)<br>
-[Varios](#varios)<br>
+|--|--|--|
+|[Educación](#educación)|[Zona Roja](#zona-roja)|[Varios](#varios)|
+|[Gastronomía](#gastronomía)|[Inteligencia Artificial](#inteligencia-artificial)||
+|[Urbanismo](#urbanismo)|[Cultura](#cultura)||
 
 ## EDUCACIÓN
 
