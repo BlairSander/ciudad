@@ -23,18 +23,23 @@ layout: default
 |• Jardín de Infantes|• Bellas Artes SEDE 2|• Psicología|
 |• Escuela|• Bellas Artes SEDE 3|• Cs. Médicas|
 |• Colegio|• Cs. Agrarias y Forestales|• Trabajo Social|
-|• Instituto Privado [Barrio Citrino]|• Cs. Astronómicas y Geofí.|• Cs. Veterinarias|
+|• Instituto Privado [Citrino]|• Cs. Astro. y Geofí.|• Cs. Veterinarias|
 |• Instituto Privado Serkei|• Cs. Jurídicas y Sociales|• Informática|
-|• Escuela de arte.|• Human. y Cs. de la Edu.|• Ingeniería|
-||• Periodismo y Com. Social|• Odontología|
+|• Escuela de arte.|• Human. y Cs.E.|• Ingeniería|
+||• Periodismo y C.S.|• Odontología|
 ||• Cs. Naturales y Museo||
 
-
-
-
-
 ## GASTRONOMÍA
-**[⚫ Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html)** [Puerto Citrino] **[⚫ Restaurante](https://blairsander.github.io/ciudad/restaurantedemi.html)** [Puerto Citrino] **[⚫ Restaurante](https://blairsander.github.io/ciudad/restauranteremi.html)** [Centro Blair] • Comida Rápida • Hipermercado • Supermercados • Minimercados • Verdulería • Carnicería • Cafetería • Golosinas • Heladería • Panaderías • Restaurant mariscos/mediterraneo [Puerto Citrino] • Bar [Puerto Citrino] Encargado/Bartender: Gein • Kioscos 
+
+|--|--|
+|**[⚫ Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html)** [Puerto Citrino]|• Comida Rápida|
+|**[⚫ Restaurante](https://blairsander.github.io/ciudad/restaurantedemi.html)** [Puerto Citrino]|• Hipermercado|
+|**[⚫ Restaurante](https://blairsander.github.io/ciudad/restauranteremi.html)** [Centro Blair]|• Heladería|
+|Restaurant mariscos/mediterraneo [Puerto Citrino]|• Supermercados|
+|• Bar [Puerto Citrino] Encargado/Bartender: Gein|• Minimercados|
+|• Carnicería|• Verdulería|
+|• Cafetería|• Panaderías|
+|• Golosinas|• Kioscos|
 
 ## URBANISMO
 Oficinas • Teatros • Hoteles • Hostel • Pensiones • Centro comercial • Tienda de ropas • Tienda de zapatos • Tienda de Electrodomésticos • Tienda de Accesorios • Tienda de Electrodomésticos • Bicicletería • Taller Gráfico • Mueblería • Juguetería • Óptica • Peluquerías • Automotores • Talleres (autos / motos) • Lavadero • Gimnasio • Funeraria • Grúas •  
