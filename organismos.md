@@ -29,40 +29,36 @@ Oficinas • Teatros • Hoteles • Hostel • Pensiones • Centro comercial �
 Sex Shop • Motel • Hotel • Lencería • Burdel • Prostíbulo Barato • Prostíbulo VIP • Club • Centro Audivisual • Autocine • Cyber • Línea Erótica (callcenter) • Venta drog • Restaurantes • Cafés • Locales de exibhición
 
 ## INTELIGENCIA ARTIFICIAL
-I.A. Nébula • I.A. Doxes • Sector de seguridad y desarrollo tecnológico [Turen] [⚫ Pixipon](https://blairsander.github.io/ciudad/pixipon.html) [Centro Blair] • Pulsar • Muro Génesis • ONG IADA  
+I.A. Nébula • I.A. Doxes • Sector de seguridad y desarrollo tecnológico [Turen] **[⚫ Pixipon]**(https://blairsander.github.io/ciudad/pixipon.html) [Centro Blair] • Pulsar • Muro Génesis • ONG IADA  
 
 ## CULTURA
 Museo de Ciencias Naturales ► 
-Teatro 1: Danzas clásicas
-Teatro 2 : Obras escénicas, cinematográficas, exposiciones
-Teatro 3 : Teatro Opera, Talleres
-Agencias - Estudio de baile y Coreografia SM  ► 
-* Jefe: Partuza
+Teatro 1: Danzas clásicas ► 
+Teatro 2: Obras escénicas, cinematográficas, exposiciones ► 
+Teatro 3: Teatro Opera, Talleres ► 
+Agencias - Estudio de baile y Coreografia SM  (Jefe: Partuza) ► 
 Biblioteca Municipal ► 
 Feria ► 
 Moda ► 
 Iglesia ► 
 Catedral ► 
 Deportes ► 
-[Estadio Unico](https://blairsander.github.io/ciudad/estadiounico.html) ► Puerto Citrino
-[Estadio de Hielo](https://blairsander.github.io/ciudad/estadiohielo.html) ► Kavensport
-Clubes-Complejos deportivos ►  Citrino
-Clubes-Complejos deportivos ►  Strega
-[Club-Complejo Polideportivo](https://blairsander.github.io/ciudad/polideportivoblair.html) ►  Blair
-Clubes-Complejos deportivos ►  Tadmor
-Club nocturno ► Centro Blair 
-  * Dueño: Izan
-Club nocturno homo ► Zona Roja
-Club nocturno  ► Zona Roja
-  * Jefe: Devi
-[Club nocturno Alter](https://blairsander.github.io/ciudad/nightclubalter.html)  ► Puerto Citrino
-  * DJ local: Partuza
-Bioparque
-Acuario
-Centro de escalada deportiva Kavensport
-Campo de Paintball
-Parque de Diversiones
-Casa de modas -Sede (Nisha)
+**[⚫ Estadio Unico](https://blairsander.github.io/ciudad/estadiounico.html)**  [Puerto Citrino] ►
+**[⚫ Estadio de Hielo](https://blairsander.github.io/ciudad/estadiohielo.html)** [Kavensport] ►
+Clubes-Complejos deportivos [Citrino] ► 
+Clubes-Complejos deportivos [Strega] ► 
+**[⚫ Club-Complejo Polideportivo](https://blairsander.github.io/ciudad/polideportivoblair.html)** [Blair] ►  
+Clubes-Complejos deportivos [Tadmor]  ► 
+Club nocturno ► Centro Blair (Dueño: Izan)  ► 
+Club nocturno homo [Zona Roja] ► 
+Club nocturno [Zona Roja] (Jefe: Devi) ► 
+[Club nocturno Alter](https://blairsander.github.io/ciudad/nightclubalter.html) [Puerto Citrino] (DJ local: Partuza) ► 
+Bioparque ► 
+Acuario ► 
+Centro de escalada deportiva Kavensport ► 
+Campo de Paintball ► 
+Parque de Diversiones ► 
+Casa de modas -Sede (Nisha) ► 
 
 ## VARIOS
 
