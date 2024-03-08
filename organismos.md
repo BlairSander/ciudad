@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Organismos
+# ORGANISMOS
 
 ORGANISMO ► PERSONAJES ► MUNICPIO
 
