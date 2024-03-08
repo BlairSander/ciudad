@@ -27,7 +27,7 @@ layout: default
 * ***Ciclo básico*** 1º - 12-13y ➜ 2º - 13-14y ➜ 3º - 14-15y  
 * ***Ciclo orientado*** 4º - 15-16y ➜ 5º - 16-17y ➜ 6º - 17-18y <br><br>
 
-*Ref. Ciclo orientado: Distintas tenencias orientativas afines a las carreras universitarias por las que los alumnos pueden optar.*
+*Ref. Ciclo orientado: Distintas tenencias orientativas afines a las carreras universitarias por las que los alumnos pueden optar.*<br><br>
 
 **<mark> Ed. SUPERIOR </mark>** . Otorgado por institutos de educación superior o universidades. Modalidades de educación superior: 
 * ***Educación técnico profesional:*** Dirigido a los alumnos con el título secundario y como alternativa a la universidad. Se otorga la titulación de Técnico/a superior. 
