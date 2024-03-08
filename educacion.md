@@ -8,7 +8,7 @@ layout: default
 
 ## NO-HUMANOS
 
-**<mark>Ed. ESPECIAL</mark>**
+**<mark> Ed. ESPECIAL </mark>**
 Tienen un sistema educativo diferente al de los humanos. 
 * ***Altavis:*** 
 * ***Lexvoays:*** 
