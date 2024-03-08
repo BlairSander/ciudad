@@ -15,6 +15,7 @@ layout: default
 [Varios](#varios)<br>
   
 ## EDUCACIÓN
+
 ||Facultades|
 |--|--|
 |**[⚫ Orfanato Magnolia](https://blairsander.github.io/ciudad/orfanato.html)** [Alen]|• Arquitectura y Urbanismo|
