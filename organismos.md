@@ -19,32 +19,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 Facultades: • Arquitectura y Urbanismo • Bellas Artes SEDE 1 • Bellas Artes SEDE 2 • Bellas Artes SEDE 3 • Cs. Agrarias y Forestales • Cs. Astronómicas y Geofísicas • Cs. Económicas • Cs. Exactas • Cs. Jurídicas y Sociales • Cs. Médicas • Cs. Naturales y Museo • Cs. Veterinarias • Humanidades y Cs. de la Educación • Informática • Ingeniería • Odontología • Periodismo y Com. Social • Psicología • Trabajo Social 
  
 ## GASTRONOMÍA
-- Comida Rápida ►
-- Hipermercado ► 
-- Supermercados ►
-- Minimercados ► 
-- Verdulería ► 
-- Carnicería ► 
-- Cafetería ► 
-- [Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html) ► Puerto Citrino
-    - Dueño: Herz 
-    - Administrador: Eliot
-    - Mesera: Esmeralda
-- [Restaurante](https://blairsander.github.io/ciudad/restaurantedemi.html) ► Puerto Citrino
-   - Dueño: Remi 
-   - Dean
-   - Ayudante: Purin
-- Golosinas ► 
-- Heladería ► 
-- Panaderías ► 
-- Restaurant mariscos/mediterraneo ► Puerto Citrino
-    - Empleada: Lezne 
-- [Restaurante](https://blairsander.github.io/ciudad/restauranteremi.html) ► Centro Blair
-   - Dueño: Remi 
-   - Ayudante: Purín 
-- Bar ► Puerto Citrino
-   - Encargado/Bartender: Gein 
-- Kioscos ► 
+[Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html) [Puerto Citrino] • [Restaurante](https://blairsander.github.io/ciudad/restaurantedemi.html) [Puerto Citrino] • [Restaurante](https://blairsander.github.io/ciudad/restauranteremi.html) [Centro Blair] • Comida Rápida • Hipermercado • Supermercados • Minimercados • Verdulería • Carnicería • Cafetería • Golosinas • Heladería • Panaderías • Restaurant mariscos/mediterraneo [Puerto Citrino] • Bar [Puerto Citrino] Encargado/Bartender: Gein • Kioscos 
 
 ## URBANISMO
 * Oficinas 
