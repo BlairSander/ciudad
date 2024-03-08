@@ -8,8 +8,7 @@ layout: default
 
 ## NO-HUMANOS
 
-**<mark> Ed. ESPECIAL </mark>**
-Tienen un sistema educativo diferente al de los humanos. 
+**<mark> Ed. ESPECIAL </mark>** Tienen un sistema educativo diferente al de los humanos. 
 * ***Altavis:*** 
 * ***Lexvoays:*** 
 * ***Gijinkas:*** 
@@ -30,7 +29,7 @@ Tienen un sistema educativo diferente al de los humanos.
 
 *Ref. Ciclo orientado: Distintas tenencias orientativas afines a las carreras universitarias por las que los alumnos pueden optar.*
 
-**<mark> Ed. SUPERIOR </mark>** </mark> Otorgado por institutos de educación superior o universidades. Modalidades de educación superior: 
+**<mark> Ed. SUPERIOR </mark>**  Otorgado por institutos de educación superior o universidades. Modalidades de educación superior: 
 * ***Educación técnico profesional:*** Dirigido a los alumnos con el título secundario y como alternativa a la universidad. Se otorga la titulación de Técnico/a superior. 
 * ***Carreras de grado:*** Universidades públicas/privadas aprobadas por la Comisión Nacional de Evaluación y Acreditación Universitaria. Tipos:
   * *Licenciaturas:* (de 4 a 6 años) Primer nivel de estudios universitarios.
