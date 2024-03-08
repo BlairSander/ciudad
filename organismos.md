@@ -36,7 +36,7 @@ layout: default
 ||• Odontología|
 ||• Periodismo y Com. Social|
 ||• Psicología|
-||• Trabajo Social |
+||• Trabajo Social|
 
 ## GASTRONOMÍA
 **[⚫ Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html)** [Puerto Citrino] **[⚫ Restaurante](https://blairsander.github.io/ciudad/restaurantedemi.html)** [Puerto Citrino] **[⚫ Restaurante](https://blairsander.github.io/ciudad/restauranteremi.html)** [Centro Blair] • Comida Rápida • Hipermercado • Supermercados • Minimercados • Verdulería • Carnicería • Cafetería • Golosinas • Heladería • Panaderías • Restaurant mariscos/mediterraneo [Puerto Citrino] • Bar [Puerto Citrino] Encargado/Bartender: Gein • Kioscos 
