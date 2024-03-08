@@ -29,7 +29,7 @@ Oficinas • Teatros • Hoteles • Hostel • Pensiones • Centro comercial �
 Sex Shop • Motel • Hotel • Lencería • Burdel • Prostíbulo Barato • Prostíbulo VIP • Club • Centro Audivisual • Autocine • Cyber • Línea Erótica (callcenter) • Venta drog • Restaurantes • Cafés • Locales de exibhición
 
 ## INTELIGENCIA ARTIFICIAL
-I.A. Nébula • I.A. Doxes • Sector de seguridad y desarrollo tecnológico [Turen] **[⚫ Pixipon]**(https://blairsander.github.io/ciudad/pixipon.html) [Centro Blair] • Pulsar • Muro Génesis • ONG IADA  
+I.A. Nébula • I.A. Doxes • Sector de seguridad y desarrollo tecnológico [Turen] **[⚫ Pixipon](https://blairsander.github.io/ciudad/pixipon.html)** [Centro Blair] • Pulsar • Muro Génesis • ONG IADA  
 
 ## CULTURA
 Museo de Ciencias Naturales ► 
@@ -52,7 +52,7 @@ Clubes-Complejos deportivos [Tadmor]  ►
 Club nocturno ► Centro Blair (Dueño: Izan)  ► 
 Club nocturno homo [Zona Roja] ► 
 Club nocturno [Zona Roja] (Jefe: Devi) ► 
-[Club nocturno Alter](https://blairsander.github.io/ciudad/nightclubalter.html) [Puerto Citrino] (DJ local: Partuza) ► 
+**[⚫ Club nocturno Alter](https://blairsander.github.io/ciudad/nightclubalter.html)** [Puerto Citrino] (DJ local: Partuza) ► 
 Bioparque ► 
 Acuario ► 
 Centro de escalada deportiva Kavensport ► 
