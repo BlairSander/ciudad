@@ -60,15 +60,19 @@ layout: default
 |• Cafetería|• Panaderías|
 |• Golosinas|• Kioscos|
 
+## INTELIGENCIA ARTIFICIAL
+
+|--|--|
+|**[⚫ Pixipon](https://blairsander.github.io/ciudad/pixipon.html)** [Centro Blair]|I.A. Doxes|
+|Sector de seguridad y desarrollo tecnológico [Turen]|Pulsar|
+|I.A. Nébula|Muro Génesis|
+|ONG IADA||
+
 ## URBANISMO
 Oficinas • Teatros • Hoteles • Hostel • Pensiones • Centro comercial • Tienda de ropas • Tienda de zapatos • Tienda de Electrodomésticos • Tienda de Accesorios • Tienda de Electrodomésticos • Bicicletería • Taller Gráfico • Mueblería • Juguetería • Óptica • Peluquerías • Automotores • Talleres (autos / motos) • Lavadero • Gimnasio • Funeraria • Grúas •  
 
 ## ZONA ROJA
 Sex Shop • Motel • Hotel • Lencería • Burdel • Prostíbulo Barato • Prostíbulo VIP • Club • Centro Audivisual • Autocine • Cyber • Línea Erótica (callcenter) • Venta drog • Restaurantes • Cafés • Locales de exibhición
-
-## INTELIGENCIA ARTIFICIAL
-I.A. Nébula • I.A. Doxes • Sector de seguridad y desarrollo tecnológico [Turen] **[⚫ Pixipon](https://blairsander.github.io/ciudad/pixipon.html)** [Centro Blair] • Pulsar • Muro Génesis • ONG IADA  
-
 
 ## VARIOS
 
