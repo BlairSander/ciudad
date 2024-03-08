@@ -4,8 +4,6 @@ layout: default
 
 # ORGANISMOS
 
-⚫ ORGANISMO [MUNICPIO] 
-
 |--|--|--|
 |[Educación](#educación)|[Zona Roja](#zona-roja)|[Varios](#varios)|
 |[Gastronomía](#gastronomía)|[Inteligencia Artificial](#inteligencia-artificial)||
@@ -133,4 +131,4 @@ Control energético ENSASA (Energía Sander Sociedad Anónima) ►
 Control de gas BEGAS (Blair Sander Gas) ►  
 
 <br>
-<small>CATEGORÍA: CPV: ConsumoPrivado / CPB:ConsumoPúblico / DC: Defensa Civil</small>
+<small>Referencias: ⚫ ORGANISMO [MUNICPIO]  <br> CATEGORÍA: CPV: ConsumoPrivado / CPB:ConsumoPúblico / DC: Defensa Civil</small>
