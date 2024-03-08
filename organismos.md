@@ -15,7 +15,8 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 - [Varios](#varios)
   
 ## EDUCACIÓN
-**[Orfanato Magnolia](https://blairsander.github.io/ciudad/orfanato.html)** [Alen] • Jardín maternal • Jardín de Infantes • Escuela • Colegio • Instituto Privado [Barrio Citrino] • Instituto Privado Serkei • Escuela de arte 
+**[Orfanato Magnolia](https://blairsander.github.io/ciudad/orfanato.html)** [Alen] ⚫ Jardín maternal ⚫ Jardín de Infantes • Escuela • Colegio • Instituto Privado [Barrio Citrino] • Instituto Privado Serkei • Escuela de arte.
+
 Facultades: • Arquitectura y Urbanismo • Bellas Artes SEDE 1 • Bellas Artes SEDE 2 • Bellas Artes SEDE 3 • Cs. Agrarias y Forestales • Cs. Astronómicas y Geofísicas • Cs. Económicas • Cs. Exactas • Cs. Jurídicas y Sociales • Cs. Médicas • Cs. Naturales y Museo • Cs. Veterinarias • Humanidades y Cs. de la Educación • Informática • Ingeniería • Odontología • Periodismo y Com. Social • Psicología • Trabajo Social 
  
 ## GASTRONOMÍA
