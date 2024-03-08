@@ -6,13 +6,13 @@ layout: default
 
 ⚫ ORGANISMO [MUNICPIO]
 
-- [Educación](#educación)
-- [Gastronomía](#gastronomía)
-- [Urbanismo](#urbanismo)
-- [Zona Roja](#zona-roja)
-- [Inteligencia Artificial](#inteligencia-artificial)
-- [Cultura](#cultura)
-- [Varios](#varios)
+[Educación](#educación)
+[Gastronomía](#gastronomía)
+[Urbanismo](#urbanismo)
+[Zona Roja](#zona-roja)
+[Inteligencia Artificial](#inteligencia-artificial)
+[Cultura](#cultura)
+[Varios](#varios)
   
 ## EDUCACIÓN
 **[⚫ Orfanato Magnolia](https://blairsander.github.io/ciudad/orfanato.html)** [Alen] • Jardín maternal • Jardín de Infantes • Escuela • Colegio • Instituto Privado [Barrio Citrino] • Instituto Privado Serkei • Escuela de arte.
