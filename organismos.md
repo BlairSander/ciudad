@@ -20,14 +20,18 @@ layout: default
 |--|--|--|
 |**[⚫ Orfanato Magnolia](https://blairsander.github.io/ciudad/orfanato.html)** [Alen]|• Arquitectura y Urbanismo|• Cs. Económicas|
 |• Jardín maternal|• Bellas Artes SEDE 1|• Cs. Exactas|
-|• Jardín de Infantes|• Bellas Artes SEDE 2|• Cs. Jurídicas y Sociales|
+|• Jardín de Infantes|• Bellas Artes SEDE 2|• Psicología|
 |• Escuela|• Bellas Artes SEDE 3|• Cs. Médicas|
-|• Colegio|• Cs. Agrarias y Forestales|• Cs. Naturales y Museo|
+|• Colegio|• Cs. Agrarias y Forestales|• Trabajo Social|
 |• Instituto Privado [Barrio Citrino]|• Cs. Astronómicas y Geofí.|• Cs. Veterinarias|
-|• Instituto Privado Serkei|• Human. y Cs. de la Edu.|• Informática|
-|• Escuela de arte.|• Periodismo y Com. Social|• Ingeniería|
-||• Trabajo Social|• Odontología|
-||• Psicología||
+|• Instituto Privado Serkei|• Cs. Jurídicas y Sociales|• Informática|
+|• Escuela de arte.|• Human. y Cs. de la Edu.|• Ingeniería|
+||• Periodismo y Com. Social|• Odontología|
+||• Cs. Naturales y Museo||
+
+
+
+
 
 ## GASTRONOMÍA
 **[⚫ Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html)** [Puerto Citrino] **[⚫ Restaurante](https://blairsander.github.io/ciudad/restaurantedemi.html)** [Puerto Citrino] **[⚫ Restaurante](https://blairsander.github.io/ciudad/restauranteremi.html)** [Centro Blair] • Comida Rápida • Hipermercado • Supermercados • Minimercados • Verdulería • Carnicería • Cafetería • Golosinas • Heladería • Panaderías • Restaurant mariscos/mediterraneo [Puerto Citrino] • Bar [Puerto Citrino] Encargado/Bartender: Gein • Kioscos 
