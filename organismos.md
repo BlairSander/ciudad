@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<h2>Organismos</h2>
+# Organismos
 
 ORGANISMO ► PERSONAJES ► MUNICPIO
 
-<h4>EDUCACIÓN</h4>
+## EDUCACIÓN
 - [Orfanato Magnolia](https://blairsander.github.io/ciudad/orfanato.html) ►  Alen
    - Dueña: Istar
    - Directora: Nerea  
@@ -43,7 +43,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 - Facultad de Psicología
 - Facultad de Trabajo Social
 
-<h4>GASTRONOMÍA</h4>
+## GASTRONOMÍA
 - Comida Rápida ►
 - Hipermercado ► 
 - Supermercados ►
@@ -71,7 +71,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
    - Encargado/Bartender: Gein 
 - Kioscos ► 
 
-<h4>URBANISMO</h4>
+## URBANISMO
 * Oficinas 
 * Teatros ► 
 * Hoteles ► 
@@ -96,7 +96,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Funeraria ► 
 * Grúas ► 
 
-<h4>ZONA ROJA</h4>
+## ZONA ROJA
 * Sex Shop ►  
 * Motel ►
 * Hotel ►
@@ -114,22 +114,8 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Cafés ► 
 * Locales de exibhición ► 
 
-<h4>EMPRESAS</h4>
-* Banco ► 
-* Diario ► 
-* Editorial ► 
-* Revista ► 
-* Cine ► 
-* TV Sede canal Música-Telerrealidad-Series ► 
-* TV Sede canal Noticiero-Informativo ► 
-* TV Sede canal Deportes ► 
-* TV Sede canal Cine, Series para adultos ► 
-* TV Sede canal Infantil-Animación-Series ► 
-* Radio ► 
-* YPS (Yacimientos Petrolíferos Sanderianos) ► 
-* Frigoríficos Alen (Matadero y Frigorífico) ► 
 
-<h4>INTELIGENCIA ARTIFICIAL</h4>
+## INTELIGENCIA ARTIFICIAL
 * I.A. Nébula ► 
    - Fundador: Fritz
    - Cofundador: Lester
@@ -150,7 +136,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * ONG IADA ► 
    - Fundador: Ray
 
-<h4>CULTURA</h4>
+## CULTURA
 * Museo de Ciencias Naturales ► 
 * Teatro 1: Danzas clásicas
 * Teatro 2 : Obras escénicas, cinematográficas, exposiciones
@@ -183,6 +169,7 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Parque de Diversiones
 * Casa de modas -Sede (Nisha)
 
+## VARIOS
 
 <h4>ORDEN</h4>
 * Comisaría (Policía) ►  
@@ -192,11 +179,9 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Gendarmería Nacional ► 
 * Cementerio ► 
 
-
 <h4>COMUNICACIONES</h4>
 * Telefonía ►  
 * Correo ► 
-
 
 <h4>TRANSPORTE</h4>
 * Taxi ► 
@@ -222,6 +207,21 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Municipalidad central
 * Subsecretaría de Desarrollo Humano y Social ► 
 
+<h4>EMPRESAS</h4>
+* Banco ► 
+* Diario ► 
+* Editorial ► 
+* Revista ► 
+* Cine ► 
+* TV Sede canal Música-Telerrealidad-Series ► 
+* TV Sede canal Noticiero-Informativo ► 
+* TV Sede canal Deportes ► 
+* TV Sede canal Cine, Series para adultos ► 
+* TV Sede canal Infantil-Animación-Series ► 
+* Radio ► 
+* YPS (Yacimientos Petrolíferos Sanderianos) ► 
+* Frigoríficos Alen (Matadero y Frigorífico) ► 
+
 <h4>OTROS</h4>
 * Organismo Regulador de Aguas BS (agua potable y desagües cloacales) ► 
 * Vertedero ► 
@@ -229,7 +229,6 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 * Ingeniería y rehabilitación de servicios. Secretaría de Servicios Públicos ►    
 * Control energético ENSASA (Energía Sander Sociedad Anónima) ► 
 * Control de gas BEGAS (Blair Sander Gas) ►  
-
 
 <br>
 <small>CATEGORÍA: CPV: ConsumoPrivado / CPB:ConsumoPúblico / DC: Defensa Civil</small>
