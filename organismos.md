@@ -20,72 +20,16 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 Facultades: • Arquitectura y Urbanismo • Bellas Artes SEDE 1 • Bellas Artes SEDE 2 • Bellas Artes SEDE 3 • Cs. Agrarias y Forestales • Cs. Astronómicas y Geofísicas • Cs. Económicas • Cs. Exactas • Cs. Jurídicas y Sociales • Cs. Médicas • Cs. Naturales y Museo • Cs. Veterinarias • Humanidades y Cs. de la Educación • Informática • Ingeniería • Odontología • Periodismo y Com. Social • Psicología • Trabajo Social 
  
 ## GASTRONOMÍA
-**[⚫ Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html)** [Puerto Citrino] **[⚫ Restaurante](https://blairsander.github.io/ciudad/restaurantedemi.html)** [Puerto Citrino] **[⚫Restaurante](https://blairsander.github.io/ciudad/restauranteremi.html)** [Centro Blair] • Comida Rápida • Hipermercado • Supermercados • Minimercados • Verdulería • Carnicería • Cafetería • Golosinas • Heladería • Panaderías • Restaurant mariscos/mediterraneo [Puerto Citrino] • Bar [Puerto Citrino] Encargado/Bartender: Gein • Kioscos 
+**[⚫ Confitería Steipast](https://blairsander.github.io/ciudad/steipast.html)** [Puerto Citrino] **[⚫ Restaurante](https://blairsander.github.io/ciudad/restaurantedemi.html)** [Puerto Citrino] **[⚫ Restaurante](https://blairsander.github.io/ciudad/restauranteremi.html)** [Centro Blair] • Comida Rápida • Hipermercado • Supermercados • Minimercados • Verdulería • Carnicería • Cafetería • Golosinas • Heladería • Panaderías • Restaurant mariscos/mediterraneo [Puerto Citrino] • Bar [Puerto Citrino] Encargado/Bartender: Gein • Kioscos 
 
 ## URBANISMO
-* Oficinas 
-* Teatros ► 
-* Hoteles ► 
-* Hostel ► 
-* Pensiones ► 
-* Centro comercial ► 
-* Tienda de ropas ► 
-* Tienda de zapatos ► 
-* Tienda de Electrodomésticos ► 
-* Tienda de Accesorios ► 
-* Tienda de Electrodomésticos ► 
-* Bicicletería ► 
-* Taller Gráfico ► 
-* Mueblería   ► 
-* Juguetería ► 
-* Óptica ► 
-* Peluquerías ► 
-* Automotores ► 
-* Talleres (autos / motos) ► 
-* Lavadero ► 
-* Gimnasio ► 
-* Funeraria ► 
-* Grúas ► 
+Oficinas • Teatros • Hoteles • Hostel • Pensiones • Centro comercial • Tienda de ropas • Tienda de zapatos • Tienda de Electrodomésticos • Tienda de Accesorios • Tienda de Electrodomésticos • Bicicletería • Taller Gráfico • Mueblería • Juguetería • Óptica • Peluquerías • Automotores • Talleres (autos / motos) • Lavadero • Gimnasio • Funeraria • Grúas •  
 
 ## ZONA ROJA
-* Sex Shop ►  
-* Motel ►
-* Hotel ►
-* Lencería ► 
-* Burdel ► 
-* Prostíbulo Barato ► 
-* Prostíbulo VIP ► 
-* Club ► 
-* Centro Audivisual ► 
-* Autocine ►
-* Cyber ► 
-* Línea Erótica (callcenter) ► 
-* Venta drog ►
-* Restaurantes ►
-* Cafés ► 
-* Locales de exibhición ► 
-
+Sex Shop • Motel • Hotel • Lencería • Burdel • Prostíbulo Barato • Prostíbulo VIP • Club • Centro Audivisual • Autocine • Cyber • Línea Erótica (callcenter) • Venta drog • Restaurantes • Cafés • Locales de exibhición
 
 ## INTELIGENCIA ARTIFICIAL
-* I.A. Nébula ► 
-   - Fundador: Fritz
-   - Cofundador: Lester
-* I.A. Doxes ► 
-   - Dueño: Fritz
-* Sector de seguridad y desarrollo tecnológico ► Turen
-   - Fundadora: Awen
-   - Ingeniera: Franci
-   - Ingeniero: Izan
-   - Ingeniero: Lester
-   - Ingeniero: Dark
-* [Pixipon](https://blairsander.github.io/ciudad/pixipon.html) ► Centro Blair
-   - Fundadora: Costella
-* Pulsar ► 
-   -  Dueña: Tanis
-* Muro Génesis ► 
-   - Fundador: Kratzer
-* ONG IADA ► 
-   - Fundador: Ray
+I.A. Nébula • I.A. Doxes • Sector de seguridad y desarrollo tecnológico [Turen] [⚫ Pixipon](https://blairsander.github.io/ciudad/pixipon.html) [Centro Blair] • Pulsar • Muro Génesis • ONG IADA  
 
 ## CULTURA
 * Museo de Ciencias Naturales ► 
