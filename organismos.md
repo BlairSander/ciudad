@@ -15,42 +15,9 @@ ORGANISMO ► PERSONAJES ► MUNICPIO
 - [Varios](#varios)
   
 ## EDUCACIÓN
-- [Orfanato Magnolia](https://blairsander.github.io/ciudad/orfanato.html) ►  Alen
-   - Dueña: Istar
-   - Directora: Nerea  
-   - Empleada: Enzel
-   - Voluntario: Bernard
-   - Voluntaria: Emi
-   - Voluntario: Dean
-   - Voluntario: Purin
-- Jardín maternal
-- Jardín de Infantes
-- Escuela
-- Colegio
-- Instituto Privado (Todos los niveles) ► Barrio Citrino
-- Instituto Privado Serkei (Educacion especial-Todos los niveles) ► 
-   - Directora: Ezra
-- Escuela de arte
-- Facultad de Arquitectura y Urbanismo
-- Facultad de Bellas Artes SEDE 1
-- Facultad de Bellas Artes SEDE 2
-- Facultad de Bellas Artes SEDE 3
-- Facultad de Cs. Agrarias y Forestales
-- Facultad de Cs. Astronómicas y Geofísicas
-- Facultad de Cs. Económicas
-- Facultad de Cs. Exactas
-- Facultad de Cs. Jurídicas y Sociales
-- Facultad de Cs. Médicas
-- Facultad de Cs. Naturales y Museo
-- Facultad de Cs. Veterinarias
-- Facultad de Humanidades y Cs. de la Educación
-- Facultad de Informática
-- Facultad de Ingeniería
-- Facultad de Odontología
-- Facultad de Periodismo y Com. Social
-- Facultad de Psicología
-- Facultad de Trabajo Social
-
+**[Orfanato Magnolia](https://blairsander.github.io/ciudad/orfanato.html)** [Alen] • Jardín maternal • Jardín de Infantes • Escuela • Colegio • Instituto Privado [Barrio Citrino] • Instituto Privado Serkei • Escuela de arte 
+Facultades: • Arquitectura y Urbanismo • Bellas Artes SEDE 1 • Bellas Artes SEDE 2 • Bellas Artes SEDE 3 • Cs. Agrarias y Forestales • Cs. Astronómicas y Geofísicas • Cs. Económicas • Cs. Exactas • Cs. Jurídicas y Sociales • Cs. Médicas • Cs. Naturales y Museo • Cs. Veterinarias • Humanidades y Cs. de la Educación • Informática • Ingeniería • Odontología • Periodismo y Com. Social • Psicología • Trabajo Social 
+ 
 ## GASTRONOMÍA
 - Comida Rápida ►
 - Hipermercado ► 
