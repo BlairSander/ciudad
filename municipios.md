@@ -9,4 +9,4 @@ layout: default
 |2. Puerto Citrino | 7. Alen |12. Deacon|
 |3. Gialo | 8. Kepler |13. Tadmor|
 |4. Aster | 9. Turen |14. Delta|
-|5. Reverie | 10. Carmesí (Zona Roja) |15. Strega (Es una villa miseria, le dicen "La 15")|
+|5. Reverie | 10. Carmesí<br>(Zona Roja) |15. Strega<br>(le dicen "La 15")|
