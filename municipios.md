@@ -6,7 +6,7 @@ layout: default
 
 [![Plano](https://www.dropbox.com/scl/fi/vwtcvif2zzn2vyr7y0b2c/bs.jpg?rlkey=tvdeu0hl6xf36vpsri9jfn9cu&raw=1 'Ciudad BS')](https://www.dropbox.com/scl/fi/bbrpkgww6m8qfmcbku12d/bs.gif?rlkey=v6em3ubt0lsjbv3owip973qoq&raw=1)
 
-1. Blair Sander ciudad
+1. Blair Sander 
 1. Puerto Citrino
 1. Gialo
 1. Aster
