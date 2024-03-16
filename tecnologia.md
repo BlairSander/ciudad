@@ -32,14 +32,7 @@ layout: default
 [^1]: DTP: (dispositivo de transporte por pulsera). Este dispositivo sólo logra transportar hasta dos personas por vez. 
 
 |--|--|
-| <span style="color:#f2f2f2">________________________________________________________________________________________________________________________</span> <br><img src="https://64.media.tumblr.com/3c1e99aeb17abe6f2862a3e0f0a523e8/386aa3305a83c20a-50/s400x600/77040d6193acc2aadfeca44548efe5fda389d770.pnj"/> | **Artech:** Pulsera inteligente creada por Biocitec (laboratorio de Rehab). Es un biodispositivo que proyecta una pantalla táctil en la zona del antebrazo del usuario, a traves de la piel.Se activa y/o desactiva al hacer un movimiento en la muñeca. En la oscuridad se activa la pantalla lumínica y durante el día se activa una pantalla especial que presenta biopartículas de tinte opaco. <br><br>**Funciones y cualidades:** <br>Transportación. <br>Cambio de ropa. <br>Geolocalización. <br>Es sumergible. <br>Conexión con otros dispositivos. <br>Permite ser visible en la oscuridad. <br>Con funciones de móvil.|
-
-
-
- 
-<span style="color:orange">orange</span>  
-<span style="color:lime">lime</span>  
-<font color='red'>rojo</font>
+| <span style="color:#f2f2f2">_________________________________________________________________________________________________________________________________________________________</span> <br><img src="https://64.media.tumblr.com/3c1e99aeb17abe6f2862a3e0f0a523e8/386aa3305a83c20a-50/s400x600/77040d6193acc2aadfeca44548efe5fda389d770.pnj"/> | **Artech:** Pulsera inteligente creada por Biocitec (laboratorio de Rehab). Es un biodispositivo que proyecta una pantalla táctil en la zona del antebrazo del usuario, a traves de la piel.Se activa y/o desactiva al hacer un movimiento en la muñeca. En la oscuridad se activa la pantalla lumínica y durante el día se activa una pantalla especial que presenta biopartículas de tinte opaco. <br><br>**Funciones y cualidades:** <br>Transportación. <br>Cambio de ropa. <br>Geolocalización. <br>Es sumergible. <br>Conexión con otros dispositivos. <br>Permite ser visible en la oscuridad. <br>Con funciones de móvil.|
 
 ## NANOTECNOLOGÍA
 
