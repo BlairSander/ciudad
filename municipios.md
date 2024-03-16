@@ -4,7 +4,7 @@ layout: default
 
 <h2>Municipios</h2>
 
-![Municipios]([http://drive.google.com/uc?export=view&id=1KedMJhTEVZLlp2etTqdT7x3XUg6mzVrG](https://www.dropbox.com/scl/fi/bbrpkgww6m8qfmcbku12d/bs.gif?rlkey=v6em3ubt0lsjbv3owip973qoq&raw=1))
+![Municipios](https://www.dropbox.com/scl/fi/bbrpkgww6m8qfmcbku12d/bs.gif?rlkey=v6em3ubt0lsjbv3owip973qoq&raw=1)
 
 1. Blair Sander ciudad
 1. Puerto Citrino
