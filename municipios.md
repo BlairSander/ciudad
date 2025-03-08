@@ -8,5 +8,5 @@ layout: default
 |1. Blair Sander  | 6. Midsommar | 11. Kavensport|
 |2. Puerto Citrino | 7. Alen |12. Deacon|
 |3. Gialo | 8. Kepler |13. Tadmor|
-|4. Aster | 9. Turen |14. Delta|
+|4. Aster | 9. Levia ~~Turen~~ |14. Delta|
 |5. Reverie | 10. Carmesí<br>(Zona Roja) |15. Strega<br>(le dicen "La 15")|
